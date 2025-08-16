@@ -5,6 +5,7 @@ on:
   workflow_dispatch:  # Manual trigger
 permissions:
   contents: write   # 👈 allow pushing changes
+  pages: write
 jobs:
   update:
     runs-on: ubuntu-latest

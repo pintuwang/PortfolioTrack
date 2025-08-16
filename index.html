@@ -13,14 +13,19 @@
             .then(response => response.json())
             .then(data => {
                 let html = '';
-                for (const [firm, changes] of Object.entries(data)) {
-                    html += `<h2>${firm}</h2><ul>`;
-                    changes.forEach(change => {
-                        html += `<li>${change.date}: <a href="${change.link}" target="_blank">${change.title}</a></li>`;
-                    });
-                    html += '</ul>';
+                for (const [firm, info] of Object.entries(data)) {
+                    html += `<h2>${firm}</h2>`;
+                    if (info.changes.length > 0) {
+                        html += `<ul>`;
+                        info.changes.forEach(change => {
+                            html += `<li>${change.date}: <a href="${change.link}" target="_blank">${change.title}</a></li>`;
+                        });
+                        html += `</ul>`;
+                    } else {
+                        html += `<p>No new portfolio changes (last updated: ${info.last_updated}).</p>`;
+                    }
                 }
-                document.getElementById('updates').innerHTML = html || '<p>No new portfolio changes today.</p>';
+                document.getElementById('updates').innerHTML = html || '<p>No updates available.</p>';
             });
     </script>
 </body>

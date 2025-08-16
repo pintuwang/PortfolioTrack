@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Firm Portfolio Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Daily Portfolio Updates for Investment Firms</h1>
+    <div id="updates"></div>
+    <script>
+        fetch('updates.json')
+            .then(response => response.json())
+            .then(data => {
+                let html = '';
+                for (const [firm, changes] of Object.entries(data)) {
+                    html += `<h2>${firm}</h2><ul>`;
+                    changes.forEach(change => {
+                        html += `<li>${change.date}: <a href="${change.link}" target="_blank">${change.title}</a></li>`;
+                    });
+                    html += '</ul>';
+                }
+                document.getElementById('updates').innerHTML = html || '<p>No new portfolio changes today.</p>';
+            });
+    </script>
+</body>
+</html>

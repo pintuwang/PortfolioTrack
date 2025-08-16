@@ -10,7 +10,8 @@ firms = [
     "Sustainable Growth Advisers",
     "Spyglass Capital Management",
     "Frontier Capital Management",
-    "WhiteStar Asset Management"
+    "WhiteStar Asset Management",
+    "Berkshire Hathaway"
 ]
 
 # Function to scrape Google News for portfolio changes

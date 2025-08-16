@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 # Firms to track
 firms = [
@@ -31,6 +31,11 @@ def scrape_news(firm):
             changes.append({"title": title, "date": pub_date, "link": link})
     return changes
 
+# Get current timestamp in UTC, convert to +08 for display
+now = datetime.now(timezone.utc)
+tz_plus_8 = timezone(timedelta(hours=8))
+now_plus_8 = now.astimezone(tz_plus_8).strftime("%Y-%m-%d %H:%M:%S %Z")
+
 # Load previous updates
 try:
     with open("previous_updates.json", "r") as f:
@@ -43,12 +48,12 @@ updates = {}
 for firm in firms:
     new_changes = scrape_news(firm)
     prev_changes = previous.get(firm, [])
-    # Detect new changes by comparing titles (simple deduplication)
+    # Detect new changes by comparing titles
     new_titles = {change["title"] for change in new_changes}
     prev_titles = {change["title"] for change in prev_changes}
     new_entries = [change for change in new_changes if change["title"] not in prev_titles]
-    if new_entries:
-        updates[firm] = new_entries
+    # Include last_updated even if no changes
+    updates[firm] = {"last_updated": now_plus_8, "changes": new_entries}
     previous[firm] = new_changes  # Update previous
 
 # Save updates

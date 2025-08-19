@@ -2,31 +2,168 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Firm Portfolio Tracker</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #1a3c34;
+        }
+        h2 {
+            color: #005555;
+            margin-top: 20px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+            margin: 10px 0;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .no-updates, .error, .loading {
+            color: #555;
+            font-style: italic;
+            margin: 10px 0;
+        }
+        .error {
+            color: #cc0000;
+            background-color: #ffe6e6;
+            padding: 10px;
+            border-radius: 4px;
+        }
+    </style>
 </head>
 <body>
     <h1>Daily Portfolio Updates for Investment Firms</h1>
-    <div id="updates"></div>
+    <div id="updates" class="loading">Loading updates...</div>
     <script>
-        fetch('updates.json')
-            .then(response => response.json())
-            .then(data => {
-                let html = '';
-                for (const [firm, info] of Object.entries(data)) {
-                    html += `<h2>${firm}</h2>`;
-                    if (info.changes.length > 0) {
+        // Utility to format dates (e.g., "Tue, 20 Aug 2025 12:00:00 GMT" to "Aug 20, 2025, 12:00 AM")
+        function formatDate(dateStr) {
+            try {
+                const date = new Date(dateStr);
+                if (isNaN(date.getTime())) throw new Error('Invalid date');
+                return date.toLocaleString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric',
+                    hour: 'numeric',
+                    minute: '2-digit',
+                    hour12: true
+                });
+            } catch (e) {
+                console.warn(`Failed to format date "${dateStr}": ${e.message}`);
+                return dateStr; // Fallback to raw string
+            }
+        }
+
+        // Utility to escape HTML to prevent XSS
+        function escapeHtml(unsafe) {
+            return (unsafe || '')
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // Fetch JSON with detailed error handling
+        async function fetchJson(url) {
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    const text = await response.text();
+                    console.error(`Fetch ${url} failed: ${response.status} ${response.statusText}`);
+                    console.log(`Raw response from ${url}:`, text);
+                    throw new Error(`${response.status} ${response.statusText}${text.includes('<html') ? ' (likely HTML error page)' : ''}`);
+                }
+                const json = await response.json();
+                console.log(`Parsed ${url}:`, json);
+                return json;
+            } catch (error) {
+                console.error(`Error fetching ${url}:`, error);
+                throw error;
+            }
+        }
+
+        // Main logic
+        Promise.all([
+            fetchJson('updates.json').catch(error => {
+                throw new Error(`Failed to load updates.json: ${error.message}`);
+            }),
+            fetchJson('all_articles.json').catch(error => {
+                throw new Error(`Failed to load all_articles.json: ${error.message}`);
+            })
+        ])
+        .then(([updates, allArticles]) => {
+            let html = '';
+            if (!updates || Object.keys(updates).length === 0) {
+                html = '<p class="no-updates">No firms or updates available.</p>';
+            } else {
+                for (const [firm, info] of Object.entries(updates)) {
+                    html += `<h2>${escapeHtml(firm)}</h2>`;
+                    if (info.changes && Array.isArray(info.changes) && info.changes.length > 0) {
                         html += `<ul>`;
                         info.changes.forEach(change => {
-                            html += `<li>${change.date}: <a href="${change.link}" target="_blank">${change.title}</a></li>`;
+                            if (change.title && change.date && change.link) {
+                                html += `<li>${formatDate(change.date)}: <a href="${escapeHtml(change.link)}" target="_blank">${escapeHtml(change.title)}</a></li>`;
+                            } else {
+                                console.warn(`Invalid change format for ${firm}:`, change);
+                            }
                         });
                         html += `</ul>`;
                     } else {
-                        html += `<p>No new portfolio changes (last updated: ${info.last_updated}).</p>`;
+                        html += `<p class="no-updates">No new portfolio changes (last updated: ${formatDate(info.last_updated || 'Unknown')}).</p>`;
+                        const firmArticles = Array.isArray(allArticles[firm]) ? allArticles[firm] : [];
+                        if (firmArticles.length > 0) {
+                            const latestArticle = firmArticles.reduce((latest, article) => {
+                                try {
+                                    const currentDate = new Date(article.date);
+                                    if (isNaN(currentDate.getTime())) throw new Error('Invalid date');
+                                    const latestDate = latest ? new Date(latest.date) : new Date(0);
+                                    return currentDate > latestDate ? article : latest;
+                                } catch (e) {
+                                    console.warn(`Skipping article with invalid date for ${firm}:`, article);
+                                    return latest;
+                                }
+                            }, null);
+                            if (latestArticle && latestArticle.title && latestArticle.date && latestArticle.link) {
+                                html += `<p class="no-updates">Latest article: <a href="${escapeHtml(latestArticle.link)}" target="_blank">${escapeHtml(latestArticle.title)}</a> (${formatDate(latestArticle.date)})</p>`;
+                            } else {
+                                html += `<p class="no-updates">No previous articles with valid data found.</p>`;
+                            }
+                        } else {
+                            html += `<p class="no-updates">No previous articles found.</p>`;
+                        }
                     }
                 }
-                document.getElementById('updates').innerHTML = html || '<p>No updates available.</p>';
-            });
+            }
+            document.getElementById('updates').innerHTML = html;
+        })
+        .catch(error => {
+            console.error('Error loading updates:', error);
+            document.getElementById('updates').innerHTML = `
+                <p class="error">Error loading updates: ${escapeHtml(error.message)}</p>
+                <p class="error">Please ensure updates.json and all_articles.json are in the server directory and accessible. Check the browser console for details.</p>
+            `;
+        });
     </script>
 </body>
 </html>

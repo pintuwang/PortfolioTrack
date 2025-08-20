@@ -55,7 +55,7 @@
     <h1>Daily Portfolio Updates for Investment Firms</h1>
     <div id="updates" class="loading">Loading updates...</div>
     <script>
-        // Utility to format dates (e.g., "Tue, 20 Aug 2025 12:00:00 GMT" to "Aug 20, 2025, 12:00 AM")
+        // Utility to format dates
         function formatDate(dateStr) {
             try {
                 const date = new Date(dateStr);
@@ -70,11 +70,11 @@
                 });
             } catch (e) {
                 console.warn(`Failed to format date "${dateStr}": ${e.message}`);
-                return dateStr; // Fallback to raw string
+                return dateStr || 'Unknown';
             }
         }
 
-        // Utility to escape HTML to prevent XSS
+        // Utility to escape HTML
         function escapeHtml(unsafe) {
             return (unsafe || '')
                 .replace(/&/g, "&amp;")
@@ -84,7 +84,7 @@
                 .replace(/'/g, "&#039;");
         }
 
-        // Fetch JSON with detailed error handling
+        // Fetch JSON with error handling
         async function fetchJson(url) {
             try {
                 const response = await fetch(url);
@@ -109,7 +109,8 @@
                 throw new Error(`Failed to load updates.json: ${error.message}`);
             }),
             fetchJson('all_articles.json').catch(error => {
-                throw new Error(`Failed to load all_articles.json: ${error.message}`);
+                console.warn(`all_articles.json failed: ${error.message}. Using empty data.`);
+                return {}; // Fallback to empty object
             })
         ])
         .then(([updates, allArticles]) => {
@@ -161,7 +162,7 @@
             console.error('Error loading updates:', error);
             document.getElementById('updates').innerHTML = `
                 <p class="error">Error loading updates: ${escapeHtml(error.message)}</p>
-                <p class="error">Please ensure updates.json and all_articles.json are in the server directory and accessible. Check the browser console for details.</p>
+                <p class="error">Please ensure updates.json and all_articles.json are in the repository root and accessible. Check the browser console for details.</p>
             `;
         });
     </script>

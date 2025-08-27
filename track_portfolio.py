@@ -41,7 +41,7 @@ def scrape_news(firm):
         return []
     
     changes = []
-    last_24h = datetime.now(timezone.utc) - timedelta(hours=24)
+    last_24h = datetime.now(timezone.utc) - timedelta(hours=240)
     
     for item in items:
         title = item.title.text

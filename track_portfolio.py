@@ -9,7 +9,7 @@ firms = [
     "Sustainable Growth Advisers",
     "Spyglass Capital Management",
     "Frontier Capital Management",
-    "WhiteStar Asset Management",
+    "Strategy",
     "Berkshire Hathaway"
 ]
 

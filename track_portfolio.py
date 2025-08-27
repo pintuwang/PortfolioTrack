@@ -16,7 +16,7 @@ firms = [
 # Function to scrape Google News for portfolio changes
 def scrape_news(firm):
     yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
-    query = f'"{firm}" (buys OR sells OR aquires OR divests OR sold OR bought) (portfolio OR holdings OR investments) after:{yesterday} site:*.com | site:*.gov | site:*.org | site:yahoo.com | site:marketwatch.com -inurl:(signup | login)'
+    query = f'"{firm}" (buys OR sells OR acquires OR divests OR sold OR bought) (portfolio OR holdings OR investments) after:{yesterday} site:*.com | site:*.gov | site:*.org | site:yahoo.com | site:marketwatch.com -inurl:(signup | login)'
     base_url = "https://news.google.com/rss/search"
     params = {
         "q": query,

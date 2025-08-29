@@ -12,8 +12,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Clear previous_updates.json
-        run: rm -f previous_updates.json
+      - name: Create directories
+        run: mkdir -p src dist
+
+      - name: Verify files
+        run: |
+          ls -l package.json || echo "package.json not found"
+          ls -l tailwind.config.js || echo "tailwind.config.js not found"
+          ls -l src/input.css || echo "src/input.css not found"
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -24,6 +30,7 @@ jobs:
         run: |
           npm install
           npx tailwindcss -i src/input.css -o dist/output.css --minify
+        continue-on-error: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,23 +42,42 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 fake-useragent
 
-      - name: Run track_portfolio.py
-        run: python track_portfolio.py | tee debug_output.txt
+      - name: Run track_portfolio.py with retry
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 5
+          max_attempts: 5
+          command: python track_portfolio.py
+
+      - name: Verify debug_output.txt
+        run: |
+          ls -l debug_output.txt || echo "debug_output.txt not found"
+          cat debug_output.txt || echo "Failed to read debug_output.txt"
 
       - name: Upload updates.json
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: updates-json
           path: updates.json
 
+      - name: Upload all_articles.json
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: all-articles-json
+          path: all_articles.json
+
       - name: Upload debug output
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: debug-output
           path: debug_output.txt
 
       - name: Upload CSS output
         uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: css-output
           path: dist/output.css

@@ -1,51 +1,57 @@
 name: Daily Portfolio Update
+
 on:
-  schedule:
-    - cron: '0 12 * * *'  # Daily at 12:00 UTC
-  push:
-    branches: ["main"]
   workflow_dispatch:
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  schedule:
+    - cron: '0 0 * * *'
+
 jobs:
-  update-and-deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  update-portfolio:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Clear previous_updates.json
+        run: rm -f previous_updates.json
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          persist-credentials: true
+          node-version: '20'
+
+      - name: Install Tailwind CSS
+        run: |
+          npm install
+          npx tailwindcss -i src/input.css -o dist/output.css --minify
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-      - name: Install dependencies
+          python-version: '3.x'
+
+      - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 fake-useragent
+
       - name: Run track_portfolio.py
-        run: python track_portfolio.py
-      - name: Commit and push changes
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add updates.json previous_updates.json all_articles.json
-          git commit -m "Daily portfolio update" || echo "No changes"
-          git push || echo "No changes to push"
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        run: python track_portfolio.py | tee debug_output.txt
+
+      - name: Upload updates.json
+        uses: actions/upload-artifact@v4
         with:
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          name: updates-json
+          path: updates.json
+
+      - name: Upload debug output
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-output
+          path: debug_output.txt
+
+      - name: Upload CSS output
+        uses: actions/upload-artifact@v4
+        with:
+          name: css-output
+          path: dist/output.css

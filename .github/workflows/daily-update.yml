@@ -40,7 +40,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 fake-useragent
+          pip install requests beautifulsoup4 fake-useragent gnews
 
       - name: Run track_portfolio.py with retry
         uses: nick-fields/retry@v3
@@ -53,6 +53,7 @@ jobs:
         run: |
           ls -l debug_output.txt || echo "debug_output.txt not found"
           cat debug_output.txt || echo "Failed to read debug_output.txt"
+          chmod 666 debug_output.txt || echo "Failed to set permissions on debug_output.txt"
 
       - name: Upload updates.json
         uses: actions/upload-artifact@v4

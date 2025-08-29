@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-tracker",
+  "version": "1.0.0",
+  "description": "Portfolio tracking web app",
+  "scripts": {
+    "build": "tailwindcss -i src/input.css -o dist/output.css --minify"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}

@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime, timezone, timedelta
-from fake_useragent import UserAgent  # For user-agent rotation
+from fake_useragent import UserAgent
+import time
 
 # Firms to track
 firms = [
@@ -35,7 +36,6 @@ def scrape_news(firm):
         print(f"\n=== Debug: RSS Query for {firm} ===")
         print(f"Query URL: {response.url}")
         print(f"Response Status: {response.status_code}")
-        print(f"RSS Content (first 2000 chars):\n{response.content.decode()[:2000]}...")
         response.raise_for_status()
     except requests.RequestException as e:
         print(f"Error fetching news for {firm}: {e}, Status Code: {response.status_code if response else 'No response'}")
@@ -43,7 +43,7 @@ def scrape_news(firm):
     
     try:
         soup = BeautifulSoup(response.content, "xml")
-        items = soup.find_all("item")
+        items = soup.find_all("item")[:20]  # Limit to 20 articles
         print(f"Found {len(items)} articles in RSS feed for {firm}")
     except Exception as e:
         print(f"Error parsing RSS for {firm}: {e}")
@@ -154,11 +154,15 @@ for firm in firms:
                 print(f"Error finding latest article: {e}")
         else:
             print("No previous articles found.")
+    time.sleep(1)  # Delay to avoid rate limits
 
 # Save updates
 with open("updates.json", "w") as f:
-    json.dump(upates, f, indent=4)
+    json.dump(updates, f, indent=4)
 with open("previous_updates.json", "w") as f:
     json.dump(previous, f, indent=4)
 with open("all_articles.json", "w") as f:
     json.dump(all_articles, f, indent=4)
+
+print("\n=== Debug: Final Output ===")
+print(f"Updates saved to updates.json: {json.dumps(updates, indent=2)}")

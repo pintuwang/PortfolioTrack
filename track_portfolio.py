@@ -57,7 +57,7 @@ def scrape_news(firm):
             pub_date = None
         
        ' if (pub_date and pub_date > last_24h) and ("buy" in title.lower() or "sell" in title.lower() or "acquire" in title.lower() or "stake" in title.lower()):
-            changes.append({"title": title, "date": pub_date_str, "link": link})
+        changes.append({"title": title, "date": pub_date_str, "link": link})
     
     return changes
 

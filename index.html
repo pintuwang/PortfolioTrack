@@ -44,9 +44,7 @@
                     `;
 
                     if (info.changes.length === 0) {
-                        firmDiv.innerHTML +=រន
-
-                        += '<p class="text-gray-500">No new updates today.</p>';
+                        firmDiv.innerHTML += '<p class="text-gray-500">No new updates today.</p>';
                         const latestArticle = await findLatestArticle(firm);
                         if (latestArticle) {
                             firmDiv.innerHTML += `
@@ -93,7 +91,7 @@
                     try {
                         let dateStr = article.date;
                         if (dateStr.includes(',')) {
-                            dateStr = dateStr.split(',', 1)[1].trim();
+                            dateStr = dateStr.split(',')[1].trim();
                         }
                         const date = new Date(dateStr);
                         if (!isNaN(date) && (!latestDate || date > latestDate)) {

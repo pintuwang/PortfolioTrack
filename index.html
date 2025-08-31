@@ -22,7 +22,15 @@
     <script>
         async function loadUpdates() {
             try {
-                const response = await fetch('updates.json');
+                // Add timestamp and random number for stronger cache busting
+                const cacheBuster = `${Date.now()}_${Math.random()}`;
+                const response = await fetch(`updates.json?v=${cacheBuster}`, {
+                    cache: 'no-cache',
+                    headers: {
+                        'Cache-Control': 'no-cache',
+                        'Pragma': 'no-cache'
+                    }
+                });
                 if (!response.ok) {
                     throw new Error('Failed to load updates.json');
                 }
@@ -79,7 +87,9 @@
 
         async function findLatestArticle(firm) {
             try {
-                const response = await fetch('all_articles.json');
+                // Add cache-busting for all_articles.json too
+                const cacheBuster = new Date().getTime();
+                const response = await fetch(`all_articles.json?v=${cacheBuster}`);
                 if (!response.ok) return null;
                 const allArticles = await response.json();
                 const firmArticles = allArticles[firm] || [];

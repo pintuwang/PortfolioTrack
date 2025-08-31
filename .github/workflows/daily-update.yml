@@ -1,84 +1,74 @@
 name: Daily Portfolio Update
-
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 12 * * *'  # Daily at 12:00 UTC
+  workflow_dispatch:  # Manual trigger
 
 jobs:
-  update-portfolio:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Create directories
-        run: mkdir -p src dist
-
-      - name: Verify files
-        run: |
-          ls -l package.json || echo "package.json not found"
-          ls -l tailwind.config.js || echo "tailwind.config.js not found"
-          ls -l src/input.css || echo "src/input.css not found"
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install Tailwind CSS
-        run: |
-          npm install
-          npx tailwindcss -i src/input.css -o dist/output.css --minify
-        continue-on-error: true
-
+        
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
-
-      - name: Install Python dependencies
+          python-version: '3.10'
+          
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 fake-useragent gnews
-
-      - name: Run track_portfolio.py with retry
-        uses: nick-fields/retry@v3
-        with:
-          timeout_minutes: 5
-          max_attempts: 5
-          command: python track_portfolio.py
-
-      - name: Verify debug_output.txt
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run portfolio tracker
         run: |
-          ls -l debug_output.txt || echo "debug_output.txt not found"
-          cat debug_output.txt || echo "Failed to read debug_output.txt"
-          chmod 666 debug_output.txt || echo "Failed to set permissions on debug_output.txt"
-
-      - name: Upload updates.json
-        uses: actions/upload-artifact@v4
+          python track_portfolio.py
+          echo "Script execution completed"
+          
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [ -f "updates.json" ] && [ -f "all_articles.json" ]; then
+            echo "files_exist=true" >> $GITHUB_OUTPUT
+            if git diff --quiet updates.json all_articles.json 2>/dev/null; then
+              echo "has_changes=false" >> $GITHUB_OUTPUT
+            else
+              echo "has_changes=true" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "files_exist=false" >> $GITHUB_OUTPUT
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Display debug output
         if: always()
-        with:
-          name: updates-json
-          path: updates.json
-
-      - name: Upload all_articles.json
-        uses: actions/upload-artifact@v4
+        run: |
+          if [ -f "debug_output.txt" ]; then
+            echo "=== Debug Output ==="
+            cat debug_output.txt
+          else
+            echo "No debug output file found"
+          fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.files_exist == 'true'
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add updates.json all_articles.json
+          if [ "${{ steps.check_changes.outputs.has_changes }}" == "true" ]; then
+            git commit -m "Daily portfolio update - $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "Changes committed and pushed"
+          else
+            echo "No changes to commit"
+          fi
+          
+      - name: Upload debug output as artifact
         if: always()
-        with:
-          name: all-articles-json
-          path: all_articles.json
-
-      - name: Upload debug output
-        uses: actions/upload-artifact@v4
-        if: always()
+        uses: actions/upload-artifact@v3
         with:
           name: debug-output
           path: debug_output.txt
-
-      - name: Upload CSS output
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: css-output
-          path: dist/output.css
+          retention-days: 7

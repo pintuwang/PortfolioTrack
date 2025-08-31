@@ -1,26 +1,37 @@
 {
     "Polen Capital": {
-        "last_updated": "2025-08-31 16:36:11 UTC+08:00",
+        "last_updated": "2025-08-31 20:41:43 UTC+08:00",
         "changes": []
     },
     "Sustainable Growth Advisers": {
-        "last_updated": "2025-08-31 16:36:17 UTC+08:00",
+        "last_updated": "2025-08-31 20:41:49 UTC+08:00",
         "changes": []
     },
     "Spyglass Capital Management": {
-        "last_updated": "2025-08-31 16:36:23 UTC+08:00",
+        "last_updated": "2025-08-31 20:41:55 UTC+08:00",
         "changes": []
     },
     "Frontier Capital Management": {
-        "last_updated": "2025-08-31 16:36:27 UTC+08:00",
+        "last_updated": "2025-08-31 20:42:01 UTC+08:00",
         "changes": []
     },
     "Strategy Capital": {
-        "last_updated": "2025-08-31 16:36:34 UTC+08:00",
+        "last_updated": "2025-08-31 20:42:08 UTC+08:00",
         "changes": []
     },
     "Berkshire Hathaway": {
-        "last_updated": "2025-08-31 16:36:41 UTC+08:00",
-        "changes": []
+        "last_updated": "2025-08-31 20:42:15 UTC+08:00",
+        "changes": [
+            {
+                "title": "Custom watchlist performance reports with Berkshire Hathaway Inc. - Forecast Cut & Growth-Oriented Investment Plans - Newser",
+                "date": "Sun, 31 Aug 2025 04:04:54 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFFJNnNKWVdmR0hlWjJIa3VTaDNUS1Y5eEhyU1BNTmxhZFM2SHpPckhkQ25GbldmaTdrN1BtS29VVVZwYzE5azJyT2d1TTRlemVER2xEMXN1NnEzV3ViUFowQTE5b3ZfUEFRMng5VXZNNm8weDZDVUFtdzdnZ3ZSbHJMVEdHWHFURTUxNVpQcVJBNnd0NkdoNzlTRQ?oc=5"
+            },
+            {
+                "title": "Will Berkshire Hathaway Inc. stock go up soon - 2025 Volume Leaders & Long-Term Growth Stock Strategies - Newser",
+                "date": "Sun, 31 Aug 2025 09:57:07 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPejAwUGlCd2w2NWtlVkV5VjNwTndidmlhT0VseEt1MzA4OUtpSjBHRU9Xa1FKZ0p0NFFkZkNfSFVDbmJfeThIODVzT29xQURobTk1SnpadzV1S2ktSjk1RktNOG1ja3M4aHppWnNpS0ZsRnZ2cnNNU2FfVlV4WHZldmRlQnBadw?oc=5"
+            }
+        ]
     }
 }

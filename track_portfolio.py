@@ -34,7 +34,7 @@ firms_config = {
     "Sustainable Growth Advisers": ["Sustainable Growth Advisers", "SGA"],
     "Spyglass Capital Management": ["Spyglass Capital", "Spyglass Capital Management"],
     "Frontier Capital Management": ["Frontier Capital", "Frontier Capital Management"],
-    "Strategy Capital": ["Strategy Capital"],  # Fixed potential typo
+    "Strategy": ["Strategy","Saylor"],  # Fixed potential typo
     "Berkshire Hathaway": ["Berkshire Hathaway", "Warren Buffett"]
 }
 

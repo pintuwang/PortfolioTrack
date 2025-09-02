@@ -35,19 +35,6 @@
                     throw new Error('Failed to load updates.json');
                 }
                 const data = await response.json();
-                
-                // Debug: Show what data we're actually getting
-                const debugInfo = document.createElement('div');
-                debugInfo.className = 'bg-yellow-100 p-3 rounded mb-4 text-sm';
-                debugInfo.innerHTML = `
-                    <strong>Debug Info:</strong><br>
-                    Response URL: ${response.url}<br>
-                    Timestamp: ${new Date().toISOString()}<br>
-                    Sample firm timestamp: ${data['Polen Capital']?.last_updated || 'Not found'}<br>
-                    Cache-Control: ${response.headers.get('cache-control') || 'None'}
-                `;
-                document.body.insertBefore(debugInfo, document.body.firstChild);
-                
                 const updatesDiv = document.getElementById('updates');
                 updatesDiv.innerHTML = '';
 

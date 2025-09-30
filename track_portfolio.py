@@ -31,9 +31,9 @@ except Exception as e:
 # Firms to track with alternative search terms
 firms_config = {
     "Polen Capital": ["Polen Capital", "Polen Capital Management"],
-    "Sustainable Growth Advisers": ["Sustainable Growth Advisers", "SGA"],
-    "Spyglass Capital Management": ["Spyglass Capital", "Spyglass Capital Management"],
-    "Frontier Capital Management": ["Frontier Capital", "Frontier Capital Management"],
+    "Fairfax Financial Holdings": ["Fairfax Financial Holdings", "FFH.TO"],
+    "Markel Group": ["Markel Group", "MKL"],
+    "Pershing Square Holdings": ["Bill Ackman", "Pershing Square Capital Management"],
     "Strategy": ["Strategy","Saylor"],  # Fixed potential typo
     "Berkshire Hathaway": ["Berkshire Hathaway", "Warren Buffett"]
 }

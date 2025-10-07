@@ -1,68 +1,93 @@
 {
     "Polen Capital": {
-        "last_updated": "2025-10-06 20:49:17 UTC+08:00",
+        "last_updated": "2025-10-07 20:49:04 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2025-10-06 20:49:23 UTC+08:00",
+        "last_updated": "2025-10-07 20:49:11 UTC+08:00",
+        "changes": []
+    },
+    "Markel Group": {
+        "last_updated": "2025-10-07 20:49:20 UTC+08:00",
         "changes": [
             {
-                "title": "Debt Exchange and Share Buyback Could Be a Game Changer for Fairfax Financial Holdings (TSX:FFH) - simplywall.st",
-                "date": "Sun, 05 Oct 2025 19:00:59 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONTZYU3B5UnNTYTlMNng5X1Z1UUVKUHgwV3Z1TWtYUG1kcUY0LVRFQ0VoRV83ZThieWhGR3FGR3FwVldtYmZjeHA3OXhyQWZjQW5nSEVsVEdmWTBXcFFmQzdWR3VGZzVHaThtUzNKd1RGMlM0NVU1dUJqV181dWV1X2MzZ0NoM2l1cWlWM1hKdUt6R2N3VTNzVDJ6cW5TZnowbkQ1YzhSY3M1RWpleHBaUUR2WkZzLXpWUmNqRHg5cUVfX0NIcVJ3aW1jM2NaTnJNWFdOTGhkT0RkLXB3S3NaLUNn0gHnAUFVX3lxTE54QjlvRFVTUHBtZ2J5QnJSckc0Y2FtLWpRUU5teWlvekxsbWN5cG9aSDJwQUtEU2MxSWZ3c2duTTBrcGxpaG1KbnMzZGN5eXREWW50U2pwUWJvbWF0SWJtYU5fUkc5RkJ6TmdnU3NfWXozOGlEeXBUa3ViRmRNTE5RajdkQloxZFpXNmtRVVVIOE9oTWVZa1ZWenVBTkpwTmhrY3BNdENhVGNHNGZKNmlid1dRUVlpdHR5S2FqWnQyLS05NkJFNWFUcnZYTUZxUERvN3BLb1pzTGhpMkgwOEd3UGJBVmxCRQ?oc=5"
+                "title": "Markel Group Inc. $MKL is Mraz Amerine & Associates Inc.'s 5th Largest Position - MarketBeat",
+                "date": "Tue, 07 Oct 2025 09:53:17 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVC1qb0FDQnROb0o2U19ZZjJUVmxpTHdtQ1VKdEYySjZQTXB0ejA4S1ZxOVc5Q0Q4R0E3S09ldV9KMk1BLUVCMFlRdmpJb1huLWI1aFRUOVkyZUlQaGZBLWhtMXd1clJEQ3dWXzd3WTVQaGFYVERJb3pYUWhQbFlxSmg0VGJuaEtZWTVPdzBZYkhxaVA3NG81N2ZvOWNoRXlsc2lYNi03RWtmN2xRZFlGSG0yWXVPcXRGcHVhN1AwbUxpQ19SZnJTdUVaZktYQmM?oc=5"
+            },
+            {
+                "title": "Markel Group Inc. $MKL is DAVENPORT & Co LLC's 4th Largest Position - MarketBeat",
+                "date": "Mon, 06 Oct 2025 09:47:20 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUtGTkNpNE8zSG9MTjRFeG0yM3o5U3FGQXNUdF9qTXl3Wk9OMFd1OXBlZ2t5Vl9XNjNoTkRYMmp4QVlmNmdRYnNScGktZW82RklnQllEY0JTZjN2SUNmRkFYS095V19ubkVQWE83M0ppZVpjcnUyaEMxbV80QzBXY0Fxbk9yWTFYRkx2emNVd2haaExXLWNRVk5PdElnV0ZwQjRlLVkwcGR1VHJuZUJaYXdlUGRZV0ZIT21xZTByeWQ?oc=5"
             }
         ]
     },
-    "Markel Group": {
-        "last_updated": "2025-10-06 20:49:29 UTC+08:00",
-        "changes": []
-    },
     "Pershing Square Holdings": {
-        "last_updated": "2025-10-06 20:49:34 UTC+08:00",
+        "last_updated": "2025-10-07 20:49:26 UTC+08:00",
         "changes": []
     },
     "Strategy": {
-        "last_updated": "2025-10-06 20:49:40 UTC+08:00",
+        "last_updated": "2025-10-07 20:49:31 UTC+08:00",
         "changes": [
             {
-                "title": "Kaixin Holdings Establishes Digital Asset Management Department to Enhance Crypto Investment Strategy - Quiver Quantitative",
-                "date": "Mon, 06 Oct 2025 11:42:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObXlLY3FvVkxuVnRQeEp5UFdmcDVtbnoyMlppOG5QajJ1cmVfLWFhWDlQVDl2STdmdFV2bUMyOFhRem5RazQydWgyMnhlLUZsRE5nZnNnYjFLMHVFTTQ3N09NcW94Q1VPMDV5dGNMbHE3NmlHQVRFb2pGRlNHTWRXNmRobmw4SE5OYnl2cEFmbnRVTGhQSjRwUlk4ZWNhbnBCOC1IUW1yREdoaE5NRjRocDRTU2doLWRvU2VlM01UVEY5UUEwY3BablhLMDFNZVU?oc=5"
+                "title": "Insider Purchase: Chief Strategy Officer of $CALM Buys 100 Shares - Quiver Quantitative",
+                "date": "Tue, 07 Oct 2025 00:02:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckhIeUxINmk4VU1vNmNFYjJwUncyZ3NJejhHamxJWHFCNHBDS2h3NWMwNHkwTUNBSTdHTHRlZ05ydTJIQ2dad3hfak5FUTRMX0taM1VoNkNYS2lYc3cxdjRZdEJBSHAyOWNrZHUzX0UwWDJUb2JvOUUwX0tGb2JvTzVNbUQ2alctakV5bXlXYjJ5aVhfTW12VGF5WTRPbjBnXzREUQ?oc=5"
             },
             {
-                "title": "BTO: Efficient Portfolio Strategy Makes This A Solid Long-Term Fund (NYSE:BTO) - Seeking Alpha",
-                "date": "Mon, 06 Oct 2025 07:35:34 GMT",
-                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjY1Q1dMdDhYdDdkeEVEeFRmWmlmQ2VrNXYtbkViU19iYnFTWnpLMnJkWFJKNFJTZnNIbXp5amFqUUpCVDdnWnY5TF9vV0ZjOTdVZExQWFlIQUdNNkpjOHhOXzhMenpFOG00Y3NsTU9tVTNLODFXY0dBZDhpMEFFR0NSNGRkTV9YM003VmZKWDBGeU1jZURpaHVDSVVTOGJ4VHc4Sk55NjFCR19hVmc0RQ?oc=5"
+                "title": "Bitcoin Surges Past $124,000 as Strategy Expands Treasury Holdings to $47 Billion - Reuters",
+                "date": "Mon, 06 Oct 2025 16:11:16 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORmJsaHhEaVNWMGRJSW5TNTNRZWZYY1d3ZnFxSzNYamJEYzBNVTZhdEhBS0xUNTgwdnlhVVp6aFFjSmNfM0NiazA4cEc0MThmZk9xRXlUMFFYLXA1enkwcWNWTjZGOXVmNG1vSW5RSTdCcXVyOEJMU3dvOXlNMEJmLUZ5SGI3aEt5LWV1am9VVHNjX1Rf?oc=5"
             },
             {
-                "title": "Strategy Inc. Increases Security Program Cap for 2025 - TipRanks",
-                "date": "Mon, 06 Oct 2025 12:22:27 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmh3QXpseXRBd25XeEFzelQ2ckhoNW5Jekd1cm5vTWZhM2ZMZ0ZIQS1OVEdkSmRFeFpxWUlTdnNvRzVVZnN3ckdJUW80WXMwNHFxZXBuNUhHUkxPN3o0SFFMZzVzczBCcFB6Vy1wQzg2dHBJY0drdG9KOUd3VEt5RHpBNFNUYVp2akYzNVYzbzNxSFMxZm8zWnlRUWZNRFdhU2hTSVpFcw?oc=5"
+                "title": "Strategy Buys No Bitcoin While Making $140 Million in Dividend Payments - Decrypt",
+                "date": "Mon, 06 Oct 2025 15:14:18 GMT",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHVjRnJVS1BNc043c2NMLU5LNmVpWnNLOHplYzFUY1RZM0JpNkQyYVgwQ0ZiX2x5N0hXdlFWRFJDMGxQWXlxV1dndzdwdXFKVkpKV3JCVDdRTlZCOWpvZFRXc2tDRmJHS01sVHVtdWJvZlBVS1R3NnlzYXJXeVNlSjVpa2lyc1p1a3hLdFhNWUTSAZgBQVVfeXFMTTBXbm45X2pZQ3k5czVRNjRSMVBya1FiSndmaHR0WFZsZjY2emtiMVNQWmRYUFF5X1NUTHJvdV9JVnFlaVVLV2pfUUdNaUQzdVBHNkxvTkVLVjVGREpJSkpOaUZSV2lEaThBOFJUdzN6bnUtVFRqX1RtNzJsR0E4RHRMOXpiRzROdmdaM1JBSHNUVERBaTRlLWQ?oc=5"
             },
             {
-                "title": "Swoop Holdings (ASX:SWP): Can Its Debt Strategy Strengthen Its Future? - Kalkine Media",
-                "date": "Mon, 06 Oct 2025 07:49:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUNJRUx2bXRyYU9vWEFybE1pamY4cWVMVXc4OE9BSWZuXzRuUnp3UmJsckFxOHZGdFN0cDZDM2tLc0hxMmVPbHBfaW5jd3ctbmhCQUktanQtcnJ4NlVvRk1xOGJBSXZqTlJhdGZnRXkyREd1SFVET3JHQWJDYmFaS3BFOUJXb3hXZzZhS2dPU2ppTy1SZHJlVmF3RzhXYVY5cndSQ3Zmc1phbmVLZWFSeHdfYno?oc=5"
+                "title": "Long-Term Crypto Strategy: Black Titan to Pursue Digital Currency Investments, Mining and Fintech M&A - Stock Titan",
+                "date": "Mon, 06 Oct 2025 20:15:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGlNMG1YVEFLZkZPd19ZUmNRbWFEa1pPNVlYZnBjWlUxdDlIci1yQjJtVi1ZUDZ2NnpZNU83cEFxTjJzdmlXbXNQaFhoUm9ZSi1lRUh6UWl4WVBiRUREb2s5YnJGTUE4VWx5bGltWk9pN2I0LVk3SjBEVkRiN3B0MUl5cVlaTV9HR0VJRHdpV3o5eHVtUXV0RWtnWk9Fc3BpY2l1bWhZTkxjSHMyblk4eTFIb2p3VmtmZzBlel9Nbw?oc=5"
+            },
+            {
+                "title": "BitMine Expands Ethereum Holdings, Strengthening Its Position in Crypto Treasury Strategy - MSN",
+                "date": "Mon, 06 Oct 2025 16:02:34 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWWxYS0p1ZmhoMXRBUHNfelFkZ083cC1KdDRpTERkVXpVSVVsNFBMWFJ3UWMyM2QzMVVVMy1Gd25YTmRDR290UWpDb1NBVjdOTGtNNWxsTllBWTJobkhoem80VW9VZ0w5djh4ZzFyRDhtZmppZ1NZRlFjeDJycThoc21ZNG5XV0p5b3lHdDB0dkEtTzhjSmphTGk4dXN6NGxtd0JCV2JTLTFoS3pleERsbzlRMnFsbEYxTUczVWdaSUNvNkhBV0Y4azF4bkxiVnpMWGlwYmtSWjhYaTRva211V1FtdE9JRnBlZWlzb084UXdzSENmMV9wZ2hKT2k?oc=5"
+            },
+            {
+                "title": "Strategy Reports $3.9B BTC Gains for Q3 as Bitcoin Enters Price Discovery - Coinspeaker",
+                "date": "Mon, 06 Oct 2025 18:33:45 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVhYc1EyWWFpRnJIOWxlNHFwZmhBTWIxU1NQWUh0R2Q3b2dKNVM4UUNHT2QxdHNqOV9OcFJrZjluV2gyTnZtUXdXYURCMnI3YTdYXzI2MkZlYVZhNWNsXzFiQWxXdkV1Mnl4UVhBcUxvR1VYckVfSzgzSW4yOUlxRVRTb1pIenVjM3lFaTZORXBKRjd3dWdXT3RTQUFlQnA1Rkd30gGoAUFVX3lxTE45RnlEd3VnaVNqUmt3dC1VbU1LX3BhWFd6LXU0Uklja0g4a0RNNGs2N3BYLVJubnJHZllNVEFrTTZkNlRpTjhUZk9zN0Q1ZDBZdlE1eTJyY3dmNDZZVmNrZWRRTXZSV0pfbkE4OC1jODJvREhIdmY1RXFFSjgzejZVRTd1MmRqR2E1MTNGbWNETm9RaHh4Y0dobUdLYVlvbElOM0QwbGxpcQ?oc=5"
+            },
+            {
+                "title": "Solana Company (HSDT) Stock: Soaring on $525M Treasury Strategy Fueled by SOL Holdings - CoinCentral",
+                "date": "Mon, 06 Oct 2025 17:34:18 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOV9YeWRneWs1WHdvaWVUTGU1a1poMFc3dDVRdjRjeURXS1ZEQkNCSFdsV2c1ejdfZ2ltdlFfWEg2V3ZjYzdVdDlGVEIwbzdkbHRDbG9kaGxtWDByUDRCUVhDLU56cDltTEZzUjRhTmVWQkY0SjVJcm9KNnZxWGg1VnZadkJCaU9nLTNNeEJka1NqaVVqWXY3TThDdmRSc2ZJVkdmcjFBQWJNMU0?oc=5"
+            },
+            {
+                "title": "Here\u2019s Why ClearBridge Large Cap Growth Strategy Exited Its Position in Workday (WDAY) - Yahoo Finance",
+                "date": "Mon, 06 Oct 2025 14:07:39 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjJXUmRDZnJvRXpFU1JvN1dWQTl5cDE3NUNBS1p3bVd4QWJ6SjVDZWVJRmUydnVBa0xESDdMSmVhUTVhZXYwMS0zNS0xdzBva1lDWWhNNGVFdlRiTWZmRnlic21EWVhoLWpGQkRPVTBPaFBjbWVBM0dVT1VHemR4WXVYUkc?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2025-10-06 20:49:44 UTC+08:00",
+        "last_updated": "2025-10-07 20:49:38 UTC+08:00",
         "changes": [
             {
-                "title": "1 Warren Buffett Quote That Makes Me Excited to Buy Berkshire Hathaway Stock - The Motley Fool",
-                "date": "Sun, 05 Oct 2025 17:30:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXNhTnJkb1EwbFpEVDBxekwwRk5xVHN4NWlCdV8wSUlYMmFSRUtZVkFPMkFXbE0zczB0Z1k4UUR0cmpIMlJkZnZfWEZDTG43MExzRWlfVG51bGN1ZDRFUkZXak9sYzM2YmwwMU43cWprUGE3Nk03V3RlYVZTTUN2ZDdIbHhBSjFoZ3NodGxOdFhOUUVBMnlaSg?oc=5"
+                "title": "Is Warren Buffett's $9.7 Billion Acquisition of OxyChem an Act of Brilliance or a Big Mistake for Berkshire Hathaway Investors? - The Globe and Mail",
+                "date": "Tue, 07 Oct 2025 09:09:22 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNMXgzbFJScXJMRlpJVFh1MXpUTG1mZFRrZmFKdlU4QlkzNTJvaEIzSnN0dTZDeldSRkpfb2FKa1pkOXJhWllMcnpDTUR4cEVtSjdmRlBYY2daMDEtb0FUUGYxQUNKa2Y4SmFRZW5mTVVPc0o5d3pNVHhWcGVRZTd4bzdieklOXzF3eUkxVFduMWY1WmU3R0RjMkRBUmZXUDZpTFJXVXdhaElWa3VfbWZUVjFUdzVNVWlFMENZNVVybEprVHhYQmFlZTZWNEE4bWRiYXFZQ09UYVU4alcyTnptbG5BdU50SzFqWDl5ZWgzRThCYnQ3bVpacWJ5UWZMbmFRQmVTQXZ1SFpGUXpsdFB2dWl5TVY5TklnNVY1b1laU1NiT0wzWXRrSzRiUml4bDR3WnJZUWV3Zw?oc=5"
             },
             {
-                "title": "33.5% of Warren Buffett's $304 Billion Portfolio Is Invested in 4 Artificial Intelligence (AI) Stocks - The Globe and Mail",
-                "date": "Sun, 05 Oct 2025 09:17:22 GMT",
-                "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdklxOXVERmJlQmpqc19Ed0VSTGc5bUdnb3MtckcxT0g2d3ZKZXc1UHBHTHBQMklsQjBQclFlLUVBV05fVVhvczk3aWFZYjF1QVZZUTV0dk03UkZ0QWUtRlREeXRSYndxVUFVS3FRVWQ4bllSZ0xiRFZiZ0FiWHZHMUdhUlc4SmFjQm82WWJHX0R2dFkySHNPTTAzenRRSFEyQVBKZ0QtLXZ4a1pGX01OMzNpY2lUMFN2eDN0bzAxN1N6UUM1UDU2b3RtR2FQMUVZazg5YlFRbFRxbnJ0dmZZNmc0VXJrUDZOSVJacGlmb2kzenltQWZhS2tDYWlUZ0drSHIwTW1sS0k3dW5uZXlJZQ?oc=5"
+                "title": "Warren Buffett\u2019s Top Pick for Most Investors Isn\u2019t a Stock \u2014 It\u2019s This Simple Fund - Yahoo Finance",
+                "date": "Sat, 04 Oct 2025 23:22:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DVDZfYkdNRXM0UzNiY2F5cVMxdmpsS1ktam5fOXJxblkxeEtzdU5aNmNRZ1VEQUFJVFQyNnBDMXh3aHlseXZ6TzA3dlBwQmJrRld0dWQzam4tX3BPVVBiWC1xYkNmdW9UN1JaemoyRmFRa2lOSWJDc00ySW4?oc=5"
             },
             {
-                "title": "Warren Buffett Is Sending Investors a $340 Billion Warning. History Says the Stock Market Will Do This Next. - Yahoo Finance",
-                "date": "Sun, 05 Oct 2025 09:55:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2RYUTJxYVhpRXZtMDExbHJPQ2UtWWlSZmhBaGdOcXdCTXJJZzg3TklMbzF2b3owS2tLNXVEWmJ5ZDRuMHNCY3ZPeXFoZVIydE9hV0JvTWV4Y2Rfc1BxMDd5UUNfb3BXRGFKZmJ2RUV3NXdTSEx4NkVtdjE0Vm5IMUdIRUNIWXJocUE?oc=5"
+                "title": "The Best Warren Buffett Stocks to Buy with $1,000 Right Now - The Motley Fool",
+                "date": "Mon, 06 Oct 2025 01:45:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXB4Nkx4N3YyVy1WLWowNmRYb0s2Y1o3S2hjYWstUDExLU5EbnBoVzJxOFZ4YVV4a2xRM0NRZHJKRE8wVUk1ZC0wb1k4WG9ReC13V1VaTEd1Y1dzTUQzQWYyalRCMkdKMUVkSkJqNmVWVW1KLTFycVNZM2ZYVkZqVmFWUU50NGJSRFpMdDlXLUVwQWlrRWpuZQ?oc=5"
             }
         ]
     }

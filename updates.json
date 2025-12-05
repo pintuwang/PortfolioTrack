@@ -1,62 +1,69 @@
 {
     "Polen Capital": {
-        "last_updated": "2025-12-04 20:54:43 UTC+08:00",
+        "last_updated": "2025-12-05 20:51:52 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2025-12-04 20:54:49 UTC+08:00",
+        "last_updated": "2025-12-05 20:51:59 UTC+08:00",
         "changes": []
     },
     "Markel Group": {
-        "last_updated": "2025-12-04 20:54:54 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2025-12-04 20:55:00 UTC+08:00",
-        "changes": []
-    },
-    "Strategy": {
-        "last_updated": "2025-12-04 20:55:07 UTC+08:00",
+        "last_updated": "2025-12-05 20:52:03 UTC+08:00",
         "changes": [
             {
-                "title": "Asia Morning Briefing: Polymarket Bettors Still Expect Big Strategy Buys Even as Saylor Prepares for a Weak Market - CoinDesk",
-                "date": "Thu, 04 Dec 2025 02:29:07 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbko5d25mR0pkVFA2UjB4MHE2WWhCRWxkUnVXMlQzUkthalJMNHZHdXdxa3Z1c0JHMkFNbEpsWHpubF9KWGVkSFJMRkdFaDRjcmg3QzhGT1hPdlp1TDJIcVZFZXNnYmdTT1hhOGk4OXR2MEN6SjFUSjl5NjNVT202MkQ4Z1NhclRsZkhFUWFmSmE2cHI3MEdXMTFJaHNzdXpWbXZtUGRmcXA3Z2xpdlVOZW1OUV9LSm02LXl2TWNMRW96bnh5enJMdExaWWE4S1NwSURubW5yc1hHajgtNWpVRkg0RVZ4cmlNT3dqUHdn?oc=5"
+                "title": "Epoch Investment Partners Inc. Has $228.22 Million Position in Markel Group Inc. $MKL - MarketBeat",
+                "date": "Fri, 05 Dec 2025 09:56:17 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTERCTEZvc3JYcmtYSHNJNlFmcEVRb01mdTllaHhScmRSZVRBcHlsX0N4NEJRd2hDQzZQZ1ZiRGg4US1ySjFmSEdpSjBHSUhwY3lBSnJjYXdRU0VqT3R5V3JucU56QWV3S1BtRFJKaDRqWE16SUl5amdNdUtoVnlMc0NJZE1lTF9OTVY0bDBuLWo4dXhMSHZ3ejhDYlJqMUp0QUxoYU5oa1J1VDFQaV9od0MwMWxZSHlSQVZiUXlDNENQcVowZnFNZG5UbExpdkVIQVhDMnhOdlo?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2025-12-05 20:52:09 UTC+08:00",
+        "changes": [
+            {
+                "title": "Tracking Bill Ackman\u2019s Pershing Square 13F Portfolio \u2013 Q3 2025 Update (OTCMKTS:PSHZF) - Seeking Alpha",
+                "date": "Fri, 05 Dec 2025 01:27:56 GMT",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd05EUDh5VlJTLWhCY3B0LUQ3S2UxZ0UxZ1lNRjc0cTNCa0MtMzd2cl9URzdISzRoazhhVHRCWlVHa1ZybDgta0JhVVJ0bG1KNFFsV0JzTGtGVGVIUzJSX2JQbnF1Y2gybEJpaGMtdl9TUU9Samg5SFZTbVAtZ3NOaXRvUTE4eVNyTjBid0pGQzRESkVmMGJYbHZkMGFCUQ?oc=5"
+            }
+        ]
+    },
+    "Strategy": {
+        "last_updated": "2025-12-05 20:52:16 UTC+08:00",
+        "changes": [
+            {
+                "title": "Updated PEA and New M&A Strategy Position ValOre for Accelerated Production - Crux Investor",
+                "date": "Fri, 05 Dec 2025 10:34:11 GMT",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTE9zMzNEWTduWHF5WENWcURBcWxGdnJKWlpPYXFkSkYxUWcxQm1ybjhad3JCMU9FYnZvLWhrRmc0dDRtd0t0aWxDbkIycXN3dDQyRGZtdG1pWDJ3Zm5fZk5ZY0dIYzBKblVoRVdBbjNqa2VaUjhLZGp2dzNLM21ldF81NkRYUnZQUGxZSUR2UXlfSWp0aXdiZTRJTTVIT2pDZWxKNW9DVThyYnB0TDFv?oc=5"
             },
             {
-                "title": "News | Amazon buys property in Los Angeles as it broadens US data center strategy - CoStar",
-                "date": "Thu, 04 Dec 2025 04:41:54 GMT",
-                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnhJc1JubW84aUxMMkVyN05BOGg3LUVweGZEMWRDY2NqRFF6SDhGdGRHdlhPWDRMMlJPT2o0eUVEU0VYOC1oU25zRGE5dEJGY3NkQlJ6RUNVdUlKbWV6c0VZX3g5Z19uLTFsM2dGbHJkdGlRZy04blN0TjlneUl6aW5oejcwMHlkQUR0SEpXdDdiVzd2Z05Vc2plcThoeklzdnVSaWlmRXlNMXN5VEhEcDR1eGRWSFU?oc=5"
+                "title": "Cathie Wood\u2019s ARK Invest Shifts Strategy: Sells Meta and Tesla, Buys Trade Desk - CoinCentral",
+                "date": "Fri, 05 Dec 2025 10:29:47 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3pPTjNDQVhVa0d6T0s1RHN1cTFnTDJUeDNpVk92QlJyenNCWjFfalBkMFlxQXFBUlhPb0VTUVpSYTltUWVWMWdheDY5Nm1raFNhSHk0YjBmdW1STldJcWZGbHJPVTc2RFhIS1Ixc0gwSXRyUFVoNGptZ1h6N055VHJPT3Jla3JKbDBNOFNpUURtZ1hTcVVfOC1hblhta2IzUHVz?oc=5"
             },
             {
-                "title": "IJH: Core Mid-Cap Equities As A Foundation For A Diversified Portfolio Strategy (IJH) - Seeking Alpha",
-                "date": "Wed, 03 Dec 2025 22:10:18 GMT",
-                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkxBUnVjNjFUNlMtaGZJNjFMeWctZF94Q1EzcTdKM3BMeVI0a29lSUxMQldwU3QwUVh1Z0dHZGxpckZBWHRfZjN6NXFwVVRmZDZhbVVuWWRrUWR4Ykpxa1VyV19xX2o3RDk2YnlXVXBqb2kwTEFQZmMteTE2Z242VFVUaGZ4cXRoekVjM081TkxMcWFfVUc1alZNd09iUjVtYjJpQmNRWFlwSV81eTJpU25wTnpiZw?oc=5"
+                "title": "ArrowMark Slashes Alight Position Amid Growing Questions About Its Recurring-Revenue Strategy - The Motley Fool",
+                "date": "Thu, 04 Dec 2025 19:24:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVhrR2ItR0FvU3NJQnhnR2ZNXzh2T05QUzZTcUZULUFPRDdrUWV0c3F5SzhOQ0ptT1M3RTVmZmV5NDVNakpLTnEzUndlTGU2b3JndXNsckJrTmhXNFkzbGl6OGhyWk40alhXSFRPcDNFckRTOXVHMl9qNTRRUDFRSFpIV2c4bjV3MGpreGMyTVRLSkNocnoxS0VacFBzcUtNRF80WDhXWjhqOHphX18wc01QNVh5TlFGakd4anFtZGt4VHZMUGhMNndrU1F5dWc4cFBUSUF0UGwycG8?oc=5"
             },
             {
-                "title": "American Century Companies Inc. Raises Stock Position in Strategy Inc $MSTR - MarketBeat",
-                "date": "Thu, 04 Dec 2025 08:09:48 GMT",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVlaTUZycWtxZnZrbGRqWndWTTRMRzY3aUZkQTVWN0VEbF9nY3MwRmM2bEpkcGtvYjRSMXpzdDhVaDRPd2tZS2JfS3h6aUh3bk5hNTQ3N3ZwNWg3cVVneklibFR2cGJPMFdRMWpxNVRuM1Utc1lZRFpRWDVaNlVVeXNyQ2FYUG1MbU1tSVQxRHZfMmtmVVMtR0pkd3lIQ3JhQjRxaHlYYWNWNFJlVEZpRTd4RGNGUHZ2am83TlUzUTFUdU53ckFHRUFuYWJQeTg?oc=5"
-            },
-            {
-                "title": "Exxon Takes 40% Stake in Bahia Pipeline, Hitching Permian Strategy to Enterprise - East Daley",
-                "date": "Wed, 03 Dec 2025 09:05:30 GMT",
-                "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0V0UkhvaTdOTUtqRUQ3dUJTaTJfWHhRbU5vZlB3Tmt4dGxoZ0tmU1BnSERjUlRPR1RSbE5yMVdaNzlWSUlPR2k2WUZIQXJIaWtGcVlVa0I3cEtVSVlUd0ZySnVoQW5uQnloRWxHMHd2OGtQMWZpZS1tcGxJOHBsNlVXQXBDNmZkUG5KdkhhMVFYZUk0WmQ4R1V2NldQSjllRzRSQ0p3OVpuOXNOYnpfMw?oc=5"
-            },
-            {
-                "title": "Strategy CEO Hints Bitcoin Sales May Loom as Shares Sink - Bloomberg.com",
-                "date": "Mon, 01 Dec 2025 21:26:31 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjUzWXlLQlNHVHBLX3hYQkNOR3JramhGc0JoT0U4WDBObDRKR09nelFabF9JUEdSWTl2ZlYwQzQ1ZUliODNrNDNtdHBja2lhXzBTUUQyNkVXcTNSMGVjeHByci01RjdxbzZOMGp6SXdoMzVUaFlSQWVvTHJJVlRMUlkyejZyNW9mbG1TSVliSk9ENHVNSjhLdVFBb3RuSXVwaWVsQVd4NnZJY3c?oc=5"
+                "title": "Ropes & Gray Adds Ex-Meta Lead As AI Strategy Chief - Law360",
+                "date": "Thu, 04 Dec 2025 21:08:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSnp0alBXNE9DeUNzeUZYS0V2VVEza1dpeEpFWmFjeUVUaE1mMExHcS1iNTM3djUxOElsbVpIUEdOSzZxcHl4cEJ1enZWU2VUVlJMa2hqa05Ic1BTdHFvVGhJdXE5UVRKMHg2dEtmd1NIajItZXFLNmpwcHc3VkNESGc4dWRvZV9zWGRhdl9aTGliRXJqWnl1SGdEb9IBXkFVX3lxTE5rbktKb3oxdG1SWkw5LUZpbkpycmVIUU13SU9QbVhHb2M1S2kyZTg3U1N1cXQ1UDhIM1JzTjlnbDRHcEpfOUxrRC1hQ2w3NTRwOE5ZdHVFWmcySlpIMFE?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2025-12-04 20:55:12 UTC+08:00",
+        "last_updated": "2025-12-05 20:52:21 UTC+08:00",
         "changes": [
             {
-                "title": "3 Warren Buffett Stocks to Buy Hand Over Fist in November - AOL.com",
-                "date": "Thu, 04 Dec 2025 07:48:02 GMT",
-                "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRXZyMzlmZmtqYlREMC03bEx5RGxkcnN1dkZSOFUyU3p0MUIxWVRjNF9jR2d4ZWNCdnAwYjc5a3MyOThNTXR0dWpKNk9OdU83OXJRX1RrdnQ0LUpsbXVmYWpidGl4dkhlYU9Id2UwLVZvM2xQTFQ3TlF2aw?oc=5"
+                "title": "Why Warren Buffett Is Quietly Increasing His Stake in Alphabet - The Motley Fool",
+                "date": "Fri, 05 Dec 2025 02:15:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVFSOUdQQTBEMjV6N1pMZWpCVC0yeER5MG4yQm9KYXI0eXhVQ25paEZPaHlaMFNPY1NSOEpqNFJTUGlQVzFnS3dHbmFNOFpRVjIzaEJVY21VbkVVd1RNbjBzT0xnaFVsbk1kMjhZR1piNEZQdGctcFhJWEdDV2ROWmZJbFVPY3hkNlFKRw?oc=5"
+            },
+            {
+                "title": "Why Berkshire Hathaway's Stake in Alphabet Could Be Just the Start of Many More Tech Moves to Come - AOL.com",
+                "date": "Thu, 04 Dec 2025 22:25:23 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbGdhWFMtLUFKZFczZ3dELV9zTTZFNUNYTTJFaEdPRU8xLXVKaFdqVTJvZVJKSnV6SUpIUUpqNk40NFlPUTVDdkpEM2dJN2NCd1NGSzZBbW9ldWY4cDhwZU0wLU5ZZ24wcVEzSnpfaWNrXzdpM0ZoRHkwRmg5Zm5BRGlUazJ3TXdRX1E?oc=5"
             }
         ]
     }

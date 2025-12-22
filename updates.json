@@ -1,64 +1,85 @@
 {
     "Polen Capital": {
-        "last_updated": "2025-12-21 20:48:40 UTC+08:00",
+        "last_updated": "2025-12-22 20:52:45 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2025-12-21 20:48:46 UTC+08:00",
-        "changes": []
-    },
-    "Markel Group": {
-        "last_updated": "2025-12-21 20:48:53 UTC+08:00",
+        "last_updated": "2025-12-22 20:52:52 UTC+08:00",
         "changes": [
             {
-                "title": "Markel Group Inc. $MKL Holdings Increased by Seneca House Advisors - MarketBeat",
-                "date": "Sun, 21 Dec 2025 12:45:16 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDF1UXBfSnQ5b1dQMl8zLThaaDNzdENCOXk2WUNOVEwyaXJ3R2pHWmNuMkYyOG9xVnRYRDVZYzhheTFheERua2I4d1ZCQVhrZUhQd0o4TFZXNnRQbEJoa2hkMmh2cDN6VXVubEtiLXNVTkJIaENrWEZIU3hhUVRxS1hVaFZNTWN3enNrWWlvQmpMVzltSnF4STdNMkpFbG1ySHA0aUt3SEFRUmZqQ2VxRG5YMnltSVhIUmNvWE9jSDg3S0k?oc=5"
+                "title": "Fairfax Financial Holdings Limited(TSX: FFH) dropped from S&P/TSX Completion Index - marketscreener.com",
+                "date": "Mon, 22 Dec 2025 00:31:25 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRExRbmQzUEt3eHkyYTBQMmlia3IwTW5WR0pJdDBIOGxpNllSMUxUa0tTNVVVRWNELUhsSDdSNkVZQ05NTzBFY19qT1lPVXVKME1Ec19OV0diNERQRU5lSmoxN2dsRnEwemFDODBnR0RnZ1B1Z1JCd24wMXFLQlNJSEpIV2xuOUc1LURwWkRLcEsta0lWbUh0a1dVQ1hSMHFibUFnajZaM0pmR3JrS3Jqblctb0QwUzlOazZtLUFTQTVmZ0JLX2xQaEkzaU5JZw?oc=5"
+            }
+        ]
+    },
+    "Markel Group": {
+        "last_updated": "2025-12-22 20:52:57 UTC+08:00",
+        "changes": [
+            {
+                "title": "Assenagon Asset Management S.A. Sells 4,932 Shares of Markel Group Inc. $MKL - MarketBeat",
+                "date": "Mon, 22 Dec 2025 08:51:43 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORWRRNGxKNFFFYml4RFVYcTFsRTZQZW9BSElSc0NETUstSTR1QmFzWUlSMU1hQ19hX1ZqMmpEejRxU21iQXVUM3M1T24weWxTb3lvVjJEYjgwdjZ5cE9RS2EzSnNycllIUzUzandHM0VURGFkVmxHLVhwT2Nlb0hhM3FqZmJwYTJxV2lvR2NiR3pmSURreS13anRfUHRuSlIza0tHS1VGVmFEeTdDZURYSE9CVlBzWkFIUGxzaDAxaW1CWXVtTTlPUVRHUi0?oc=5"
             }
         ]
     },
     "Pershing Square Holdings": {
-        "last_updated": "2025-12-21 20:48:57 UTC+08:00",
+        "last_updated": "2025-12-22 20:53:04 UTC+08:00",
         "changes": [
             {
-                "title": "Bill Ackman Proposes Elon Musk's SpaceX IPO Through SPARC Structure, Offering Tesla Shareholders Priority Access - Benzinga",
-                "date": "Sun, 21 Dec 2025 03:39:45 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMG5fNEhic2g5M1M4Rm9XYzJTUDZCRVJmZU5Oc0JEamY2UjNVSlpIYkhHY0NfUm04RWphTUZKWDVFY3p5UFBDRk5NMzk2RFBOWE4zR3ZxbzQ4ZkFNaVRpSk1sbnNVN0c5NjZpWXpBMTFiM3VhVHphMld6eHhKZUdMZ19SWXkxV2VrSGgwYl8yVVpfRkFBYnBYRGFITkxaTWxwWWRrM2VKOEYtNU5ZcDFzTVotdjNUcWJpbE56OXlGMDBiaUdISkNkdTZ6Y0lob1J6WWFKMWhVSFFNR1JWVnVmbjZnUmVPd1NDRWd4V3U5anUtaUw3NHlnTUx6bw?oc=5"
+                "title": "Bill Ackman: Positioned for 2026: Ackman Doubles Down on Long-Duration Compounders - The Acquirer's Multiple",
+                "date": "Sun, 21 Dec 2025 22:20:54 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzFESHhuanNrNkhnWjNBSWdHSy1pNENzalVUSWJDeFRwVlJyNTRuR3pjQjdJSlhfeGJmWWw2THNST043N0l0cjNKdHZuT2QyZW9zaThRcXVnc2xESGlINlBoRGIyRTJKbUVmamhMclNGQkZncjNzYmx4bjgzSEtMUHlXYlVCa1A4WFVqR0tjNUFRQTdwUEdxLVRHbXRybnBFRUdFSXJEaWFoSkFNd3NVOEozUF9QQ0N6UExF?oc=5"
             }
         ]
     },
     "Strategy": {
-        "last_updated": "2025-12-21 20:49:05 UTC+08:00",
+        "last_updated": "2025-12-22 20:53:10 UTC+08:00",
         "changes": [
             {
-                "title": "Mythwright acquires minimalist strategy title Thronefall - PocketGamer.biz",
-                "date": "Fri, 19 Dec 2025 13:24:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRmamsxR3padGVJYlFfTkZQd250VnZJRHpJYk5Id1NQa0YtdjlrV2xwOGlaenNMeFhmcXB1UUhHb09VTXpyc0UyeksyOU94Y2ZweUVGMXRKTVhaenRPclhuU1BiZ3NLZDktd1d4dHFNYnRBTENXTUE0UlZnQWM2X3V5UTJ2TkVVMGVlN1ZR?oc=5"
+                "title": "Strategy Inc (MSTR) Stock: What to Know Before the Market Opens on Dec. 22, 2025 - ts2.tech",
+                "date": "Mon, 22 Dec 2025 03:51:23 GMT",
+                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVEZ6elM4Y3pDaFotc3NxajFnNF9qa0JTM05yQmpvZXpIcHlISUx1MFhpUTMza3VZNUhHUm1vYzhtWmJ2N0Y5UlM1ZTY2S045SFhWc01aUEFSRDdnQkJGMGRiVm9XVENkNEUwcHpkdURhTHBRNXZId2NJN1c3RUthMjROeTlPOGdlZ1lzdC1tZHRIZ3REbHVrcXVabHI?oc=5"
             },
             {
-                "title": "Mental health tip of the day: One trending strategy that reduces anxiety without therapy or pills - Times of India",
-                "date": "Sun, 21 Dec 2025 02:37:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOeUFfRkljUk1rdF8wck1UOWs3YUdZM2R2NWc3aDUyZ0pNc25DU2FjWWFJMDR1RlhYNmc1NnJMV0ZpV0U3a0U1YWpBQWd2Qm55MFhQQlJCVEVrYTJyZlAxNzBsRF93S0Rvd19YUUp1Y09Xd05JbmNlZTRHbVFEYWRFT1p2bjBhQjVBdkpKT1BIbVBuX0JELTRBVngtbmdGVkZVclBHTXhGS1UzTkZTejM3dUtBSkxMbjh1REt5Rm1VazVMODE5U1VXQmw2Ty1HeE5ITVY0SGJVR04wZjNNWEQxWEVtWEJFM0VJRzBmVGpSUk8wZTA2Uk9CV250X0R2SFVtcDc3TkNDYlZrWEJxR0k0VTVfQ01JN3JGNW9VY0lZNTViNlhKeDJwcVdHM0FJaGhGdEs4eTM5WXlDd9IBvwJBVV95cUxOR3RDUUExQW9iZTZrUVNneUpDVll5X0k5ZFI3Z0p6NUNQYVY0c1VlNEdJZ3pqcHF2Q3F3VlhUZnJTVENkS2hNWW5ueEFVSExFcmtfYmRWcEk0amczMm5WN3ZqTUVuVzFuajgxUnJjS1RNMnFsMDlrdkVwQ3VRYUlfc25LUDhLNFIxaU82VTNPT05aSHBIcWVzYmFCb0VMZk9ld0ZneDMzaGoyV256ckdHdFVsOXZjUVFsU1ZNNDVZY3FOcWo3Q0YydXZiVEcxR1RWeENHb3lEWTY1VlJCQjE4N3pMb2drLUlEcmd0alN4QlU0LVBBcUpGeXBlZVlXVm5sS0JRdDBlaElsME9ObjhNRGNyX3g3OWNQWUVtSVF2R29GZ2lMdkpPMGRTTnp5TVBoSHpsb2QzOEhOTk1xNDRv?oc=5"
+                "title": "Strategy Inc (MSTR) Stock: Week-Ahead Outlook for Dec. 22\u201326, 2025 as Bitcoin Buys, Index Risk, and Holiday Trading Collide - ts2.tech",
+                "date": "Sun, 21 Dec 2025 21:22:19 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY2I1NUpoWDhlMFF0M3ZsRFo1RVBOVXd5UUZMeGRDSmt4X1F4U01vZXZ0bTFWcm5FbWJkZ2hJY1RhcXdUT29FUUJPT3BuUDVsUmNnM0l1aXFGZ2FOUEVGQnJQU2t5Ymd2NHdjbW9XNHo3akFqbEpJWk5UUVpfNWp3SmVLSlBST1p1S2pwTUs3UTF0TE81TzI0NU5oVU05SkZxX0dTeGh2ZXd6MHNuNXVwcUFpdkFJU1ZCcmwzdnVkd0ZZUmpTTVJuTDJodUJBYUxra3lz?oc=5"
+            },
+            {
+                "title": "Holdings Limited - Stock Price Targets & Use Our Sector Rotation Strategy for Gains - Bollywood Helpline",
+                "date": "Sun, 21 Dec 2025 19:10:22 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlhBVGpOb0RsY1habnNXUnVpTUpnWEEyUl9CQUxiS3BtNG5kWFBqakE5RlR6NHlTdy02Ml9GQVRiUDFhbjFOZ0VGdHVycE5CdnVGTm1pcjdYbi1RNHlNUTloV05Qbm1PRGt4MlJ1RkZFTWZzLUxHZlY4aUpMOXQwbGcwc1p0M1RJZHhFWDZUN3B2dEo4djNJaWo4b0p0cGRqaVM2MW5YUTZFUW1PZ0xxX3AxUVhMNm9RQWpPcw?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2025-12-21 20:49:10 UTC+08:00",
+        "last_updated": "2025-12-22 20:53:15 UTC+08:00",
         "changes": [
             {
-                "title": "Is Warren Buffett's Last Purchase at Berkshire Hathaway a Top Stock Pick for 2026? - The Motley Fool",
-                "date": "Fri, 19 Dec 2025 10:30:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHRrMnVPaG1WVEVzUUdxeFoybEozVWNhQzZVbVVOWG95bERnV3Fuem40TGN1Y1lhckdVbnUwSUswalpjZFlUclAyVDZJWW45V2ExVUNSbC13ZGh6UVUzdEhNZGZ6YkJiZEl6MUpGVk51cUpUXy1qakZVUk8xWmpJMGZHcWN1ZUQ5QTFnM2V4U0Y2UQ?oc=5"
+                "title": "Warren Buffett Departs With 64% of Berkshire Hathaway in 5 Stocks to Hold Forever - 24/7 Wall St.",
+                "date": "Mon, 22 Dec 2025 12:15:18 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRTFQbHlTQW5SV2d6dGZzY2c4MVRGRjhLMmV4Ym9LV0libXNLbW5PZjhaTUF6N3V5bEZGcDJ6cGFUc0RLQWxQTnIxeU1lM2IzLXNoR3c3QTE2TjdZTFl4TXlObGFPU0VpTE00VVBGZnllcHYwZU52aWlyUXlHMElYRTlFeGFWSXdZYzZTbDJFUmVWQUowSzN5djF2Q2RPWWpQbEFYOUZEUHJGU3ZkS1JzalNGYnMxQQ?oc=5"
             },
             {
-                "title": "Why Warren Buffett Says He's Not Selling His Berkshire Stake Just Yet - MSN",
-                "date": "Sat, 20 Dec 2025 17:44:38 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOd3RVZEtqTUlUZFZWLU9KanlMbE5rRzFZbHp6bEF2VG51TmRHYzJsbWd2WEg3SXlGa3hUNHpsZWlmTXhTdXNyR0tRN2IxT0NYMHdjUmZEcmNWeF9JSlNlTVZsR3BmOEFkLThWeDYtZlRnUDhiZFJKOU1uZzlVT0ZBeDIwbGR6c1BtQWZKdWVPajhOdWpuSWNYbmc4c0ZKMmYzeGxhWDkxYkNjNlBycTZ4QWRyaDhhV0FrWmV0Uk4yb1dmNF92VTktSVphNF9RVWVZUlgyNGVTRGdUZ0NIZ2tPaWU5LUs2QmR4UTV1Qk1FNEx4Uk5CTjRfWjdiXzI4Z1FQTGRMS2s3cHh3cEhwWlhtaWwxQy1JWTl0VDJDN1hsdFc5aTF6ZjBkMVlRNU5QZm1zQjRETHpFR3JiWUJjM1NVMjlxZlM5S25PQjZMZ2pjSHRHbjRkVTIxWWNmUjhYbVNmTkthT0xSYw?oc=5"
+                "title": "Why Warren Buffett Just Sold 15% of His Apple Stake and Is Putting Money Here Instead - The Motley Fool",
+                "date": "Sun, 21 Dec 2025 13:31:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTZVcHoyQ2JnMU5KMU0yMFVRbk5TdDV1MGJfRVBoSkZDQy04UnJrcWNCWVM5MkhlVWdYemdaWVBsbWxqeGdHa1l2b2pUT2VrS0NkVlZRa29iNHFJd2NsVmRxdnN0MDd2RVE5QnVqQkxFbHk4VmUzNG5BTWhqNUtuLS1RNXBNYWx6czJndVF3U185WFFMLTV4Sg?oc=5"
             },
             {
-                "title": "Aug Update: Is Berkshire Hathaway Inc. New stock supported by strong fundamentals - Weekly Trade Review & Low Drawdown Investment Ideas - ulpravda.ru",
-                "date": "Sat, 20 Dec 2025 15:37:34 GMT",
-                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZS1sVmhoTUlfTmptLUZDZzJ4OGs1R2EtYlFacUN0YlhQSkxXXzlNZXhvaEhCZGs5bVNVNEMwbXItaVRmWVg1endIYUFxcWRXemRNRENiTzdkdnp5cFZxRkNrTzE4dVQxMzhacFl3LWtxc1RweVFpWnB4eXcwaFE2SGsxeGJhOW1qUC1yTVhmcEx1YXQ5bEpsUndZMzBFN2p3Uy1zMWZrdmczeVU4bzJR?oc=5"
+                "title": "Why Warren Buffett just sold 15% of his Apple stake and is putting money here instead - MSN",
+                "date": "Sun, 21 Dec 2025 23:04:40 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVmZsYzM2OVNpVHVxUUJGY01odVVCYXYwZkE0bmlHazhsVXY2LVpKcWtLM3c3OWQzTnpEb2tTS0JfRjNKbmMtRGRFOEo3cjNMTHpEd3Q5cUhLWThxMXRFX1lIbUxDNHdDU2RxbW9uWWg4UnhvVlo3WGhzSzgzVmZWZHJmaU5UcnY2ME9WazY2NnB5bU1oZXJfajR2SGxpc08xT25JSWJoVTZhYm4wZEVheTE4b1RXaGNJMFJ0VDJpQnUwbS1OVTRNME5CSGhEUXZhRUQzRWU0R0lFamJsVURuY2Zhcm5zQWhaZ21pQzBJNVA4VWFyYkVJ?oc=5"
+            },
+            {
+                "title": "A Legendary Investor\u2019s Retreat: Berkshire Hathaway Trims Its Massive Apple Stake - AD HOC NEWS",
+                "date": "Mon, 22 Dec 2025 02:45:05 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWlaS2pacWUydk1OVmFWUnRQekMwYnZuNmxRSHQtSjAxSVFSUWdFQUFaQlFsYUVBNUNfckNQb1c5eUFmODJWR1VGaTk0dFJmTFF2cWpxcXNzMXZZcmJOYV9Mek1PWFA5X1cyODNmWVVpamhUbWlJdVFQQ212LXlHbWZOSGI3NFlGYmFaNF83Z3ZtRm9PVl9SRjN0NTNVaklUMzlEU3Uxdl95d0tTSXdDNTBZdFZnVU9pY0hoZ1Fn?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway 2016 Annual Shareholders Meeting Video - Risk Mitigation Techniques & Analyze Your Portfolio Risk in Seconds - Bollywood Helpline",
+                "date": "Sun, 21 Dec 2025 14:24:32 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0NHVU5GVHg1NTRxd0JkWTBSM00xRTdkc1N3QWR0TzdFQ0ZZdTZuNjBJRTdnVmZzSnc1bTh4NE41TmRvOVl4Y0FRRzh1VmJ2aHYwYmNhSG5zeklSQ0tLZmZYcTVac05ObTdrdXRFQ3pXZFdKVVZnLWZmTG5UNmpyUmdJNDhmRlZKbnZHX045SDREMnhpMFhXSzBmNkpud2hPWmc?oc=5"
             }
         ]
     }

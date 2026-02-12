@@ -1,93 +1,165 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-02-11 21:21:47 UTC+08:00",
+        "last_updated": "2026-02-12 21:19:57 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-02-11 21:21:54 UTC+08:00",
-        "changes": []
-    },
-    "Markel Group": {
-        "last_updated": "2026-02-11 21:22:01 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-02-11 21:22:06 UTC+08:00",
+        "last_updated": "2026-02-12 21:20:05 UTC+08:00",
         "changes": [
             {
-                "title": "48% of Billionaire Bill Ackman's Portfolio Is Invested in 3 AI Stocks, One of Which Is Expected to See Its Addressable Market 10X by 2033 - The Motley Fool",
-                "date": "Wed, 11 Feb 2026 09:06:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3R4ZzFxb3JEaFdGX0hzd25taFkzLWswUndIVzBteWdEZjA4WUd0UmlNY1F5WGtROUdmQjBWOTdIb2piWWR0Wnppbm5TSFRfbllfVlRNZmRRTVhmV01NcEtlQzNnZDl4T01VSGFGUTU5MnluQk5JYTBGeUpfN19Na1ZDQU5IeWhvZHgwSnQ0SjU0blNNWlE?oc=5"
+                "title": "Evaluating Fairfax Financial Holdings (TSX:FFH) After Recent Share Price Weakness And Ongoing Undervaluation Claims - Yahoo Finance",
+                "date": "Wed, 11 Feb 2026 15:10:57 GMT",
+                "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcV92OTJoRWlUWFJTLXNQenMwX05Odm9Dd3lsWU1GN0JaMXJRSkM0NlZRVlFVTXBhVHMtLTV4b244UDZEZVZMb2JkZDJia3ZEX3NLX0g4MzRHRDBYa0tNMlNORE8wVm5nd25WRFNMNW5fN042LWlGRHBPQ09RMTZMVXNYV3RGUWJMRVFOR3FQQ3U?oc=5"
+            }
+        ]
+    },
+    "Markel Group": {
+        "last_updated": "2026-02-12 21:20:11 UTC+08:00",
+        "changes": [
+            {
+                "title": "Markel Group Inc. $MKL Stake Cut by Illinois Municipal Retirement Fund - MarketBeat",
+                "date": "Thu, 12 Feb 2026 10:40:05 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0Fvb1oyZjJFX2hQaTNudlBoMWcxRkdkQVNCRktMWkZVa011cjdzajk1eDRfcS02RWU4eFM1MGJQbVBCR3A0SnFvTlNSRkpNOXBuamV2aG1vcXhVdHFUSHJXWlhQZVI4MEdtZGZpWURfRkVkc2hLTm5PTTd1RWliUDk4bDVrbnd6N2VkMWFCOTJtV1MtVktpU2VmMVFNT3VIWTRXZEtYM1JFQ2xoU3hfOW0tdVluU2VVR2gzVi1hak9xaDRGc1NDMw?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-02-12 21:20:16 UTC+08:00",
+        "changes": [
+            {
+                "title": "Bill Ackman reveals stake in Meta, says it has 'deeply discounted valuation' - CNBC",
+                "date": "Wed, 11 Feb 2026 18:25:31 GMT",
+                "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOG5Zb1VvT29ldnZ1b1hyRjVoTmV5aUZlcGJuZUY1bWVGMWpCaHlnRUZ0WUh0bGVyTzRCT28zSm9MZkpoZ3F2UHlKWWw2TUd6RmNxd18tcHVvOXVXODVUVHROdXJoNm9GZE0wQnRabmrSAXZBVV95cUxNOWRrT0lGR3lRX1pHbkdEY1FiWThXS3otUzJxR1hTY2g1NVlyT214OXQtb3VMU0dWbEVfT2Z1b01lN083Qm9tTGZFcTZBcHVmMTdWRXhudnlYWk9TcGdfNmZwV1pVR1A2UU82YmdQS2ljT3V3MElB?oc=5"
             },
             {
-                "title": "48% of Billionaire Bill Ackman's Portfolio Is Invested in 3 AI Stocks, One of Which Is Expected to See Its Addressable Market 10X by 2033 - The Globe and Mail",
-                "date": "Wed, 11 Feb 2026 09:53:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNN3VqaW0wMHRyazdyNTFZREkxaUx6SzJ4ekJ2U3laXzB1SC0tMzVWSjAtcWJ0eXRBVWFtd21VQ2ZnMS1Wb215UFdrTmVJVmpSbHBKMHRjMUlSTXQ2bFFjMldVcWFrY3RRaEJmNmZrb1hkMGJ1YXVkSDVyMHlER2diS01tT1JvZHhpaWpITEpvY3U2LVhOZlhSQzZmOHdTV2ZlanhHWkU5UVRsODNVMFBOWW1VUktkM3lxNHNUVDhJbnh0MWJmMFhJUWRFaUxfblR6R3c2ZnBSVXVNNmJ6NlVaNlFFY2R6cFotaWZNR0R3NzFFNkwxSnZUOWRJM0EyeEY1V2l6NzdOWk9yeWV2OC1kTzl5VklyWjNCZTBXMUN5MnZiUjh1QXJyY3Z2YmpPb1o3Z1FicTVjWEtaMzFkSnpB?oc=5"
+                "title": "Bill Ackman\u2019s Pershing Square Discloses New Major Stake in Meta - Bloomberg.com",
+                "date": "Wed, 11 Feb 2026 18:55:27 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2pBcTFWNWhZWW12YWRpTmF1blZfSF80Y3ExaEUzX3RfOUpBejlqbVk3a1Eyc1FjZlpLeGF5dU13T20xVkw0aW1HR2RHUHlYZ09vZ1RYYkoyMkZ6TkJIUC1EV3I3OS03SkVEYUZOM19DdDlzY2l2YjdfZmpuYTVKNUkyUXlYNTRmaFYydUQwUmVxS25GTnpRdWRLOVgtYmZzV1FGeTZiYmMycGNPT1h1WHhmWG0?oc=5"
+            },
+            {
+                "title": "Bill Ackman backs Mark Zuckerberg\u2019s Meta with $2B investment in AI future - New York Post",
+                "date": "Wed, 11 Feb 2026 21:50:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3pJTlFjSGFfVlNvOTl5ODRkZWNxN1ZKTl9KSFNsVkQwRGFWbG5IRDczcENvSXRESGtWdmdhN25reUo0WTVMVjVhb2hYSW5IQ0ZnSHBlMlVScmtaSUQtN2duakQ3Z0xpelRYaDBrcElVQndrT3RwWjUtb0FrNGc5SnpIeHlrRWFZUkZQZkVQb0hGX2hSdzd5eThocXRiVHM?oc=5"
+            },
+            {
+                "title": "Bill Ackman's hedge fund reveals big stake in Meta \u2014 'one of the clearest beneficiaries of AI integration' - Business Insider",
+                "date": "Wed, 11 Feb 2026 19:58:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWW5KN2p6WUltRFVUQm9na0J3YXExb1RKWFdLRXVfWWx5S0pzUFBvN25JdmYyUUVLN2Y2UU5ubl81SUJ0Q3ZxOHRzNGRPdThaQjE5eC1NeEJpaDkxOUo0UDkwdEhBZHpqTDVNVGsteWotZ3VobkdlWlN4TXY4OVdDZTNLbw?oc=5"
+            },
+            {
+                "title": "Bill Ackman Takes Stake In Meta, Flags \u2018Significant Upside Potential From AI\u2019 - Stocktwits",
+                "date": "Wed, 11 Feb 2026 18:32:30 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM0NBdmdDOTkxeG9uWlZVM3BiMW92ekhHdkdZV3VxX3dMbnVOTkVyUEg2VXlkSE5FWGllaDQ3RmpSZHZ4aExOY0I5bFFJcnhoXzRnLUNpeS1MRGoxU2E5MEMzTjY4dm5aQ2EyUUhYSEJReEJ0VXVCNzYyVlpteGhJbVdPbkJHeVI5V0tuNDZ5QTY3OTc2NkpfcUp0aHdzdVpUcHJOTjQ2NWZPZXFuekhJQWRyYWNnay04MDNsYTZSNTNzb0NOMUpuQWJDSGlTOG5DcmJJNQ?oc=5"
+            },
+            {
+                "title": "Bill Ackman's Pershing Square Reveals Massive Stake in Meta, Citing AI Upside and Deeply Discounted Valuation - International Business Times",
+                "date": "Thu, 12 Feb 2026 12:08:07 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1g1dHFQa3FoM1FpWXFfQUp5LVViZTdURmpSd3JFaGpDRzRETjFKckQySExGOV9XYUltZVdDMF95T0JoREwyZkdic3ZSa0htSnlNalpfblIxV0o0dXoxOUdHYVVxU1lORFRCeTJ6S0JaZFZidFhsTHZmbjlEYzhoZXRzRFZOTWU0bnA0TFV0aEs3aXNtc2FpMzNYaVVJX3U0V253Q09nNXRXaklqUDJyeHFRTWpsUkJQenB1UzVsRQ?oc=5"
+            },
+            {
+                "title": "Bill Ackman takes stake in Meta, flags \u2018significant upside potential from AI\u2019 - MSN",
+                "date": "Wed, 11 Feb 2026 21:23:28 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOd0hUZnhSQUxSZUtkUXk2V1N1SmloYnNYOHhPanhNWVU2emRCeVJCYmp5TkFma3BXZ3E4T240VWpJX2NVaXgwVUc5ZWFBaHNMb0MweXAwWXBaX1d1WWZabjIyVTdhWU9leFNvaEFOT01YTnNQR1A4WWFwd1JDM2lmVzdMWlJ2RGx0UnlraXNpM2N1OXdvV0lvcUxic2x2a09lZHMxMG54TGxWVUtCQnpzc2w4WDNJQlNqb2V3WkpFQWw4c0FBVGNrSHlpS0FlUVE5R3RJdWUzcmk3c3hjbU5DNWd1OFI1RnY2QVE?oc=5"
+            },
+            {
+                "title": "Bill Ackman Reveals New Position in Meta Stock, Exits Hilton - TipRanks",
+                "date": "Wed, 11 Feb 2026 18:43:56 GMT",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcDFwZWFLNFRrTW9GSS1JUTJsUUtwSW1WZUx1dmtPOHV2VmJDb1RVbFRQdk5MMXNOUF9HRmdGOHdyaVNxS3pzNk1rVFlLb2JsS2FIUlFRdmx4WWxlbHFuX3RpOFdtT2F0OWdRcmozSWtXSEtOWFdUR3M1NmxzWmlqemNEekRhSGxYUF9iRUlOWHFmTm8?oc=5"
+            },
+            {
+                "title": "Pershing Square\u2019s Defining 2026 Direction: Bill Ackman\u2019s High-Conviction AI Bet and Hedge Fund Positioning in a Volatile Market - HedgeCo.Net",
+                "date": "Thu, 12 Feb 2026 05:24:53 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdUx4cGhfekNsUFktTFA2MzhoTzRMWGM4cGRlWk5IcVpSRXgzRnZ4c3B4bk1ZcXVqRGVQdDNoUS1qZG0zbTZub05aODdIN0pKdy1Zd0xZU2NPT0xvWnBia3N4dmMyczNSRmMwZXVndVlERjZXUEVucVE2c3RZUVMxdm1SNjc3a0VaT19sQmstcEQxV2VkRXRsdGZOb3RmQnFwRmdRRlNRRjhCZG9pdjd6ekVBbzVBNHV3T1dVRGF1c3hkM3ljOHE3OGR5NEVoa3FrQi12VlNnV1FnNFdOcm13WDMxR09XUjQtalZySzVwQU5td2tmYUxSanpR?oc=5"
+            },
+            {
+                "title": "Bill Ackman Calls Meta Stock \"Deeply Discounted\" with $2 Billion Bet - CoinCentral",
+                "date": "Thu, 12 Feb 2026 10:12:50 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNEF5cV9JellCbXpQbGVFRzR2ZlRpYVBma2ZubmFyMU92V1VuX05HN3NfZS1xbTZzNmFSNmU2ZUxxTVpBaTYzN2VmNlhEZkdPa3k0VnZhZHAzNjE5cmZFMFlDYW9PRi1mRnZ6bVp2Q0hBdWluWmRNMWEyMld5ZDBSd01mSXh2d19RNVhWU09jRjBSa29U?oc=5"
+            },
+            {
+                "title": "Bill Ackman flags Meta stock undervalued as Pershing Square reveals big stake - Invezz",
+                "date": "Wed, 11 Feb 2026 19:37:55 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFhQLWMxNmk4OGFQQTdrRU5OZEh0WVZHT3B0M3lucmtPd2tTSEMtVWFVTkxEYTUxaTFUMTRYZVFhZmo5eU5nWW9oMTQ3bnJuLXRtU1dNQWtTVVM2ejNrTllOUDRrSDVSYkpWZWt1Ynd3cjB0N2NwbENTcVJCekRNdWhyZDVIS00yWVJQeHdhZ2JMUU5VenZZV09hSktfM01qX2pqQ3FqdXpuUGNwY3VjaGxkQQ?oc=5"
+            },
+            {
+                "title": "Meta Stock Receives $2 Billion Investment from Billionaire Bill Ackman - Blockonomi",
+                "date": "Thu, 12 Feb 2026 13:07:31 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0ZxLVA2WEUyME9aUFgzdHpjaGc1VFdGUDFNc3FJaHpuZ014MXFYSWFPZmNSZmJEaHZfZjFhVGF0eURfbmhmUm5IcVcxNmZNYlg0b3JFUmI1cXRCNy16dGNleGw2eUZ2eV9XMDJvb3dRYUg1ZnFkRUlXWE5SUWdTS1FwX2lhbEw4U2tEaDN4QS1uak5yVVktbw?oc=5"
             }
         ]
     },
     "Strategy": {
-        "last_updated": "2026-02-11 21:22:12 UTC+08:00",
+        "last_updated": "2026-02-12 21:20:21 UTC+08:00",
         "changes": [
             {
-                "title": "Aurora Advances Global Medical Growth Strategy with Portfolio Expansion in Australia & New Zealand - PR Newswire",
-                "date": "Wed, 11 Feb 2026 12:00:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUV6QU43aXhLN19yOEhnMEw4MTROZXQxbjJxUm1jNmlyaFh2bW1Cel9xVXBLc0pQUFdfVTA2MzlPRDRaRzl5VXFKSnlxd3ljbUtNazhJQlNhWnlLQ3ljT09fRUFNa0pqSDVKSVVIODlmNXRSd2t6TWFzeWFIMXpnTXIzeDlPOUJsYlJUVW5ZblhySnFKRFFPRE5qODZSdDZmbzRNZFFaRUZrVTROLWw5YmFILTF6NV9ENjFXTXFTVHpUSkliMG5HNGRDcDFHMkpGNEJfMy1EMllqOVBFWTBCTnpkWWlrTkVz?oc=5"
+                "title": "Strategy CEO eyes more preferred stock to fund Bitcoin buys - MSN",
+                "date": "Thu, 12 Feb 2026 06:20:54 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0s4X0Q1dmktM0tmNVk4UnJKdTEteVpTNDFvTURWTW8tbjRJQVU2UEFObVVsTDEwSXJkRXZjOHQ0YjQyNll6RmdGZ0hjU21COUp4WEQ2TmRCWGVTX3EtRTUwTVZhcXJ5UHBaeDg1bjZoUW9aSTV2M1ZPVXlZSW9iMTZNOGZIQzc4SmZ0YkJUS25IbDBGUFg4WVoxbkZtRklMTi1yQm9NZ0xuWHJCTG4tUEF4MmhIS1gyT1M4RUlUWFhkZ2FmTHBjbkVNX1h0RXlhOFJV?oc=5"
             },
             {
-                "title": "Strategy\u2019s Michael Saylor Says \u2018We Are Not Going To Be Selling\u2019 as Company Buys More Bitcoin - Investopedia",
-                "date": "Tue, 10 Feb 2026 18:04:51 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNU1wbzM1Z2c0bnBabFpkTm5ZMy0zbHp3aFNBM1N1Z0FCdHNpSndEWFQ1YWpQX1EwQTBRUXdFT2U1cXdib0picHpkUFpxNUJIbDJnUDRHOEVFOXFXdEh3LV9SUGlyR0lrTW9EWThDLUxYZjRsUzZQSi0yVzV3RElvNkVrSUplZGZGb29EcmdYVENhRHpGUUVJenJaaDRZZGJwaFVPQ0F4RFFSRzFPUzlnSjdtOFE0OEl3X0FBSmc4bERjMHBNTGYtLVN3SkdIand1S2NRZXpR?oc=5"
+                "title": "R Q4 Deep Dive: Strategy Execution and Tech Investments Drive Resilient Performance Amid Freight Lull - FinancialContent",
+                "date": "Thu, 12 Feb 2026 05:34:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRC1HQjBCVDFJWFNnYmJ2WjVmYTNvUVJTbG5NSnlQZVk3NVctZ0x2NVBHTTlMc21uSjhBYjZrRWpQRVpXZ1JWNXlrdE1Rc2Zlc2tuUlBuT1FIcDE4ZERseHRzNmZrQjYzcEs3aVB6T2E1Y1NDTFlISFRHeUFJd1dDSnpKcGpjWXdjdFdZTVczYUdzeUU0UzdJMVlwQXZMLXUxeWpCUllyLVNkekZ6Nk5GSjRQMGwxeUpPaGlLdGxER0FTcVRKMTdDWFFwTFVaRF9ndGZqem9xUzhBbnAxX2toU0F1dkd1RmlKejdfaTdoRk82THBJaF9VVHVNOEd5bGRrU253?oc=5"
             },
             {
-                "title": "SEI Investments Touts \u201cThree A\u2019s\u201d Strategy at UBS Conference as Alternatives Pipeline Hits Record - Yahoo Finance",
-                "date": "Wed, 11 Feb 2026 10:28:29 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2JoSTlKWTVuQl9YeWE2MjJIUXM5NG90UGJRa2xjVXVGS2g0SXdfN2VISjI4djZEOHctVmdzU2kxVjFzNUs2MkR4U0Z4OExIREVpVHRTU2lRN2pwOHVHQTNRbkNpWVlmcUFNd1QzbFIxVExyZG90NjY1Q2hGUzVMcl9lRGZ4clZjWHc?oc=5"
+                "title": "Rhumbline Advisers Raises Stock Position in Strategy Inc $MSTR - MarketBeat",
+                "date": "Thu, 12 Feb 2026 12:48:07 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3BuajJBbDdRdHh3enZVVElFLWNONmppdzNDVzBGRjdMNi1xU1Nha2VPRm8tSnRERkszRVE0SDZVaVJDZmxSaWlWTjdYc0NYX3hYMmxNX2Vha0VET1g0R241RnFlcHhMNGszREVBVmdnZHhmVXVDbnZ2NkNZVy1qTFJubTdQZEt3ZE9FTzNmN3VJbWNqSjNwUm9lWGNzS2E1WTNXdDF6QUJZX0xaS1hRZGpwM0lnS2ZXSGlPejA3MA?oc=5"
             },
             {
-                "title": "The Daily: Strategy's Saylor predicts bitcoin will 'double or triple' S&P returns, BitMine buys $84M in ETH as Tom Lee flags an 'attractive' entry point, and more - The Block",
-                "date": "Tue, 10 Feb 2026 19:30:40 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZDZPMlRyTzRNNEM2OWlZTG1hYWN3Wnk3c3c2OTh2QVNtTzlacFVDNlFCazVqQlJwOXMyejhOMGNkZWlULWpPNGRaeEppTkZpMG9kRFZrSjY2ZGwzQkhqYnJvbjlNVUtMczNUcDJCMVp0a2MxMlZLcmJPWUNXdm9wN216Sm1JRzFxSWdBTXJqT3pCNW9xdFhVckoxc1lndHBlYzN1OXd4YjljVkV6UzRrVW4tNFZXMG5ub1h1WHpLdXljY2ZCekFJcnJwblhCdjRCWGk4NDNtTHpjT0ltUGFUR1JWZjBCYTZuRy1sWko4aXFhUWs?oc=5"
+                "title": "Strategy acquires 1,142 bitcoin as portfolio drops below cost basis - Yahoo Finance",
+                "date": "Mon, 09 Feb 2026 15:13:42 GMT",
+                "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUVYNmdWVXBHSG51VW1TM293aldhSVVzX3FkUENJWkxOWXJHaDBkMnU1ZnBIM2g3cFNSM1I1Q29yaWVLZnBMSzFSYjRlS1kzSEFGa0xvMFNUeFBacVdwdWRVVlFRLVA3c1ZmUFhiRkEzbG94NF81dHk1NFNBSlJpNFNURQ?oc=5"
             },
             {
-                "title": "KOJAMO: Strong 2025 results, major portfolio acquisition, and updated growth strategy with robust financials - TradingView",
-                "date": "Wed, 11 Feb 2026 09:04:37 GMT",
-                "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWnZ6SEFsbTRZN3JBUDlEclJiNnFVQUpkZWpTRC1tSXFhZVZTUWJtSm05VHA2YkpPQzRBMkFvLWRiTGprNzhMcDhsZWxoWGVJWmpvRlNobW41VkV2RGdjM095LWZtamZ3YVl4NkY0Q3JUZVQySjNEZnhfd3l3dmQ0VllkbEtuSHFOV01uSmMzSjFDYVpvVG9xdzlnWENjbWFMVThuVWk3WWdTV3podmpIdGRTamZaaS1fT0dzMW9fTU1SS1prYnBWdzQ3Y0NOUWZWeE1yRmQ1cUhLQ284T25iY2JxM2p6ZTkxbWJzWnRDM0NieXlrd3J2d1FYMVJvd292dElLVXNodHR2UGkxektaN2s3SnppX29QMnhPXw?oc=5"
+                "title": "Purpose Investments Introduces Corporate Class Vehicle for its Established Credit Opportunities Strategy - GlobeNewswire",
+                "date": "Thu, 12 Feb 2026 12:30:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMGc3VWdTNnBpdXdyQVR6SkRzTnB0YkxlSHlRZnFzOG5nWXZGb2h6SllEU1hGUHdWT2diQnFwRHVWNGlxVUZadk1udk5KaU1EWXNTczBwanVfZHpzYjlqSUUxaVNjWlBVY1ZCZ19oLTBTdnR0NUtfS0xwdVJWZ2VKOWF0WE1CNndnNHZ0bnBHdTQxQWw3Um1JUV9WQ1cwQW04Y2RPOWFUQnVneXZTRzlFMGRnWWpDQzVVTktWUC05amRRWVQyWC1acUpyd0VjTThzZjZlWW11NW1kMFR5OFNkR0pTQThac2VlQjBlXzJUYVViYng5ZTdHYWpoZXNKVU03bWZJTXBTWQ?oc=5"
             },
             {
-                "title": "Strategy Buys More Bitcoin as $50 Billion BTC Stash Remains Underwater - Decrypt",
-                "date": "Mon, 09 Feb 2026 16:20:05 GMT",
-                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGZGTlh2NldpZnE4cHVnZ3EtQUNuVVpDelM5TkViTldsTkVnQmpha090Rk00TW9OVDRDZ3laaDlkZHVTak1XbnhwaVlnR2VtUFBfcXJndXZDSG9wZGZFYlV1NHV5TXFuMTQzbHJvbnZiQTRYLURqeVpCUF9Xa3g0S2N3NXFaMzc2TU11cNIBlAFBVV95cUxOa0FNc3J1MHJhZ3puX0NmX1JwM2VEb2puQUJ0ME1xSmpXdVIzaTBjZlY0STF5b0hpakFSQUF5Mk05NXZxVGh5TWVNUjBEcXZJNVZyVmFEWkR3WTN1S21BSFhMcmhRNFBUN1lTQkpJazdrN0I5MVM3dU9hMHhPSUtTOWU4RVBZSXVpUUIyUXVFTWlpa3B1?oc=5"
+                "title": "Eddie Bauer shifts to digital-first strategy amidst retail bankruptcy filing - fashionunited.uk",
+                "date": "Thu, 12 Feb 2026 05:27:47 GMT",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWFwLTBrSkt3eEFOR3FiRUt2WVFLaHVtZ1kxZndySzJQMkhQRVpjdmcxYWhXZTlTbXh6MXF2YlFWNFJ4bUlLWUpOVnEwa1NweWlLN1dnQVZXLXE5d2VyWmdtTG05N292bHJzTTZnX1hzb0NLRGJCQTFHLXQxN0djVUJ6Z1ZVN3dHaWliM1FvVVZhVjBhWFlzYzZtREQ5Nk13MTUxem9ScmZXNGtIR0ZGN3lySW9sa0prV2ctNi0tRkw1SUpQUUE?oc=5"
             },
             {
-                "title": "What if bitcoin prices fall to $8,000? Michael Saylor says Strategy still won\u2019t sell. - MarketWatch",
-                "date": "Tue, 10 Feb 2026 15:50:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOYnlJQVJrd2dzLU50Q0x4dXRUOVVUUnJRaktIUkx5a05iZlQxdWtaZ0FYTFlzdzEzYS1BcEpYd1NZZ0pVMnpIN1RNRWF4TU1vRkdTVmNrc1V2ZVZPc0hZeEtCMml3N0JKSUN5dUcyV0x5OFlLRmdjOGVEV1E2Wnl3SGhSZ1NxbW1XTzVqd0lrRy0wMVhYaTd0eTNHU01lRFIwc3gwNkljRG9uOEpDY1dRNWVUTE9ia1lJX01IUWJ6ZG40Y1RCOE5JbjlLQ0hnY1hKM1pZTEllVnZneGVmLU1GTDNObVJ3eUtMWHV6Slh2TGd4YzhqT1BnVC16QlR6MHVvRmhjLVFTajNqT0UxbVNvQVJsVVpaelNsTkJIak9iME8zT0tRck80T0ZWT2VsUWdKdGM4UW5DYnVGWDNfXzZTbUJDSXJQRndmbWlQdUZySlJfZWtpVXBJZ0tldFZfMmVTdFA1clVRaUI2R1phbWdvXy1sb0hsTTJRV0puajRBbV9ETzU0T0dVWm5tZEZKOFZqNkFPcUhvVXVEV1lEQm1OUS0wTXNpTGNHR1ZacXNTQ0VTTFlpSHpUYW4tbDItcEVTT1FWS3l6MA?oc=5"
+                "title": "Rezolve Ai Acquires Reward to Bolster AI Commerce Strategy - PYMNTS.com",
+                "date": "Wed, 11 Feb 2026 13:47:47 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdy1TQlN3N1A3SFJoT2pTQnRncC1zZmd0V1p3S0tTSVVLSlhTdkQ3anFZb0NfcXlWU00tWF9Sa29PekRmVHAzTzNpWE54NGtWZHJkNEFSMFFDbkZBWlJhMWI5akIzMlBodGNxMDNVdlR4ZXlYNTFvY2VwSlpwalJyclNQOFp0T1RKdlFqa2NkTndqS2FGUEt5TFNCYmhCZmwwS2c?oc=5"
             },
             {
-                "title": "Aurora Advances Global Medical Growth Strategy with Portfolio Expansion in Australia & New Zealand - The Globe and Mail",
-                "date": "Wed, 11 Feb 2026 12:03:40 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ2xIa0poNFh0NFl6MjNtZzFwc0xJaXBWNGlnY2N4TERNWTZ6dzFTM01kVjREbEdsV3hjekF6TWtYRnJOMEVYQS12T0ozVy1OVFYxWk1hMkUtWDkyUFVEWUdrUDR3ek5HbmhYRjlGTWh3ei1SSzRlbFRaaUZTNUxuTWJtVjFmeHNubExaVTVucDRfQlVCVkhlWndoUzlzWXRFRk9NazZYNEdBX1htTThfNFlLUmU1ZFhydGowN0FodUdyMjYxbXFQUkpXZnpCR2c2WG4zcDRsZ0VTeFg5T0t3T2c0T29qT2N0Y3E3OHA5RXprOEc1OGlNMDlNOWppcVFtaHhhX2hUbHI1ejA?oc=5"
+                "title": "Michael Saylor Vows Strategy Will Keep Buying Bitcoin - Bitcoin.com News",
+                "date": "Thu, 12 Feb 2026 06:34:29 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWF0OTFMUGEzMXRqb2JDSjloM3NuZjNGOXVodWRPcFk5ZVZRS2paRjNFRi0zeXU0WnpPRWh0SWZsRHIzRzRaS0VGTHFCMWlmbzVnTC1UdGVDV0cybEEyMDJWQ1JGZ19ERG50bENQdGFpU0trcmxPS2VRREwtQV84ZXNzWUZ5dw?oc=5"
             },
             {
-                "title": "Lumentum Holdings Inc (NASDAQ:LITE) Identified as a Strong Growth Candidate by Navellier's Strategy - Chartmill",
-                "date": "Wed, 11 Feb 2026 09:31:11 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTlZJaXBEZU8xZHlQczlhWVg2a1pMNC1qMkMyYWMwWm9nRDBXOFNSSG1HbDdHbGxGRWFKNHIxMl9MUklGREh3bjVSNHRHdVlKbFIxb0FiaEVwZHFYRjlYQXRTMGFiTTNHUHpMV0RmZ1g1X2ZJd3JWZWN2dkk3NF9pMEVsUHVXZFpoRkpxTjNEbEx1RTVtV3pCclhvY2NBQ1VSckFNaXFHc2xjTFdGX1FWNVJ4OXJ1cTNFck83ZmRuZlJGN1V5SzBVZl94R3l2WktmZVV3Z1RMc1JjeFBGZUhOMA?oc=5"
+                "title": "Bitcoin Craters 50% so Saylor\u2019s Strategy Smiles, Buys More - Yahoo Finance",
+                "date": "Tue, 10 Feb 2026 18:06:17 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejZmRTl6b2tiSWg1bHFlUW5CWjhQREp2MXFGOWtaOUFxLTlCQjdUOFBpeWN5a0dZTHRJaVNBV19Da01wZXozdlZNSHV6dW9EbVgtTF8zX3hwamZFMWJqNGUyeFNaSHYxbW1ydzVZa0xQOEdKMUI0cjdfbnhGblRaTkdqUU4xNFU?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-02-11 21:22:18 UTC+08:00",
+        "last_updated": "2026-02-12 21:20:26 UTC+08:00",
         "changes": [
             {
-                "title": "Morningstar Investment Management Boosts Berkshire Hathaway B Position - TipRanks",
-                "date": "Wed, 11 Feb 2026 03:03:19 GMT",
-                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLV9pTlJZSDFJU081Y2hLWDZ4c3RGVUJrQnJLdFY4TjVKWmdSa3BUMmRMZktZOHRaVmdsNFVrcUFqR0JGQ3A5bjZMdF9tUGc2Z2xrdkJOdWFQYm9aQ0wzTXpkTnNVVmkzc2k2Mkh5eEhxTmplbldCNGFfRk1mcFhCU2E1djBfM3kyVWo1d0lCX2l4dW9EVWdySXY1ZXY0bHE3RlI1VkJrU21KUDJIb1RjcXpaUEc5Q2xTbGZGand3QQ?oc=5"
+                "title": "FMR LLC Reduces Stake in Berkshire Hathaway Inc: A Strategic Por - GuruFocus",
+                "date": "Thu, 12 Feb 2026 01:59:17 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlRsNTcyWVlDaGVVelktNy05V0ppV1lhWXJLVzRYSjJxcFlBaGZDSWp4aTB5TFRjU3hvcUVpMllWYXotOFUwX2s1TUdqenhyWWlvdlg2cUh4bUpiVC1qeG5QekNZLWlBdEo4Zm5INkNqOWVFLTFlSDYteUhzMTg4bV9Ld01UTWZkaTI0NjJyLW9LeTh5cFZtME9XOERwNWluSTRuMWxzcUowZXhPUmFOT1Z1OXk0Vkc3WXV3?oc=5"
             },
             {
-                "title": "Assessing Berkshire Hathaway (BRK.A) Valuation As Shares Track Modest Returns And Intrinsic Discount Estimates - Yahoo Finance UK",
-                "date": "Tue, 10 Feb 2026 03:10:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGx2N1VqX2REOFdkX05zbXlBdFZPQl91dFNFRXAxWWRkQ3RRMUdKZWxkekh4QTZUNjY3ekp2MmQ4aHNmOFJuUzFhemxtNW8yOGpWTUJGbGlqcjNOV0hxR1JjS1NXU0N3M0MyRnFqNzhpM2hoZmh2Q1FhQVYwZHkyMDNXSTRtX3pONEV0bThCaFdaRkNjeEE?oc=5"
+                "title": "Analyst Sees Berkshire Positives Post-Warren Buffett, But Don't Expect This Shareholder Bonus - Investor's Business Daily",
+                "date": "Tue, 10 Feb 2026 20:25:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnMyT2Z5MEtmVHR4VjNvX3ZJRVd5X01XdW95VGFWMjN5YTJFZDQ4dGw3ZzcyS2RVTE8yM3NnbHhVZTIzRHh5UUpMcXN1cGRxenZFNXRwbzFDWUlmYVNZdFJoNkdNcjNFM2Nycm13MTJWdjZxMzl4WUhsSW02QmwwWk9UQnVwWDdv?oc=5"
+            },
+            {
+                "title": "Warren Buffett stuns Wall Street as he snaps up stake in struggling UnitedHealth - MSN",
+                "date": "Thu, 12 Feb 2026 02:48:49 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQZFRtUjRYdlZCX0VzZV9fYXVuX1B2Ynl4VDNFbk9rRTRSSFNyMlpWT0NKcFJMNzQxRUxMSXkzRXZuYTJnczBSeTl4MjlFSUo0a0N3eW1fdWU1VURrNnF4MVRRQnZ6cHUyNklRU0pRcHV0cFU3dmtMeHRRUTVfa0wweUFya3RQd3NnWXd0eE9STDEwY1VBNWVJampXZHB5eF94X3N0YnhubEhiZVJOb1Q5S2pPVER2S3BEOFkzcFBRNEhtd2tOVm5UX05mRVlWUGVwQlJXeS15eEdUX1dPRGhqZmhzTTJDeHV2cFotbE9ET1VjMVBYWlFyUndLVkRkQ3dOQ1FKOGs4VDcxVG1nbjZnbTZlOHNiOVV3UU1NdTFQSWxMWHBNajh4aFFVeDkyNm1IMDZORXpXX2haSlZ1ZVJpMzY4Wjhoa2plX08tcHZoMTF2RjNHUVhOaXhNb0hxX3ppQ1BJ?oc=5"
+            },
+            {
+                "title": "Warren Buffet\u2019s Berkshire Hathaway successor eyeing selloff of 325 million Kraft Heinz shares - MSN",
+                "date": "Wed, 11 Feb 2026 08:26:29 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPUzlaZklVeXVyQ3A0b2dPTFBDSjcxUnZYckdkTGVwdkdJVGxXUWxzQnA1SDIydU5Dd2V0Xy1TT2VmdzlGNFIxbXJLSTFBWFE0VnFmNGk3ZHRxUkVFTzRzNE4xaGJ6ZGJ4QW5BbGVLQXloeXZBSmZkWlg3Rk5WeFVkTzVieHp3bHFLMlNsWGRSR1Eyai1FcHRfN2dIYzlBaTByRmFwbEtCcURmRTl4U19ZdFk1LTdPMmNSbDRpOTdrS1RrSWNlVWxiSEdvRW9EcFRZbGRnRWhmNmpmbnR6Q1Vic19rdk14R1FrY0Q2X0JRUl9qbEppUU1VTlJVeWVPZVk5ZjlwcGxONHlla04yNXJRaFozRG5JSGdrWWdoTmNiWFZIdHVTeXFnZ3dLMmtmLTh1LTF3c0NtRVRNLWN4bm4zSkNobW9UTzM4SUt2X1Y2cFJ0MzRtUkJnTXBvU2lCa0dKTXM3aE1oSHVualZ1MVRsM0owRmNGcGNIS2EzUHBWM01vU193MjZaaXMxbw?oc=5"
             }
         ]
     }

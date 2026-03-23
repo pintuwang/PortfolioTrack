@@ -1,67 +1,194 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-03-22 21:02:08 UTC+08:00",
+        "last_updated": "2026-03-23 21:18:57 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-03-22 21:02:14 UTC+08:00",
+        "last_updated": "2026-03-23 21:19:04 UTC+08:00",
         "changes": []
     },
     "Markel Group": {
-        "last_updated": "2026-03-22 21:02:21 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-03-22 21:02:28 UTC+08:00",
-        "changes": []
-    },
-    "Strategy": {
-        "last_updated": "2026-03-22 21:02:32 UTC+08:00",
+        "last_updated": "2026-03-23 21:19:10 UTC+08:00",
         "changes": [
             {
-                "title": "Strategy adds 89,618 bitcoin since January 2026 - Tech in Asia",
-                "date": "Sat, 21 Mar 2026 23:41:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGZhcld0QXVqZVVKOFdXc1o2bUt3eDNRS3FVVEl0c2xNVm55SzYtakFhSFZDTFpTaDBaanpKN1ZoMzFjcnFPSnkzVEJoT2RKWEJVdEVtVXdzejZVZ2FsYnBvVVl1bVYzVFlxSl9WTnBYWGxEQVd5cC0xRVI5RWlSeG9RT0o?oc=5"
+                "title": "JPMorgan Chase & Co. Acquires 1,193 Shares of Markel Group Inc. $MKL - MarketBeat",
+                "date": "Mon, 23 Mar 2026 08:58:24 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3FvMXRhN1VfcXZpMURuaWQ2cTRJWFNfRi1CSm1QeU9yTE41Uk1ONjRVTXh0WG9hRElxVDhyZGxlNWRXSG5SazJjNGNZbkRoanNTa05sZmdaUGN3aW92RVAtUXlRaFZUVVNtZURsbGUtNVdHb3duMDlubTJVYXdwb2NCVHZ4NUtRellBZ3JaMGNwSEZ1d3VPOU52bzZVeGtPMTU0eHdPSlh0eXFLdUxXc3o4WEU3amc3OU93OEFLemo?oc=5"
             },
             {
-                "title": "Strategy (MSTR) on track for second-biggest BTC buying quarter despite price drop - CoinDesk",
-                "date": "Sat, 21 Mar 2026 14:00:37 GMT",
-                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzZoblE3MG1kenJjUHlyb0ZjT1V5TXlzdFEyUU8wdTVQMGk0OURsZmhSaHBvUktSYWdVVU9mdG1wWGNuc2xXZ2lPNl9VXzg5VmVFQ2dlbXVfcjAzQXlTTEJTc1dybng0MGJjclNncnNZSW01WFpuenBFYW1aTGM5SmtYZGVCSXJPOXpIXzN1bWVWbmtwRUJkclF0OGk3M3VFT0otaHY1alA5TXp6c2kycmRGdnhZaE8tNnhhYVY1QQ?oc=5"
+                "title": "JPMorgan Chase Boosts Stake in Markel Group - National Today",
+                "date": "Mon, 23 Mar 2026 09:18:44 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnF0bEgxYWdFLVRiQjJRT2s5VFFFUDdKYWhHSUJvWGZ0YXBkUDVGWFNVa2t2a1hpa09MMXI4MzMtUjdkNVhKai1IM0hMQUxhSUhGMVN6QXNGZ0hWS09DQWVBVko4R3Z0clBnVzdDa0FJanNHeU5mNExmcUpWZVhFMVB2eGV5RHVlV3B2a2xwRkJyWTRhbnhONUVVeDdPYWNVV0Fz?oc=5"
             },
             {
-                "title": "Evernorth Details XRP Treasury Strategy in S-4 Filing With SEC Targeting Nasdaq - Bitcoin.com",
-                "date": "Fri, 20 Mar 2026 00:27:06 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2QzakE4R0F6NFZYOTRLcjlUTnFwYlFCSEI3dzBPS1gxb2NIVFlyaXMydHJrQ0FOa05UUXZ4Q3ZwdnoyQUMzUUlXajdiOWlsdmJoWjg4b2Uwb0U5ZFUwaFM0YTFaUW1QUWowNjNWR0FoOXNQZ2pIYzN6UzNmVkczLWk1Q1dPazVJR3dIdjlzczJvZHdncU1KdTlaeFdzb0NYZjVrRFJJTHI?oc=5"
+                "title": "Markel Group Inc stock faces pressure amid insurance sector volatility and institutional shifts - AD HOC NEWS",
+                "date": "Mon, 23 Mar 2026 05:22:49 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWFTTjBRSkxWU2JqTUF6X0wzX3oyZl9ST3NvNlU4SzZuTTN3b3lRTWM4ZnBtaHdzVnZCT3dqMEZOaUVLUnd6SFR2dG5SczVEVmNZQmdFODJ0RzhJRmcwamJrNWtSWGpqek82TjNrZ3pYY0o4TlU5OXlmcGFyOHpKcmlYRlVjbUpsV2o4YVlRU3U5eG42TzRPTU5QN3FpWDYtcmJRMG8wQVdtNklidjdlb0h6ZGFrVGZtYUg5Vmk0c1dScGR0OEFZNThMYnh2Zw?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-03-23 21:19:15 UTC+08:00",
+        "changes": [
+            {
+                "title": "Billionaire Bill Ackman Has 25% of His Hedge Fund in 2 Brilliant AI Stocks (Hint: Not Nvidia) - The Globe and Mail",
+                "date": "Sat, 21 Mar 2026 09:10:37 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNODdsUFNfMV9OZ0lITExFN1ZkZkxJX1JBTVcxaW9LTHFKMzgyenp1VEdpV2pwTnJhdlRnNThBVGVvaG5TYWVMQWVlVTNEWU5sRG5JS3p1aWxPMEoxZWhYWnhTbVF5SFRTS1FSRmR2T0NZUjNvTVREVk9qLVZ3S0VsbmhYOGhlZEN6ajBfdFlLcDFLSmdxRk5CNGc3ajAxMHhjZ21JbEh2Ums0OVFBc0ZXU0o5dzVhZU91Zm1iRmkzVDNUb0pnb3pmcHRPV1RmV2g3Ujc3XzBLVWNNblRNbTgxY2lheFZpNHQ1QkNxOVo2NEZZOEo4cnd6eTk4bzdrVGI1NFpFWDdn?oc=5"
+            }
+        ]
+    },
+    "Strategy": {
+        "last_updated": "2026-03-23 21:19:20 UTC+08:00",
+        "changes": [
+            {
+                "title": "Chris Hohn Portfolio Analysis: Core Holdings, Concentration & Strategy - The Acquirer's Multiple",
+                "date": "Sun, 22 Mar 2026 23:21:33 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcTdKNG0wMnJRM0lXOE1xelliZ1k2UHVtdkdsNldZOExUOU1TUWVpeGVmTzVIQ04ydVNXRENObEVHQkJrTTduME16b0tUY2I2d1NZajV1ang4Z0ZWSGV6dlU1SHlnWG1ZLVdGWTV0ZUY5X2pHaXlOV2E2eWlBNmJmNkN2QXI5Sy1zSVNjX3Y0ZW5waEJQYlFXMF9rQUFqUVcyVGp3eEpjUUk?oc=5"
             },
             {
-                "title": "\"Strategy posts record buying spree even in a bear market\"\u2026accumulates 89,618 in Q1 alone - bloomingbit",
-                "date": "Sat, 21 Mar 2026 14:26:08 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91a195Qk9PbmJpYnNxSXZ4UTM1Y21jajNnck5hRHlzeFdyb1prTHplUnpaS25Vb1ZNVk1ZaTluX2ZlT2txWXNTTUZrZG1KYzdzYkxLdQ?oc=5"
+                "title": "Strategy news: MSTR acquired 1,031 bitcoin last week at average price of $74,326 each. - CoinDesk",
+                "date": "Mon, 23 Mar 2026 12:26:25 GMT",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjVjZDgxSVNEdHNwMTdYU0NTSENtejlTaUhTSk9YS0xrTFUyVGZCQU54blY4bFFSS3FPUllvQVh2UW1RTDczYi1ZLXpKb3c1V01MMHFSd0toSjdkcDltTHpjaVlVdjQtbDhTUVBIcG5rUnRWZXdwWWpMNTJoblE0Q3htcU9FVWdUdmFURTl3ZWxCZFdmNV9QS2ktUnB0WlNGLXR4LXFXLW9rT0pLN1FRS0lIZHdJZGR6emhyalVHSG4waDFRY2c?oc=5"
+            },
+            {
+                "title": "Saylor Hints at Buy as Strategy Sits 10% in the Red - Bitbo",
+                "date": "Mon, 23 Mar 2026 06:35:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6UnNyUS1uYndIZFpTYUFZOWwyd1h5VndoMXZRUTZDdS1YeWstdUtkSGJGMTJjYjlidlhmbDZHTGE0ZkhtWHRMRmdxenMwVHVfWEFYdEdPMzdTX0dLMnFkQWItY0U?oc=5"
+            },
+            {
+                "title": "Strategy adds 1,031 bitcoin for $77M as holdings top 762,000 BTC - MSN",
+                "date": "Mon, 23 Mar 2026 13:09:34 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX0VrV2JuTW9fbmphVlk2aHZyZzdzd0pZMkVNQzQtQWpWYmd3ODdDZm1Rc181UFRRMk5BOV9NTm9hZWNZWXZ3NmZnamJydWJQQmNfX2pVVkl0SEVtbzE4eDdSaXRzWU5YMm5CYjdLSjJESlltVy1QTUV6Z3JZRmxxdzRZeEQxVjVTZHZWaFdtN3NnVWt3UzJMTGEyQlpSLUxaSE1wQ2pOTlVRNVNPMTVMRENwVElWUXk1aXEta01telAzUFZ3aEl3UFNyRnB3UFp3ZWMtQmV2VU0?oc=5"
+            },
+            {
+                "title": "Strategy Adds 1,031 BTC, Total Holdings Reach 762,099 Bitcoin - Bitcoin.com News",
+                "date": "Mon, 23 Mar 2026 12:20:10 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemc0bWpKZV85UjdEelpyVE5HNmVzMDJKbmxreG9FQlkxSEI4endIbjY3bkFERDZjMk45UmgtZnRGd00yVkFJbXdaMFVfT3JnTk95X3I5cWo0RXd0NzlXRDB1LW1ZdnZ4OXMxV0R5OWE5RjlWMmdQMnlZX1M1MGhsc09LZkZ5aXphbDN4bA?oc=5"
+            },
+            {
+                "title": "Strategy Inc (MSTR) uses ATM share sales to expand massive bitcoin holdings - Stock Titan",
+                "date": "Mon, 23 Mar 2026 12:00:09 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXliQzlrSk9NZU5kTFlTZVI4cFBuSWNCR2d2VTlpQW9OLVZiWFFSUW9QTy1EYWpPN1o2VzhqZGZ1akR4NmRLSVltSHh5OTBZcHMxeEV1b3JRaTIyamVDRFhNRHY0TWxwdlBZaGlDWnN5WGkxd0VNeVlZVmJXMXFkejZYbmpXRkRqdUlsMVJnZXlvVzVVQWJYaVFFUkJsVDBwdWg4?oc=5"
+            },
+            {
+                "title": "Strategy buys 1,031 Bitcoin; its stash now surpasses 762,000 BTC - Cryptonews.net",
+                "date": "Mon, 23 Mar 2026 12:52:42 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DX0hnSjBIRUxHdExrbXhyd2tpMEg5OWxPVWRxblh5YTRneV82OGo5VV8xaS01YlJsV3M1eS11N0RzTEI3NHVmMzRBeE5Mb290QUJkeVRKQjg?oc=5"
+            },
+            {
+                "title": "New York Jets draft strategy: Which position is most important? - Jets X-Factor",
+                "date": "Sun, 22 Mar 2026 22:08:21 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU09YVXZlemRUa0RLbEpUTWhIWExwWEU5QkJPa1BuSlVma2tBRFpMdVdoUlViMm51bW9TQWc3VW1UeXVvVVc5TXpCRU9VYlZWZEU3dU9yNExLdlhxdGpjMW9ZNU5vb0tKU2FMcmxCdTFmLWZHNS15UjJOU05Qc05PZmstTjZNa1oySUpV?oc=5"
+            },
+            {
+                "title": "Strategy expands BTC holdings despite market pullback - crypto.news",
+                "date": "Mon, 23 Mar 2026 12:31:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvcXpWdjBKWENaQ3pyekszX29Fb3E0bXpUTW1uYXVSdkVRWHJMUXBvYTBNOW5PM1JGOF80MmJ0NXd1aHE3aVoyZDNqUjhIUjdveDl0WEprUzB6RnpsdWx4S09VeVR1Q2R6bUE4NFhYbVRFZGtPT3FUaUgzR0Z5cUk?oc=5"
+            },
+            {
+                "title": "MSTR Stock Forecast: Jumps as Strategy Buys 1,031 BTC Worth $77M - Coinpaper",
+                "date": "Mon, 23 Mar 2026 13:08:37 GMT",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXk2ME5aYmpBOThMcUlyaHEtSWxRR0FpeTN6Ynp1bl9tNnYtQ1luQThCYk4waVBzQ1VzalBDYkVTUElONlZIUXc4UlVOdUxQODl4WFJWT1A3RnJjZnN4WEhzY1BzeEd0NzRPejJwbFZzLUxta09WNllCRkloTVNIVzBITHhKMWYzeVpIR2hqVWhYTGtBdEZlWW03Q3lJUQ?oc=5"
+            },
+            {
+                "title": "Saylor\u2019s Strategy Buys Over 1,000 BTC as Unrealized Losses Mount Up - CryptoPotato",
+                "date": "Mon, 23 Mar 2026 12:11:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGY3cWRaQ2REVUc5V3dRMHpJY2gzNmNMYWNwNUVxM0RqcDFpWmd0eGNMS2xBUFQwM1J4ajUySHpfUTVNZTRLUk1iVGlsakRqVDBSRVBRQnpGSnNTaEhHaDk4MkUtQ1BrRUJKYTdmNTYtWi1nTW9vcWdnZVVZNUlDejZkcC1DR0Q4d2MxNmFtTGsxWm05TkE?oc=5"
+            },
+            {
+                "title": "Strategy buys 1031 BTC for $76.6 million raising holdings to 762099 Bitcoin - CoinCentral",
+                "date": "Mon, 23 Mar 2026 12:43:39 GMT",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamdjRm5OV3p2Y3paMmFWSklYdGg4WVFWZ0FFQ1pOVUFQTGVlSTBTMXJpN19NdEh1WHJScnZuMTBYVlU2cG9maUo3V0g3NUdXOEx6VU1FeTd4RGYzc1Bma3Z3QVRmVXlnSXVDMWNDQ29BNW00Wk5DdF8tQUlxNHZuRmdSMEFxeGhnc3hDakxXOUVKWHRHSmlqN0xnRGZsSERM?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-03-22 21:02:39 UTC+08:00",
+        "last_updated": "2026-03-23 21:19:26 UTC+08:00",
         "changes": [
             {
-                "title": "I Was Surprised to Learn Who Currently Manages Berkshire Hathaway's $308 Billion Investment Portfolio - Bitget",
-                "date": "Sat, 21 Mar 2026 18:27:44 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzbG5CVjU2SFFUckNEUGFoQnBnQk9kOE96aDVNTVlreGNCdDNCbW5DZnpfRGpUcEFqaFZQX3pjbi14RlNmQjU4bG41MXFqNnVQTGtwa0g4TmxWeUZyOXfSAWNBVV95cUxOVlh4eXp1QXJCbnRQemR6bndpUTRhLXNiSXl1amdHbmhNVU1zX3BRckp3c0czbkJ4MENpajNNSXB3QkVsNlctekxaUVVRdEZ3bDdKdDBUUW4yRDFoVEZULUN2Ukk?oc=5"
+                "title": "Berkshire Hathaway to Acquire $1.8 Billion Stake in Japan\u2019s Tokio Marine - WSJ",
+                "date": "Mon, 23 Mar 2026 11:11:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxONUZvMGJwSmx0am84NU41V01tMVZqczdaVjhJaU1xOFZFcHFWdGNfdHlWTnlDdDJWcWpDcldGR1RGcGxOMERfN2JocWlCSHprRl8zRlByc1Y5cEZkd2RUUmF4cnRabmE2Z0FZTG8xdVo4UEttQTUxQmd1MlBhc3BadUlfVU9PSy1KS0NaR3hSQXNWODlKdEt1WER1VkQteHpNQ2QycU5SalBQRDVKNHFvbzI5VmRnT1hOUkZGTWRXSW1Nd1VidUNtR2JoQlVucDg3QmhCWTc4NEVGV3ZxMEVGdk1PRTFjN2NwVzlVMkZKTUtTSEExaWlVQXJLUFBvYXR6Z0dmTzdfRnBZVmhST1Rab2RRbnZOYTJMUnU1dk5fZ0hSVGhuc1ZwWXVhOXhkQ3RRRUM2OERFaDIxNXpSdEsxWGx1MXZQNEdULWstR0ltWGVhRkw5bXVCT2hheFpyMkVTSS1tNnR2OExQNW1lNGhkS2d0eks1bFpxVHFGVTUtek5KSTM5WjN5NTNBVzlGVjU5YXpOdU9hTEVERW1vY2ZadnN3?oc=5"
             },
             {
-                "title": "VeriSign (VRSN) Shares Slid Following Berkshire Hathaway\u2019s Reduction of Its Stake - Yahoo Finance",
-                "date": "Fri, 20 Mar 2026 11:43:56 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDl6TmlVdHkta29sZXNfZ05kX0JhejQ3YlVUQ3V2UDE2VFBFYWswNG9RbnowZ1hiWl93a0o1alBLaGx5X1hZQUkxa3VvX2t5LVZueFBvbEphdExUMlduY0dTZkFPc1loX3F0Unp3cERmbHBvN0JzMDBOQ3M3OGNaN3BzVHdJMG9OU1haYXZxQW1JemVvRVFua0FEUEtqb1dzUFE?oc=5"
+                "title": "Tokio Marine to form partnership with Berkshire Hathaway, initially sell 2.49% stake - Reuters",
+                "date": "Mon, 23 Mar 2026 07:21:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXlaMXQ3Q1VadlNaZWVReHgtdHpCMC1naC1wM3BWX25CeHpQbUZxdkRMLWo0T3lUVVVzTTRsaGo0NjZOMWR6NEZPY3lWVjh2ejNwQjlKMy1XMGFfb3hjcnl1WlgwRTJqN01nNGg5WllFbzNFTm9MNmxRUUlrR0twTDNtOGtmVXBjMHUwajh6dW5qQXk4Y19mc0dGVDZVa3NkYVNyMU1iRTRTUERMdy1EeFNVc1BEVHgxQnZPaE5KbVZ1RUtna0dBX3JtbndIZw?oc=5"
             },
             {
-                "title": "Berkshire Hathaway Increases Stake in Chevron Amid Rising Oil Pr - GuruFocus",
-                "date": "Sat, 21 Mar 2026 08:59:21 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzMteGtmVjM1TlA0WlRraEpFR1VDaEVRdTAtOHAxNjYxTlBFNWd4RFo3NHhRR0tQNEhRX1IwNzg0d29QQXA3U0pkUmhlUDF1U2VaRnEtcUdJNkdrV3Byd2FlWUZDZ0l3MnZ6Z2liRGQzYjBUOXVYR2RHN0puYk9fOFhFMy1LMXhESFdiV2d0a1RBNUJaVklOVURkOFB6VVVBVEFPeWRyRVdIeWc?oc=5"
+                "title": "Berkshire Hathaway to take $1.8bn stake in Tokio Marine - Financial Times",
+                "date": "Mon, 23 Mar 2026 09:10:04 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRloxbkdWY1VJZUpEWlNIblAtMWJvNXlnb1VlQjFpMEkzdkdLRGxzTVI1MnhvczdNSDNZNlF1cWd0Q2xrdUJvdVRFRGRybml6OWVYcWtMb1pCcm4yTnoxcU5DRDkyaDhRb192X0Y0NnFQY3NvLTh0OUZUc0tyYUVZWjgzV08?oc=5"
             },
             {
-                "title": "Berkshire Hathaway Confronts Its Next Challenge: Will Greg Abel Grow a $1 Trillion Enterprise After Buffett? - Bitget",
-                "date": "Sat, 21 Mar 2026 07:36:36 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZN2Y5czFLWE9KNnlMb00weWl5Z3VnWk90cDBrYjFjTlJPNDJnLUJuaXB1VW1Pd1Z3a19GaXZFeERBTHRfVjYta1pxRkRISHAxUVNSVDgwMmtjZGRuSWc?oc=5"
+                "title": "Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks - The Motley Fool",
+                "date": "Mon, 23 Mar 2026 10:06:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEd6dDVfZ1hUQmY4VVY0LVVsdW1qNnhsaHJyS0N4eF8xWVRib3lXY3NlQWFQY1VsbVJlUWZKSHhvZEpmLTBRU1huWGhyS3drZjhlcFE0Y1kxWXNUWXduakZMcmMxd2NQaU51Tkx3ZFVBVExwaUJvR1N4WGxtdWVtYzBadXpXMDNLeUIwTThYWnBCbDNz?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway\u2019s NICO to acquire 2.5% stake in Tokio Marine - Reinsurance News",
+                "date": "Mon, 23 Mar 2026 10:04:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWNIUTJIcDBzLUdSZkNVTGhlNTNRZVJzWG9LZFFFOTQyS1M2WEpVRWczVTU2YlBMRkFJdkNJOFBSamJwV3d3Tm1QbUxxTjZ2MTlISHIwWjRCQUd6c3hhM0dwRVVoWVFfbk1UaHpzNm1ES19DejRWb0h2anhRd0V2TWpMU2czNzh0M0UtWTRleGlROEp0SWc?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway Buys Tokio Marine Stake As Shares Trade Below Estimates - simplywall.st",
+                "date": "Mon, 23 Mar 2026 12:09:17 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSm95S2hJMThXaXRGSno5NFZaN0lldUhwT0UtU1VnYmhMa1lWU0o2NDJfSjVvR3VKZmN1eF8yazRTeGlwaUM1dEFZZU1fY2lNU21WNmVIYV9JX1NJSC00NWM2WGw4czdrbkVGbE10ZUQxa1dXVWZ6WjEwblFQZDBCOFgwaktrMFBIMDMtMzlwSGRBeWRwcUpOSzh4aGZLWlI5SlYzMlExTUg5ZzhrMGsweVhqa1RvSEtjaUlaLTdfTkJfb0FNTjBqSFBMeEJPWjVkMy1aWHh4d3VOVUlzV3RVX0NvOWbSAeoBQVVfeXFMTTU3NUNtM01wT2taczBjeFg4eTdhV1k0OG82a3JKRFlzOE5kSGl2dkxwU19wQWJsR1B2ME9oWXYzSEh5SHFwaDF4MVV5VGpiRGt2RnZ4Rm5uOWFVOEZUN1BXbHJtLWtqYzhnbXZHYU1xTWg3T3F0SUdlT0tEQ2cyQ3E1ZWZYbklxTWNVcExadV9wUWNjalZxS1kxZTFTZVF3eV94LWR3RmdhUDhDUms5R3Q1aUJ0QTF2RkExRzJEYlZNN3Q4S3kwWFJxLWttUk5QTC1oeG8tb29NVWQyRW45SDh4bjZ1ZzZycmFR?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway acquires 2.49% stake in Tokio Marine Holdings for $1.8 billion - Investing.com",
+                "date": "Mon, 23 Mar 2026 10:19:14 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOd3ljdlZpanBnNmdzd1gxM05uVUxIcU42aDJDUkFaQ2Jic0diNV9zaDNxV3NqNDZrSzQ5Q3FadGJQcGo5anNnLVFVZGVCNDg0ZkRtQ29sQ0ZQYzJ2QjV3WmJSbHZocHl6QVV5Sjh0QlRCcElJdHAzMzJkbUNWaC1uVVNrUGhTM0w4dnlLTU82ZGVacTVrSVlBM3NLSlZ5NDI4X09kVEJuajJGb2ctNzFYMlpLX3pBS2o0eHRpTzZUeGFBOHl0UkFKN21Kbk5PcExhcjNWSUxB?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway to Stake $1.8 Billion in Insurer Tokio Marine - Bloomberg.com",
+                "date": "Mon, 23 Mar 2026 08:21:37 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1JKdTF4Qkg0OHBOY1I5M0VCRHRZdUVKVk1WeUdHOTE1eF9MUU9CbnE2Z3BEUFI0S3RwQXR4bjIzcnBDZXFRQS1INzdKTWhLRmkwVDg4SXpHdkp4bDJxQVhQaVlkdENYT3c4S2Nxdm1DZG5KY0NWakhDblRyQVBVRVRZT2w1SWd1RWVROTVvUUNqOTZJNlV4YlczaDA1SDhDc1ozanlyT0lwdGtMazVJcFZBTGg?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway Expands Global Insurance Reach With Tokio Marine Stake - Yahoo Finance",
+                "date": "Mon, 23 Mar 2026 11:05:36 GMT",
+                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdE5qcWhDWkxwbnEzSXcwb0l6ejF2VXJZSF92NVB2cjFsdzRMUkdHaWpnYVJ0NURXaWtwMW5QTXBaY0g0RnZOeTAwTWVBeG5oMExOTlItSWdVb1VsQVdvbjZqTGZJSkZIX2pyTkRyd3RDSW9qSWJwMC0xNjNFUk5Oc2ZxOURYeDVmbHhQaHMyb2tOUy1scXpFdVZQaTk3QXplVTlWWXlEU19naEU5?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway to buy stake in Tokio Marine in $1.8B deal (BRK.A:NYSE) - Seeking Alpha",
+                "date": "Mon, 23 Mar 2026 08:29:17 GMT",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcy1TVkdHX1FaSWowTlVBYjFwSFpZWkVNb1ZrU0ZLM0k3T01oaHNqWW5ZeTRLYkJiVVQyVDNNSGF3ZXh0LXZNRkZPZ3dSa3d0MUlsQkJXNEZuQzRCaTZEbEZ6UWt6R25NZnBBU1NTVzZfcjg3N2ZreUg4REJWbFZUbXpzWGxfeGFoa2JTZFlMdHJKenBZbzA4V0tKTXNrZw?oc=5"
+            },
+            {
+                "title": "Was Warren Buffett\u2019s Coca-Cola Investment a Mistake? - 24/7 Wall St.",
+                "date": "Mon, 23 Mar 2026 09:57:47 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZFJXN09qX2pRR0VUNGYtamlIM3JwZ3lCd29VS3dEcy1VMUdPamhLUFE0OWxwUm5ZTWFwaEtXRFUtXzBCUWtYTjB2bWFIdFViVnJ3Q3daR1dXNW9SYTlMejJqLUdqN1dqQnF6a3pCOTg0NmVSSGtaODBqTlVReWJKZ09BSGh5bmFkRUo3RkxTNE1fYXM4T1MwckV3?oc=5"
+            },
+            {
+                "title": "Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks - The Globe and Mail",
+                "date": "Mon, 23 Mar 2026 09:47:24 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPT21HU3BDQXdKaUp4NjVmRHN2cE9lS1VYNnNSMjRmR2tWaXR2TVRFbmRac05QYmRlM0NwV3d2ai1CTWZBcTluaUUwSmdIS040RzBKbjVzWTl6SjBmM2NTeVlOLTNVenVHb2djMlFBalV3SlRvVmFnbEs1d3BoZ3J5Y3VMYnpKZWE4TVNDZ0RPT0ZRQUJyY1BBWTRvUjRweHgxaXd3aWc3Y2ZNazhNb1lGckhSUFNVNmFHREZuQkhYaFRSdzlObTVLeFhVODg5RlFBNUxnSWxEUWp3V0E3TlYyWjdxWHVFVWN1Wi16ekdFVG1nZFhvZ0dkSGNOc1hHR3I3Unc0ODVzNGFyMDhDMlF0MlhtOVUxZExISXpvVUZkVXJNQQ?oc=5"
+            },
+            {
+                "title": "Tokio Marine to form strategic partnership with Berkshire Hathaway, initially sell 2.49% stake By Reuters - Investing.com",
+                "date": "Mon, 23 Mar 2026 07:35:13 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3FURjRIVERweDNkbTJvWGNnQ1ZHbHVaZnhWSUllWGhkNDZJQVVuczRnMTNsMDhGWVZ5UkJnNU53ZC1UamQ5UUYyT2M4STJSSHhfa0RJTmtBY2pzXzVIeGRlRDRRNXFOYkRxU1pNYlc0bDZucFhYbHBwTHlZOTRvem5PWUozZWpvRExocmY0MjJLMWJUUC04Q01MOWRVbTk4YlJIdUFFUEFyQ19lWnEtNThpRWZrQ0hKSmNGTmszcGJVeDhyZG90anBvWHJzZEVSN0VIM1BYdE92enZzWTJlUnN0cl9IdmNoOGxSRg?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway to acquire stake in Japan\u2019s Tokio Marine - MSN",
+                "date": "Mon, 23 Mar 2026 09:14:49 GMT",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZDFvSUlRWFhxa1F2LVFEcEJ1OFp6QTFqcDUxak9XUjhqbWVGZEV0QlBNWndwQU5JMXROS0diSUxvdlh2alBVYl82b1BaY3RuUWtiWHhtWnRSTVQ0SFpEMkpfenllRnNtQzlpV0Ffb2pGbDhkb29Ka3JxaHdqdnN1QlUyMmFGX2dNajZ4VTdHZjZsYmc2aUhNVWhYRFIxd2g2UGFtcm9pVUdLdXRyaGc?oc=5"
+            },
+            {
+                "title": "Tokio Marine to form partnership with Berkshire Hathaway, initially sell 2.49% stake - TradingView",
+                "date": "Mon, 23 Mar 2026 07:44:56 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc09oeTBwdV9wc0VXNXdsaEVFeDhPbHhPNTdUbFFzT1ZnQTNBclczaWZhWjVWaGt0bzZxSWNVVEcwM2V0WnQ3eWc4dXBPRnlXZlBmT1lJbUFtbWlBdXhrX2hXWUdSV3BDcF8tZ0VKSzUtVUNENk5uM2ZmZlBPQi1ZQ3VzbThZb0NvU0FIeFBWMEZtVmV2VXEwZUlDa1hPZEZYT1hCQUlFU0xZa0x4NXMwek94ZjREN0pvZGV2N0gtbTZMMnppX2xJWnRoVERLXzVzNTc5am1zY29zbHRtM1Z0VFFuMjhzbDA?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway to Buy 2.5% Stake in Japan's Tokio Marine for $1.8 Billion - marketscreener.com",
+                "date": "Mon, 23 Mar 2026 09:34:27 GMT",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUDNrbzdUajZUWTdBOHg5dEhUYVRzblZ4aGlBZEdjdkQtZGFiZ3FrbmR4WjI3R1VjV3VvRWF4M2RhVWlWeUJ3dnF3cHlvMDlvYUIzbHV4VlhkU1JNcTJ3alFEZFkxdjlJdDQzeFRZTHpaV2JmLWR2U1owYkJrSDhlXzhxSEZQWlVNZG9Xbzdud19sSjVHQXRxUEg3YUFXTVV2TDJkbkpWdExzVG1UODZ2bHc2Zy1mT1JOcUNOU3Zpd0F1M1ZGMHJJ?oc=5"
+            },
+            {
+                "title": "Tokio Marine to form strategic partnership with Berkshire Hathaway, initially sell 2.49% stake - TradingView",
+                "date": "Mon, 23 Mar 2026 07:17:07 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0ZieXNwOGFtanNraEwxV0NBb3YxVmFhb0Q5LVBQQ0tzcE4zWDNwdUtzYzg5djJmLVlwN2ZGU2FQV1hpZW9LQ09pOWRPcExMeXJPUnNNcV9Vc2htaFAyV19WeFZONnhqT2RMUTlOaUlxa0c3eGVHOHk0aVA4VUktR055bUZXbzhRUURGS01mSlRvbHA5akhKNjRXUjloVzUzNkQ0Y3I2NTlrM3JZN0xOckFrRUthSkdoR0k1N09jbk1xMEFQSHVqYXZhdGhRM0NsNy1ZSG5PRnhHNVZQVjFBeEpmeGlza2tTdmoyakxFN0ZUNTJ5?oc=5"
             }
         ]
     }

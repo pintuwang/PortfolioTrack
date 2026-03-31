@@ -1,112 +1,139 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-03-30 21:44:59 UTC+08:00",
+        "last_updated": "2026-03-31 21:44:47 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-03-30 21:45:04 UTC+08:00",
+        "last_updated": "2026-03-31 21:44:52 UTC+08:00",
         "changes": []
     },
     "Markel Group": {
-        "last_updated": "2026-03-30 21:45:08 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-03-30 21:45:15 UTC+08:00",
-        "changes": []
-    },
-    "Strategy": {
-        "last_updated": "2026-03-30 21:45:22 UTC+08:00",
+        "last_updated": "2026-03-31 21:44:59 UTC+08:00",
         "changes": [
             {
-                "title": "Michael Saylor's Strategy pauses weekly bitcoin buys, retains total holdings at 762,099 BTC - theblock.co",
-                "date": "Mon, 30 Mar 2026 12:15:49 GMT",
-                "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1N5S0drRnhKVnJPM003UGtvZ25CNWtpOUdDM3Z3ajktUEZNc0l4anJBRnI3ZGUwanhWNWFPTVdtUlU5SDV6c3J5QWZZLVptQ0RMd3VMbGx3ejd6LXpvb2lJcnJWREpLakViM0lMTWh4aWlpME5ReWh2MlVLZEV0dXh2QWRTalo1YWZld2F0V2pWM1NwU1lRUmlaMzBPb0Y2QXMtNERPOVExclQ5clR2R0dLZ1cyUQ?oc=5"
+                "title": "SG Americas Securities LLC Boosts Stake in Markel Group Inc. $MKL - MarketBeat",
+                "date": "Tue, 31 Mar 2026 09:01:04 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0JGaE5Xa2FsUkt6S2VGemFyN09kd3lILUQxV3kwaDNCNGxOa29GOTdNSXA1MklIVk9QQks3Unk2MmFOQzVZWjBfYjYwQ09RalJxS04zY1Bld0lKVDBpVnBMSGNmc2JSNEhiWVg0TU4xT1NBWldMOHM1MlhvT25ObXh0OEJ2QkJBNWZ4ZmFONlVOdE9PbFVkU3RYTGpxakxSZ3BwV2sxS1M2QlRtVmZOaU9FTzFfYU9zam5seFYyWWxGUQ?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-03-31 21:45:04 UTC+08:00",
+        "changes": [
+            {
+                "title": "Bill Ackman told spooked investors to get over the Iran war and buy Fannie and Freddie. Stocks surged 40% the next day - Fortune",
+                "date": "Mon, 30 Mar 2026 21:12:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEd6UjB2SU1SMXBBMmttUThQbGFYUFdmVVRvd2MyMWNZeF9JaWZmeEM1YkV2U2s4M1JrRWpGUnRYYTBKU3dwQWNWcXgwVS01ZkM3QkgtdzgzV3NNU2FiRElUazVmdVh3REVrdWFCN3VteVk3RVlPWmNmQ2drVF95UFJsYVFrRGxEMnU4bkR4eXBqQ183QTN5QWJhWDNkZDVP?oc=5"
             },
             {
-                "title": "David Abrams Portfolio Analysis: Key Positions, Concentration & Value Strategy - The Acquirer's Multiple",
-                "date": "Mon, 30 Mar 2026 00:47:15 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXRyNWx0NDhiUzJtMDRUZmp3Y0xKbGhmUFNwTUZEbW9haVB6eHJ3cUlGQ1B4d1A0ZkNjbVNnNFVQMUJGY3NENFY5OVRucmg0NlgyMmJyVFdzSmxqWEw0UmxGeEU1ZXVMSUsxY2ZRVEhYeW12TFdWdkRnNllJTFFRVVhGUjJvLVhLRE8tck5QdEozNUIyMUdNX1VCaXdZdS1LcWl2R3VpMFVvZ1ZsZkFqTVJscw?oc=5"
+                "title": "Bill Ackman says it\u2019s one of the best times in a long time to buy quality stocks - CNBC",
+                "date": "Mon, 30 Mar 2026 15:00:57 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkVsb04yNzRzS09KY2txaURaSkFVQ014aFdiVzc0RjUxUG1LenZhaVoyM0otQkZGUlZrS04zMGtfUjRKM3N3TklYVHVNeEJUMnk1VS1SZzJFYzZHY2hyNGZxeHVKemNYaHF0NjZuQ0tpN0VIeDV1UUF3S1JYenMxS0x0N0gxNjBBTGJiY2NtQThVMHJucmV3dVZsVXJVbTNtUE0wUHdYS040QWkyaklMT2JQMnBGQ3PSAbwBQVVfeXFMT0VzMkZfc1J0aTVMTFNhRkNRcld4bUxwZlQwUnVDTkktVlZhM19hNXZtby14c29MZ0NQUGtyTDhQcVgxdW9YWHpYU3MtLS1IeGNHa0s5X01GWFNBd25qdFVLeTB6b09pWE9EclU0Y0gwMGh1LVh4OWJLSDVqaGVzeWh0ZGdsT0MwakQ4YVM3YnFoenBFVnExZ0x3UVFBRTRZWFAyeW4tVHpCVHBpZ05LaUtFc0U4RHdMaVk3aGc?oc=5"
             },
             {
-                "title": "Stellantis adds 10,000 jobs globally as hiring strategy shifts - CBT News",
-                "date": "Mon, 30 Mar 2026 10:32:51 GMT",
-                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tc3ZkVzdndzg3LUpORGZYaFRtWGw4cGdKUDFHaGxYNGMzRHZzZTNJaE9vR1BuR2xudjdPSXFUTTV4X0FlV3dVUUdWdk1pR1AzaXhPTFVQaUFxTnhyQ1RTNTMtLUFjZ3lyX2R1aw?oc=5"
+                "title": "Billionaire Investor Bill Ackman Has Some Investing Advice Right Now: Buy the Dip on Quality - The Motley Fool",
+                "date": "Mon, 30 Mar 2026 15:39:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjc4Nm9vbHRNUGY2RkJEQWpfd0Q0ZkNkb2lsS3U0NjZFNlI4VzRYVkxYZWlNUWtrNEd0d191bXFaRTBfd091eEd3QUQ2TGpWcmtKbVhYZHNrMGp4cG5XcUZiNHBnR3dYaDl1NmZMaVBpVVRsMFVqSm9TUmZTMjRIakc2LU1ZZ3BwaldNUWh0dW5xZmJoSEhfMA?oc=5"
+            }
+        ]
+    },
+    "Strategy": {
+        "last_updated": "2026-03-31 21:45:09 UTC+08:00",
+        "changes": [
+            {
+                "title": "LabCentral Adds New HR and People Strategy Offerings to Support Early-Stage Biotech Companies - morningstar.com",
+                "date": "Tue, 31 Mar 2026 13:03:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSG5qclF6amRGaVBEdEZ3bHJrSG5KUjM1N3BuT1JzLUYtTFRxRlhaRWdyWG1TT1NSZzFFRXdyTWM4QWJxTGRxRi1mdEk2dlB3Ym9FaVlycnRldjRlcmF1YlNhaEViS25DTmJ4YUJIV1NOYjdGaXVocHNHRWJlU3otWUlHWWRMUnplMXUyMTF1a3oyd2k3ZUhNWnBMellIcThrazUtdHY4MVdXSHRqcjRMRWZsNGpsa1JGQXlqbk11c1FCZkV5UkpCRjYtVWNsWjM4S3k4WFJER0hDaGlGZ0syTk5CMzlpNTNGVmc?oc=5"
             },
             {
-                "title": "Strategy Inc (NASDAQ: MSTR) ends class action, details bitcoin stake - Stock Titan",
+                "title": "Strategy\u2019s Latest SEC Filing Shows No Bitcoin Purchases or Share Sales During Quiet Week - Bitcoin.com News",
+                "date": "Tue, 31 Mar 2026 01:35:47 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmxuc3VOMW5Sb0ZMdHRBanhxdTZqa1FzbHI1Zi05M2lKV0djcWZPQkFTRE44cHJWamc1SUppWWlldjdBTUNKUEFHaUNSUkZpOVdvR2JtWU9SdjZUOGdvZmtVQ2IxN28wUnVUM0U1UTE2S0h4WEFfSVd6aVBXT1pKVW1rT3dzM1FRcDNPZFBxSGQxMUdfVURGY2c3SlVpYkpSNzR0b282S3IxcWx5SkRYWGNlMA?oc=5"
+            },
+            {
+                "title": "ZAWYA: Egypt\u2019s energy hub strategy delivers $6.5bln investments, 83 discoveries - TradingView",
+                "date": "Tue, 31 Mar 2026 08:31:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeEtGbmJhTGJVY29vZEt6UHFfT0tHU3hsSnhMeWM2RDVEMks5LVM3SF9fSXpNbkRFaGlodU1GV3lPQTI5VVlNa0pCT3d4Wm1ac1loS29NVmFBSGk2OWw1RkNGYXBnTGh6ZUJEc2xEQmZqZmpRcS0xeGlZQWtmT04wZV9WeUpaZUs5ZEpWYkUwRXRpUnYtcDR5Z2d6VlBQLTU5VTNreHBqZ2Y4QV8wX1J1Z1NWUmp6cDgzLURTeTFoaENEbEo4Z01CTEZ5ejRqOUpPaElrQ25kT1ZWeHYzN3FGeUppNWNwZjA?oc=5"
+            },
+            {
+                "title": "Tom Lee's BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying - Decrypt",
+                "date": "Mon, 30 Mar 2026 14:45:53 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEdJNGdNSzFFcEJMczFIMFA3NEhSU3hlZWRnS2pWZ01jVG5RcVl2anZfRV9lelQ3d1FneXFDMnN4c2RHLVRqUUpNQmI2R0pCTDdkdTlwcjNaSmdSTDdqcG5XZ1lIOGxzNmxjMmFLRUVYUDQ0QzFfZmhJT1dmZVV3MjRrZ05ZbE9EZnlVeFItdGZBQ0FKMnfSAZ4BQVVfeXFMTXBPbkIweVU0dU5IaHFHWGZpdlBKREV1dTZlMWdVdTJMcy1Fa1ZZd3BjekVVNEREMEsxWXpYQWQ3NkRMSnl6SDZReFBaX0NFMTJ0U3hBT0V5UXEyOG9pYWtTbVhqa2I5ZG0yTXhuSW1DQy05YTluRE9rN0ZJVTVnUjBKNDBySFQyOEpfUzZldUlDRTRFYU42ck5td3B2NXc?oc=5"
+            },
+            {
+                "title": "Vext Shifts Cultivation Strategy, Trims Arizona Footprint to Fuel Ohio Growth - TipRanks",
+                "date": "Mon, 30 Mar 2026 15:02:59 GMT",
+                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSy1wUHBnd1BIU0hac3Ffcmt3YUhUY2dOOHRfMGwxUGhCSHNBNHVfd3IzRWxlWjFOYjNNWnRLZks2WkZwUG5EUkxTMnVodDBPVVF1a01PXzU1VVAxaFlrYzk5MG1OV2xLWlNTaUE2dUh2UzFEV2hBTFNEbGpBY0FFMGt3RWtqM1FiQ1A0eW1WN1AybmViZmZ2RW92ZUJGcGZHRzdjZS1UZ21SZV9LTUlySUxUVkNObW1lLXBVME9Yc0R5ZmN1OS1F?oc=5"
+            },
+            {
+                "title": "Jeff Hafley may have exposed Dolphins' draft strategy at key position - Phin Phanatic",
+                "date": "Tue, 31 Mar 2026 12:00:03 GMT",
+                "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlVWZThOeVNieVdLMEtfakk2VjRWZm41V01tMVhOLXBzc1hMNTVwOE5QZWxwVFMzUW1HUmEwbWNlWEZCMlFkb0NXZnYzbzE0YWpsY1NmNkVQNFFwbVVaNnhSSTdyam1FNmNLU0laNXJoLW0yWUVvZE1mNm14cUNoendIbDZWLWRheXltQ1VaV2E4aTFTUGhYV3B6YU45S3k5QXN0VS1IZ1VUemdEOENCV3pn?oc=5"
+            },
+            {
+                "title": "Strategy Inc (NASDAQ: MSTR) ends class action, details bitcoin stake - stocktitan.net",
                 "date": "Mon, 30 Mar 2026 12:00:08 GMT",
                 "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEwwV0RnY3NBU2JmRTNrVjN5cVYzVFF4d1F2MWp0Mm90ZURxSlJTZ29BRlRxLW9aSFZONno4V3VFOUpOekd6QUFRZXoxOEt0bmZFREtlYWFwT29ZZkx5VEc0aHhCNUExdEtFZTB3QlVTUlFZcXJhQUFWc1NDbXRjbUUzazRyU1ZNY0ZtYXYtQmZJalpmNmkzN2F6dUZsMWJ3aE5V?oc=5"
             },
             {
-                "title": "Strategy reports 762,099 BTC held at $75,694 avg; no ATM sales or BTC buys Mar 23-29 - TradingView",
-                "date": "Mon, 30 Mar 2026 12:03:01 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSEJYOFBXaU5SNklZdW1rRUs2UkhVRFpodm5kZVpTSXZIdkdWb0dkN1BNTHhORFBnX3hkdW5OalZJV3hXZ2ZndUswTTB4TG13bWNjOHcwWnA0aHk1S0tVYVhTaHpFTFl4Q19GYzVQU1E3OTg4T2Vmd2ZPOVU3OHFtOE1rY3hKUS1ISXlicmNQelZVZTVITlNxSHdISENXeG0yRG9ROVNHYm9lcWNUX3VTQWdLV0Fzc0t3YWpyeGFOdFhlX0dUYVJ1UElzdkoxODFTM2RFcnQySXBoeExW?oc=5"
-            },
-            {
-                "title": "Wolfspeed closes on refinancing strategy; reduces senior note balance by $475M - MSN",
-                "date": "Sun, 29 Mar 2026 20:52:19 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOajh6SnNHTWpDRGxkSDJEOU5HVVJjdUthd3VzNG9mdGNYM2tvNUN3SWVfTXVEQ3lxMlQtdmVualdRNnI5ZzBLclByNXNBQzZpTTVHeThYdmdnQ056MksxblVKV1ZOTWhMU09Fd0h0OE5mLWkxbDhwbGlGM1VkcDlnanN0b1FXbFplUllDUk5RZkxYMWNsRjlwRnpIbFUwX1pGbUpUYzV2SnA0VTNyUFFnWTRWT2tTMzNDTDM3V1psX01HR0NXYU1IbXR3?oc=5"
-            },
-            {
-                "title": "Strategy may halt Bitcoin buying streak after 13 straight weeks\u2026 holdings steady at 760,000 BTC - en.bloomingbit.io",
+                "title": "Strategy may halt Bitcoin buying streak after 13 straight weeks\u2026 holdings steady at 760,000 BTC - bloomingbit",
                 "date": "Sun, 29 Mar 2026 22:38:50 GMT",
                 "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sQVJHa29QUlVtb3V6VkY0WGhHQ2kyeGxoNjRBNTJLNDR4XzZoSzlkWnRnRXluVmJxT1pidFVPbDJjWFJ3cy1Ua3dYcHhXRmdBTy1FTg?oc=5"
             },
             {
-                "title": "DPA and DSIT reuse strategy reduces digital exclusion - UKAuthority",
-                "date": "Mon, 30 Mar 2026 07:54:54 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0NmX2ZPRUJESDljc0N1SUhMMUNWMzVRRkwweFE3VGFST3FlNGFPMG4yUnY4azJtanJHRFlwY041YUtSZVZzVlhGcHpHNGdaZXVTclJKOVZtQlZXeUMteXIzX3dmN3hGYXhxX3RGcThQQ0lsRFBQalA1ZktoNXFTNXlINEFaR3dKb2NGT1FscXdvNUhv?oc=5"
+                "title": "Strategy pushes pause button on Bitcoin purchases, stock sales - TradingView",
+                "date": "Mon, 30 Mar 2026 18:02:57 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTRkaGQwUkdYclZtM3pPc0ViT3F1dDVaSkJwN3JLN0FJNmY4S0F5SksyOXMzTmQwUkNKR2FZQUZPdHd3c180ZEo2eWg2STJlYjhBbGVhTDJKU3NYeThmTGZOM3FRaUd1SmhyaW1TMTQ3Ymh4Z005LUNOVGxfWHZ3ZENEMmJyMGpfY252N1ZCVFhIQ2dDLTZDeFoxUmRuNnd2V3NQdG9nVzVBZDk4eFRDMmhrRXZ0cjRST1U0Q1d1Q2FPN2M?oc=5"
             },
             {
-                "title": "Ethereum whale buys back 10,000 ETH\u2026strategy spotted: \u201csell the top, re-enter on the dip\u201d - en.bloomingbit.io",
-                "date": "Mon, 30 Mar 2026 01:32:11 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTYmo0MkpVNE56YklwNFZhcnYza1JNcDFSZXR3Q2lscDZiMG1VOE90MGlBYXZsZ3ZWUm1BVjVNZ0Q2djlONUhULVZfb0ZYQjVjYnFlaA?oc=5"
+                "title": "New ETF Filing Targets Bitcoin Treasury Companies With Strategy Inc at Center - Bitcoin.com News",
+                "date": "Mon, 30 Mar 2026 20:30:14 GMT",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEcyVkRTRHExNTNndDNCV2RnNXFpNEFWa3ZDNEFKTW1SU1RjLWI0OFJURzBnS0hsQmpwWEFRamNxTHh3RC1ZcjVYWVRBckhpVndCY3Jsd08zaFl3dWFkdEFnV2VfQlM0ZHZMUlZJTXJuUDFocUpxYkRkc05vLWpseUpMVExGRVFXYUFtN0dNaU9xeEpFUDR6Zm43NzZyRlY4dUxDUlF3?oc=5"
             },
             {
-                "title": "Coinbase Surpasses Strategy in Institutional Bitcoin Holdings: What About Satoshi? - TradingView",
-                "date": "Sat, 28 Mar 2026 11:16:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORm1ZX05PNkVrZ2NjcVdnaDAzMHBGZ0hIZ2FzNXQ0ZFZtVUJJMkFiWnFBVllEZEpWTU10RURCQmFjZkJrRTB6ZmRsVDJtcDI3R2x5a21XVHhYYVFkQ1RwSXptdWZ4RXVSTks5Z1hSZWRsc0hET204bEZTaXBFYXFZOHV3YTUtV0ZPWmhKT1NPQlBXTWN4QlFsYXBrTV82UVE0VnR3eEZYbEZzd0UxN2s3Vk53ZGdRbkVGbS1kNkJkTm03elJJYkl2X3FTQnlfUVV4a3lOMA?oc=5"
+                "title": "Champions Oncology Adds Director to Advance Data-Driven Strategy - TipRanks",
+                "date": "Mon, 30 Mar 2026 19:33:44 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDBDZ2lfUzBkeTNQdGJtMFltSzNIZ0FZeVpqVTBJTVBpNDdkTXJVVUdaNElRd0ZzQmxxR3ptdE9FOHZRdFhiVGROOGd3Rmh2REVad3Z3LXpYNXI1VHR1a3phZTdjb3NIZUF1cy1nV0NTTlJDQWxBTDAtS1RET01ReEdlOVlPRFh6Q052Vnd5YWdwMmIyY2daaHZVaGlHUXpsdnV1TV8ySHRFWEJjMFo4WmY1OW1rS0k?oc=5"
+            },
+            {
+                "title": "Debate rages over whether Strategy could recover value of its $51.5B BTC holdings - \ucf54\uc778\ub2c8\uc2a4",
+                "date": "Tue, 31 Mar 2026 06:37:33 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MRTI5UjJuU0xqb2lyNWo5ZFEwTmEtVlpEN1RaMkNvUHQ1NEFCRkppSm1HbVB3Ulh1RzBCNVBROVhJWHdNYjVMWUl2aTE?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-03-30 21:45:29 UTC+08:00",
+        "last_updated": "2026-03-31 21:45:15 UTC+08:00",
         "changes": [
             {
-                "title": "Berkshire Hathaway's Greg Abel Is Building on 1 of Warren Buffett's Best Investments With This $1.8 Billion Purchase - fool.com",
+                "title": "Warren Buffett says he\u2019s still making calls on investments at Berkshire, flags \u2018tiny\u2019 new buy - CNBC",
+                "date": "Tue, 31 Mar 2026 12:29:12 GMT",
+                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUjBwdkk2VlhSazJUcFkzdXM2UmNhQ2tOWklxSkVGc2I0UGNCTVZsTUZjSGFNZUFfN09qRWdlczBsM1FILUg5QWo4cVpLc2NUZ19HaFFCNUExb0Q4YVIzTGZFM3VUbFRERC1OaXZkR3huSlN1aWFRbTNUdGtnSG95V3MzZDJRdUtrbzlaaW1XZ205VGhqczVjUG5zazF6eDMyWTdvaTBvS2didjRGMUdTeGt0cHBGcHI5aDZqRHZmOHpHTjFE0gHKAUFVX3lxTFB1VlZ5OVhSdFQxa2xyYUE4WktYUXFoOTIzN2NfMXhCekZSNm1NNnMyelpWNWtrdEVhZU1CZlpDSWVNWjM5dDF0Q0J4Nm4yVVNYbHd0a2VhSkJMLWNLOUljT05KS3RDblR3YU93czhGRXYtczlHSUU4MXMzZ1dTdk5POHBjVDFuQms2NkVBS184NG44UTJhdDZTd0p2QnNLTFVBbG02UURiOG1rYnFUYVdfaVhTM0ZqQTZwdVRkbkdqUFB3cnR2ZXV5ZVE?oc=5"
+            },
+            {
+                "title": "Warren Buffett Says Berkshire Bought $17B in Treasuries, Still Bullish on Apple Investment - Quiver Quantitative",
+                "date": "Tue, 31 Mar 2026 12:25:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3NDVENwWlZSOFlkWWtaWTFZeWVyQ3ROeXYxZDF2TmNSQi1rWThTZjBFbWt0OVpsb2sycXFrT1U3TjRVeXhDSFczUjZNRzRTVDhhU1BGRy10RU5CMlBtRk5yQU1BSzM1RS1NZENVd2xqdjVaa2JIMHVGQVh6Ukd2emk1S19pY3VYbElaUWQ5WkV2bUxwR2tUSHAydWt0Y1Z0YmNzeDFPME1QYmZ3LUlwOGloQXYzYjdUdUU3REoyRHQxZ3lBR2c?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway's Greg Abel Is Building on 1 of Warren Buffett's Best Investments With This $1.8 Billion Purchase - The Motley Fool",
                 "date": "Mon, 30 Mar 2026 09:00:00 GMT",
                 "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXpZenMwMmZJblU0RHJ2XzhlX0lvM0VJQmE5ZHJybklDYTNSOXFxWHA3MkpPeWt0Rkw1LWJ0ekl6RXBaS0pZeXZiN1BkejZmNkc3ZlNJVzJpdG9yTExqQzRkYksyN1V6S0lyazdyd3pTUlJtYWNraTltRlhnQmdfandPaGhyUkFTNXlyWWVPaGFuS09NWnBB?oc=5"
             },
             {
-                "title": "Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks - aol.com",
-                "date": "Mon, 30 Mar 2026 06:39:19 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGV0Rk5nZkV2NFlkT2Znbm5rNVlRcldlOEpsT2NmX0F5X3Q4SS1iTW9zNjlGVXFLUngzR09wWHFjZ0lmS3JoSFhJekQwVGx6d1pXMEFBeWloNG8zWjVUcm1XbF9OVDU0Nkd5OU83Y3k1WVhGd25pQWNEOVJyMDMzOU1hS1E?oc=5"
+                "title": "Does Todd Combs\u2019 Exit to JPMorgan Reshape Berkshire Hathaway\u2019s Leadership and Capital Allocation Story (BRK.A)? - Yahoo Finance Singapore",
+                "date": "Mon, 30 Mar 2026 22:07:25 GMT",
+                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUThTY1dHVkQ5YmFBZlRiZFBzc1RVTGtsTmZEd2hOby0wMk9YUzdXQlVjZGFmWnV1YU5SU1hBQmMwQXRMTU12dXIxd2c4cVpDNGVRcmdYUHRtS1dpX1NVUjZuUXNsRzRjamhyTnZVUk5uaTZKLVBNV3ROT05DRC10TUo4U1E?oc=5"
             },
             {
-                "title": "Brookfield's Strategic Shift: Emulating Berkshire Hathaway's Investment Model - News and Statistics - IndexBox",
-                "date": "Mon, 30 Mar 2026 09:50:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0d3VW8yVnpnZmw0LVNSaS1KUUZPQ295YlZVSWJtN2tpbEFkYzhIcTczTDBtcVZtbmVtRTUwd1Mwdy1GZFlOMEV6ZGdJSk94VHBoRVdOclpfenRjM1FiaUUzSGhSLU5hYzVtOTA2NkhBN29yN0hkbjIyWF9aTDAtd1k4bk14NThLYXVwbk1VbnhkZFZyUjBMYmp0NXB3Y0M3Z3Z1VTl3dFZ3RUk5M2V4VE9NNFRKMV9ZdHpj?oc=5"
+                "title": "\"Oracle of Omaha\" Buffett: Still Involved in Berkshire Hathaway (BRK.B) Investment Decisions, Recently Made Small-Scale Purchases - aastocks.com",
+                "date": "Tue, 31 Mar 2026 12:46:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCaEpqUENiVGJIam51Uy12NjkzUlpSekdiVlhsSWREWElNM0hqeldVOW5GLW5xS00tMGJDVmxhdVpUcXZkVlZfLUVlWUE2OGhuUU5jNWdJTVI5dlJFX3BiZG15RDR4NmdQa0tOa1FkaWJHWWtWRGZiTHEwOWNLdw?oc=5"
             },
             {
-                "title": "Warren Buffett Wrapped Up His Illustrious Investing Career by Selling 50% of His Bank of America Stake and Piling Around $1.2 Billion Into This Scorching-Hot Oil Stock - aol.com",
-                "date": "Mon, 30 Mar 2026 04:28:49 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObTFCNUtuQlVSV2hKcF9yNy1oeVlBTDRneG9FcWJmUWZuOWVQOHJ2QkxMMk9STzJxbHFvOHBXejNROGJabF95V0E0NXJSbEpWZFl6LUxvd0dQMDVjVVozbmk4cDdWeUhYdldrdUc5TmtqeUNkSkpobFUyOENqbnRkWVZCY0NQMGhicjdtSHcwRXlHUFZibExrZXB2QTNIdG1wQnZfN1R0TEhMQl9FakdnYmlZQXFpbDM4VDY3dWZXVkx3a0UtWm9wM1hqZ1BWcmFIZzlN?oc=5"
-            },
-            {
-                "title": "The Only Stock Warren Buffett Is Clearly Buying Right Now - fool.com",
+                "title": "The Only Stock Warren Buffett Is Clearly Buying Right Now - The Motley Fool",
                 "date": "Sun, 29 Mar 2026 10:16:00 GMT",
                 "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanJPLUg0aDZrM0c3NnBpb0NkLXlVeVZBYXRMbE5PdHhyTnhGbHp6NVlCWkdzMGxYZFU4eHZMRHFXai1OVTBfbml4dUlrUUliZ1RiZWZPWE9UY09tZUQ2dnpmckpsQ05xemFnSFJBS25mNHFweEtQbDRzZldIRS04SDIyVl9ScVdCdXRlUTNaMVk5Z0RnZHAzSQ?oc=5"
-            },
-            {
-                "title": "Warren Buffett's Successor, Greg Abel, Has $64 Billion of Berkshire Hathaway's Assets Invested in 3 Unstoppable AI Stocks - aol.com",
-                "date": "Sat, 28 Mar 2026 12:37:22 GMT",
-                "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWRvRW9zRkVqU2VHQTAxeXdMWEVOS0tiNEtSdVEwc1l1Y0VtUXBWNFNHOFhzS1hFdmFLcUhmZkJHSUVBUXZEenpiWjJyc3RwN2VENWRWVjNaeUpGRXVyc3dRWmhlNkptRXBWU2QyR3ZCV2tCSjRXMk5Wdnd4b1NKeWlCU20ydGlBNUkwRzdRTFdxT2lyN1pDUFJtWHRsNDROQkZlbjRzWHR2c1EzOHI4bmZiX1hlM2VVb01QZnpHZkoyRlVoZFBz?oc=5"
-            },
-            {
-                "title": "Warren Buffett's best and worst investments in his 60 years leading Berkshire Hathaway - MSN",
-                "date": "Sun, 29 Mar 2026 04:50:40 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNYzRfUGdVcU03R1oyQUVENDZjc2hNNFExM050ekJ1bzIwckFrT1lZd0N0NVAxQTJta1JZRExxWEN6SW0tc0FGa05EWjZIUmhVZTB0c1RJaGxIQ3pWQjFMcGthS0FGTzVIMDJ1X1MxVnhRZlZUVGplOVh4QTFDbS15WC1ZY1doQ1ktQkJBZnFqRzdkSkstMTk1SHc3bFVoUGh6S0drU1lGLXJGTlZVMndVSlZtOGkwQ3JMbGNRRUpRaXNzZ1c1N013M3ZlUXhYMXctX0VYeFhRMjU5R3hfTDRjRmlEVzdKN3lQWGp4aDVuZVZqNFlyaEFtSmxiX3hNamp3bnRYOFQtX1VQbjZVN2d3UmMzd0RpeURIeEtFRDFyTm5ZaWxuQkx4UkpNZnZ2LWptVTdUaDFYZGIxZThsOWdlUUhYNFRYZzgxYU56ZTRlNjNTYmdlSV84MjZmWE1OQnE2c20xRTdR?oc=5"
             }
         ]
     }

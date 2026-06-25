@@ -1,112 +1,75 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-06-24 22:41:11 UTC+08:00",
+        "last_updated": "2026-06-25 22:43:32 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-06-24 22:41:18 UTC+08:00",
-        "changes": []
-    },
-    "Markel Group": {
-        "last_updated": "2026-06-24 22:41:25 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-06-24 22:41:32 UTC+08:00",
-        "changes": []
-    },
-    "Strategy": {
-        "last_updated": "2026-06-24 22:41:40 UTC+08:00",
+        "last_updated": "2026-06-25 22:43:38 UTC+08:00",
         "changes": [
             {
-                "title": "Strategy Buys $34.9 Million Of Bitcoin - Pulse 2.0",
-                "date": "Wed, 24 Jun 2026 12:33:35 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xcnRaWW42Ykt6WUktQ3VpVzczdWJvTDFxTnNtc0VIYmQ2MTJqdmhtLWc4M0tEZENCOFJVSzJoSF81NnkzcmVzSUYtdXhfRENPaDFlV2EtSFBNUm1QZmo4NzdUUTZ1RXJD0gFuQVVfeXFMTmZZeWxiX01aRUFnR0RBTHRSd04wZlROR0FQV19vZ2NsYjVPNUxHeGVXUGQyRWtmNFlZUE5DOXVaY3Fja1JJd2RnY2Q2Y1JQaGNaZVZsOEJjY3hLS1dRWjM4aUt6UTRhN2RJaWtsWGc?oc=5"
+                "title": "Niagara-based wine company Andrew Peller Ltd. sold to Fairfax Financial Holdings for $579M - Niagara This Week",
+                "date": "Wed, 24 Jun 2026 18:45:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb0gwLVQ5eXFncjVqUDJPazR2LUtMUFJ1UFJacm85dGo4ZmlTbW5mTXJ5dzIyZ1lILWNQTWdHTkZ0MDl1SkFSdUE4amx6bHA1RUZmRHl5RHJaWW5QTW9VMWNWQTIyZXhhQy1XaW1XZU5TOGVkdzdyckNpQWhOb3IwN3pNaFhDcWJXWncwZGY4YmZWY2pCS0tLa09kUzEzOEFzcFFURUNoMEZjTkhLQVJBY1JFTWxhaHZwd0E5Z0loV0dJRDlyLUZ3bHd4aHd2M3JRYTN3eDFWQzVmUTlsN0piZ3RZUDF4MWpKVmR1emt5ZUJkMDVJMDNEZ3k1dlNqQQ?oc=5"
+            }
+        ]
+    },
+    "Markel Group": {
+        "last_updated": "2026-06-25 22:43:45 UTC+08:00",
+        "changes": [
+            {
+                "title": "Hsbc Holdings PLC Buys 5,000 Shares of Markel Group Inc. $MKL - MarketBeat",
+                "date": "Wed, 24 Jun 2026 08:37:30 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRzdaVldOajU4VEkwalVFY1dmWDhFZ3JUYlA0SDhjRVMxSzVTaXgyTmhwWTVJRWJBZFNpYUlPa1V4OU93aVB1dHBLWEEzOXRhZmZRR0FqTmlfX0ZQcFhFNGlBSVVQOEF2SHd0SFBNQzh3eTZQS25pVVVIT3FVczVlQVBmWlg0ak80Z3pmdUpnZ01tOWg3cUJPMkhhX0Z2T09jdUdwdXB6VXFIakJOdjE5bkkwOXlHTGE3OTBB?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-06-25 22:43:52 UTC+08:00",
+        "changes": [
+            {
+                "title": "Hedge Fund and Insider Trading News: Seth Klarman, Ken Griffin, Ray Dalio, Bill Ackman, Saba Capital, Greenlight Capital, Berkshire Hathaway, Crowdstrike Holdings Inc (CRWD), NVIDIA Corp (NVDA), and More - Insider Monkey",
+                "date": "Wed, 24 Jun 2026 18:06:56 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPdk5QMWNaZHVJTld6LXBNRjVsaW9DN2tFRVJQeXVwRHJyRDE5MUJMZEg5VUZNanVYNVdYQ3pWa2JuOGNwTmNDaXJaeC1mZjJHdjdQTnNRMXdPSW1ra2VZT1VzdnZyOXpISGlCY2VBU2NmTEtoZ2JvbFVfTTVfUVFoazNlTXBvczdNbUpMRG5nWGVKM3NfYWEtRVBmYnFnSXFxaVFQaWNzaWpLOHRwUDR5YmZVVVBwcWlVTndMalo3RXF3QXlPT0VnbFFIWEJNU1VpSlhqeVJ0R0hFaFpCcWV4WUV2QU50REpxMm9odl9TeXBVMFplWnR1cTE1MTdoVGV0ZWlVOUVnOUp5ay04Q0RnLS15V1p6bGVmVmtjYl9ic0ozYmZqWHZkaW52Q2IxOUhrVVJJNlQ2SDFEZHZEUzdKOENqUWhjNWt6Yi1jelBlSQ?oc=5"
+            }
+        ]
+    },
+    "Strategy": {
+        "last_updated": "2026-06-25 22:43:57 UTC+08:00",
+        "changes": [
+            {
+                "title": "Strategy should halt bitcoin buys and bolster cash reserves, CryptoQuant says - CNBC",
+                "date": "Thu, 25 Jun 2026 14:32:28 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEhPTm43WjVCb2FORk83RWxpYXM3ODBvU1VKT2lkRkN1dFp5bm9EekxnU2pueWlrejBQVGEwY191SWRfX05FU0ZqSWRCbHl3VHhUbEVScE1uWUxTb1hwTDlqYVNwRGdKMXFRNkVUU2pxLW5pbWxyQkZlbnFTV2t4RFF5ZzlpaFdUU3pteUFaZHpMSXg5VXJQR2JPXzFPMXN6eEU2NTF2Y0xlZVg2UmZDblVUOA?oc=5"
             },
             {
-                "title": "EP3M Summit 2026 Brings Together Biopharma Leaders to Advance Portfolio Strategy, Decision Intelligence, and Innovation Portfolio Management - Morningstar",
+                "title": "Strategy Inc director Patten sells $159,120 in shares - Investing.com",
+                "date": "Wed, 24 Jun 2026 23:16:21 GMT",
+                "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTEstcmRLdXNJdWtBUnY3b21aaEdLVTBHZnFFMTNmVzJWeUJzM3Y2OXRiWktfZjV2OUV5dTJ5YVVuNTNKMzZvVkdhaGk1VjVMVG5GS241OXdwLU1JT2NvcG5mQl9ZUTluNDNBcEZVTnZlNi01VUtqNGhHVklvU3BKajNRMDF3U1pnMmhpR094WFltZDZsRmRaQzIwcXVmaDVfY182R3lIcDFHR0pjTmdRcnJOSWpUSVU?oc=5"
+            },
+            {
+                "title": "Total Soccer Growth Holdings Acquires Central Coast Mariners in Multi-Club Commercial Strategy - Ministry of Sport",
+                "date": "Thu, 25 Jun 2026 01:28:55 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjQxV21idXNxV3o3eDg3aHhNQXdYNDFldFN1U185eUd2dUZCZDVseWpqVm9lM051dDBMZXJEZnFuMGowSFRZd1lfeTVLUmplS0xNNktVeWZxd3F1eGdKdEp4LW5adWF4cnBZZTBtVEJGblYzUHBseWh5aVFFVG52cjh1UGFMMHdXblZlQWtWU3pSSV9Dd3RNSEdxczU2bUZMcVpUTl8zSXRyQnpkZ24yeGgxSTBFaVFnbVN5Y0Z6MnM?oc=5"
+            },
+            {
+                "title": "EP3M Summit 2026 Brings Together Biopharma Leaders to Advance Portfolio Strategy, Decision Intelligence, and Innovation Portfolio Management - Yahoo Finance",
                 "date": "Wed, 24 Jun 2026 13:21:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNQlFhR29NUkZCNy1VSDRqMzhwb3hZUHdhbjVWcHZjVEdoSWVWakQySm1qWFhKd1Rrd3JPbXlOWDlocThmYjVYczJaRTdEWFdBMl9IMWtJMHVKNjE0alUxTEJSbE9GcVc0NnozNkkzdEdNWWdSbFB0THdrQ3hKRFpNSHl6bDlPV1FVUU5UbEVnSHZocjRtdU1OaW9zMm1PeVUtaXotbjcxc2o1WS1CLXM2dXpsWUZiRm5xZnpFVUFDc0tKRDJiVHRrQmg0NzF3R29pQkxhVHhIQUNKWUlReHNRM2Mwd00wTnpTR25oYnJlV056U2tFN3ZlSFNDSFd5aGpZVzNhYllYa3dSUU90TjFjMjdwbHI5RGw5UFBZQ0E3cUZWOGpCeFE?oc=5"
-            },
-            {
-                "title": "BofA Says Apple\u2019s (AAPL) New Siri Strategy Could Strengthen its AI Position - Yahoo Finance",
-                "date": "Wed, 24 Jun 2026 05:36:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1hHQ0RESTNhcVhkbG5JSWdtMlhHazBCTFRLUWhxaGt3UHdrc216Qlh2Qnhzc0dRWVZpY3Vwd3FJbTMxWC1GTmZvcDlJYnNIcDFIbWs2eERsWXdXNlBSU3gwMTZoZ1VOdWpvTTA2d0J1ejVjQWEyU0R4SzlGVm5sWktSUUpWdXFTbS1mWXJNMG9FeWM?oc=5"
-            },
-            {
-                "title": "When Strategy Will Need To Sell Bitcoin; MSTR Stock's Scary Math - Investor's Business Daily",
-                "date": "Wed, 24 Jun 2026 12:49:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0ZiS05vQldybEtGQjFiZTZSYzIxQkZYRDA4ellJVWFxdk9STUpQTXNxa3BEV2pzTHBhZEpaS1FBMFhKMnFSV1B3WTM5QXBNbHF4MGE5d29Pd2VzZWN2blh3SUR1OXZNOFNIcEJtemRuX05hdzdLdVF3ckpIYmdUajBCT2FQQ0hvLU5YUmFsTnd0dGpIcE9qUg?oc=5"
-            },
-            {
-                "title": "Michael Saylor's MSTR should pause its bitcoin (BTC) buying and rebuild cash - CoinDesk",
-                "date": "Wed, 24 Jun 2026 08:17:14 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0xrVWtGaXJOTDc2d2VoQm9lSDhHeVJNZDVINTdtSFN4cjNDakZ3Q1hjVWdTbE14OXBSNnFMX3QwZVQzandWZkxuVGlxVk9Ua3JRc1RKbzUwd3FkanZYQmVQMlJzMVl1YTIxWHMya1M4WXBXbnR3bF9hRG85b0ZaMEdtZG16b2FWWjFBYmpmb3prOVhyMmlkaU80QTdrbXhWTjg0NzlXWWx0Z21sRUhfemtfSTBSOXNnSWc?oc=5"
-            },
-            {
-                "title": "Emerging markets turn energy transition into economic strategy - Portfolio Adviser",
-                "date": "Wed, 24 Jun 2026 09:38:59 GMT",
-                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOalJ4MU5QUHgwOFB4RjZlZ0NpY1lIVjFUZEQza2ZWMUltbTNOMkMyWUF3ZFBmeDJCSnhjNlZjNV9ULW5Fbnl5ZmpSbG9LanpoRXhXUDItMXJxMFRhNVAyTE01Tld4UWowZUpkUkl2eHlncTdOeWNXN1hPMWRkWWlSb3cyUzB1WkY2U1ROSHUwMkFWSXc1ajhhRQ?oc=5"
-            },
-            {
-                "title": "Moore Oversees Legal Strategy Across Anchor\u2019s Healthcare Real Estate Portfolio - Connect CRE",
-                "date": "Tue, 23 Jun 2026 23:31:12 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWXlLNUFJaDlqVmlvblNtaE1hbFRGYk1GR2tvWUdteWV5YWpkRC0xQU5VUEVueDFsV3ZvRVhSZUh5Tzd5M1lxSTRFY3BEVEo5Yy1qdXhYWkZrWENwc1RYWmFCazREWFpueF9iaDVha091RkRCakNxNExBRXJfWXpfd0pBeTMyTF8wNE1GQmVnRDdXS21vMlQxeEphcWJxZ0hEa1ZKZ29KU09wN3c0dVJPNU5ESHlDaW90UFBQeU4za0Rra25DcnJSS1ZZVHlZenliaVdmdFhlSmFkdDJBb1NkZHdnTQ?oc=5"
-            },
-            {
-                "title": "Michael Saylor\u2019s Strategy (MSTR) Buys 520 Bitcoin, Raises USD Reserve to $1.4 Billion - CryptoRank",
-                "date": "Tue, 23 Jun 2026 05:34:30 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3VxRENTOG50Y1hpVXZKdmhodkdYTkpkNjlDSmJCNExSVFd2UjJNenotaXFTekRmakF5NEtHY0toaWhsdXd2NkVwd0wzYkNVQk5UQUFTb1ZWbTVyY0ZvUS1tNG05RTkxOTk0SEd1eEVwMG5IRjB3d2xOejZZMTBxei1aYWFlQQ?oc=5"
-            },
-            {
-                "title": "Strategy Stock Hits 783-Day Low Amid Dilution Concerns, Adds 520 BTC - KuCoin",
-                "date": "Wed, 24 Jun 2026 13:28:30 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmpmYUc2VU1XT3djQnJVb1U4bkN5VlZ4WHVsdlRSUGVUMzczUGJUemZoN3B3TDd2RFZtaFZ3N1oxTWZRUmo0aFlwaDVmX01ub0JVSjdOZVZTeWJlbXBkb0RsWjhfV0ZKVEZ5bGRhV2wzYU1HODROc1RQSlUxMzV5elNoOXVKOUhBTWtLY0l0MlZaUFFqVGg1dm9UVF9nMlVYdFZV?oc=5"
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVTdnVm54NG1aZkQtVUlRNVVySU8zV3lrazZ5RVdqN3BSTDVyYkVnM2prUDkxNng1SFdhcGF2V1g2V2FhV3ZDMUdDbXVFOWZsNkF1T25yNXFaNmxMbmo1RjJRWkFLd20zNTBpMS1tVXpraDdyT09CZEFjem9iODR4cUZFQ0ZyVFN3ZTVad0J6TERXNi1hSXJMSA?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-06-24 22:41:44 UTC+08:00",
+        "last_updated": "2026-06-25 22:44:01 UTC+08:00",
         "changes": [
             {
-                "title": "Move Over, Coca-Cola: Warren Buffett's Successor, Greg Abel, Has a New No. 3 Holding at Berkshire Hathaway - The Globe and Mail",
-                "date": "Wed, 24 Jun 2026 09:51:58 GMT",
-                "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSDJsNHhVZHZzUy1LNFdqV2FLQnAyeWdUQ0FILW8xcUpJcHplTjdRZ1hlTTZiUnFnQVV0VmZWZmpKZ2NQUE44NWRNVlplWDRkT0JqaHY3UWFwUkJOVWZ0cnF6U0Y3YjlScUdnN0pQcVhoOGlFUUlGNUs0WmUyMEpqTmJlWWpHV191WENubFlHVTBBXzBQc2tHUWhqbVR5X0tGRU9zaUMweG9Ma0ZKenZMWmY1RE5yT0MwLTBGd3JnMjktRW9VNTd4a3BvUU1PRHZHYVFhbWtBdmRYU2VTdlRwN2x3NEwyTjZVaDNLbldXZU9ndW90QURXQjBCMjZIMmtyMmxycEM0ZHJyX3QtLXYzZw?oc=5"
+                "title": "3 Stocks Berkshire Hathaway Like This June - 24/7 Wall St.",
+                "date": "Wed, 24 Jun 2026 15:32:10 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEpOWWM0cVdrUmVoNVFjdjlwSWJoYkZWQVhpQU1PSDZvYTZYVnRtNVVLWXQtRTd5NFctV091VElZVm1tNnBlZ0Q1ak95bEJXQV9WVlZLdEQzYjJmd3EtRmRpTXVNaVNLYjVIWXJQWC1TTDFHdVlIUE43UUpfeFUyd2NheVpHeHZRTjJ2Nk00MA?oc=5"
             },
             {
-                "title": "Forget AI Stocks: The New Berkshire Hathaway Nearly Tripled Its Stake in a 175-Year-Old Newspaper - 24/7 Wall St.",
-                "date": "Mon, 22 Jun 2026 16:18:56 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS2VvR3F6bDRxTVllSk40Nl9tMnFxT3hWU0ZFc20xSUI0SFJ0ZUpyOWc1dFdFZkJadzFuSXJncGx4NFBOOEgzZ3VPa1lGaXA0LVpTRmMtakVGQ1dqLUJUZzBDZ09TcjNqN1VZbHMtaHJWcG9KaTZXUFY1RTJlSTdaVDFsUlNRVkhKcXRiMkZlazREV0tIVDkwaVAydUZqdTd3Szl5MGN5QnJPNlhhZk9IUWZJZmx1SGV4UldFa045aXNMbnQySnpzT3FFekZaakZWLXAtVTVtcw?oc=5"
-            },
-            {
-                "title": "Forget AI Stocks: The New Berkshire Hathaway Nearly Tripled Its Stake in a 175-Year-Old Newspaper - AOL.com",
-                "date": "Tue, 23 Jun 2026 01:08:01 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUdqMDVfZ04zVGVWeXpTUXRENHFUbVA5TXBUamZwRjUtTDlud3FIM05RUUVoUmJ1Slk5X19DdGw5Yk1fdUZlX1RxSkYtMGozQWhPLUwtaEdQNmFyN1BHeGlwMTdpRnIyN2ZXZFVMeWJPX05qTFJlZ2pBSmUzX0JYYXFFdk0?oc=5"
-            },
-            {
-                "title": "Move Over, Coca-Cola: Warren Buffett's Successor, Greg Abel, Has a New No. 3 Holding at Berkshire Hathaway - The Motley Fool",
-                "date": "Wed, 24 Jun 2026 09:31:31 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGtxVlRELVluLTdFUG83NDEteld4S21iR2V2dWtwOEQxdmVDYkdpZV9MVllMUy1sUFFLc0xZeF9Qci00MmZwM2xBa1ZQTTNVMUNrN2s3dnJHWmo4NEd6M1RPT25odjZwUVIwT2Q0dFpVXzkxbTdiSTNtRkFHeTZJMmd0b0ZCbTZvNEp2LTZCQjIya3FJOVdZ?oc=5"
-            },
-            {
-                "title": "Ex-Ryanair CFO\u2019s firm sells stake to Berkshire Hathaway\u2019s Itochu - Business Post",
-                "date": "Wed, 24 Jun 2026 09:55:13 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelhaa3NtR0ktNm1nZm9vaXRyeldkd29SUVV6cnFVb1RScE40d19ydWIxdXY0MHFoQjU4eVJmMWRuVWVwMmtSS0Y2YS1sQjJxVXR2aXFKSjVkcksycUpnN0ZtOHZwOXRYVmxvQjdRcFVfMXNUT1NpZ0pyREttdGwtd3BCdGw3NW13SDh1amJjcTY3RFFOMk5pdzZFbnZlNDQtNUdBdmh4aHlLUQ?oc=5"
-            },
-            {
-                "title": "Berkshire Hathaway A clears fresh trillion mark, shares stay firm on Alphabet bet - Ad-hoc-news.de",
-                "date": "Tue, 23 Jun 2026 17:23:20 GMT",
-                "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNktlcXVtWkd1d1JHWVVPakNRdmdYb21JNzh5Vm4wNVdUQWQzdkhtajB1emdpbFZDb3J1TUdGN2hKcUpicXBkRXpidW9uQ19hNW1sQUMxYm8tNEpaYkRDTlJpcnNMSUJCU0tXMV96aGt4MFljQjRfbEFJbm5JLS1relYyaXBsREhfa3M3aUpETS1ra3RtYUFOTzc2MWV6alpSUlVDMko3QnBvZWFtQ0lFdXExczVWaFRzaFVVaDJFekJGVzBr?oc=5"
-            },
-            {
-                "title": "Berkshire Hathaway Stock - Sunday background on Buffett\u2019s conglomerate - Ad-hoc-news.de",
-                "date": "Sun, 21 Jun 2026 18:48:13 GMT",
-                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOazBURjVKTmhvVk5mZ0xkRm1Yc2xQdkt5VEFId2pTR1hsZ1JzR1ZJaHhHZEcwWUxkUzlTd3EwVFYyNTY4U1VSb1VlM2RtUWkxMjVDcFFvWlhCNHZQR2ZEcnZvMVRxb0NHN3p3Yk9Pb2xoMWdLd0hPVTdKc3ZPOEhaOTRLbzNvcGJkcVpWdVVpM1FuMmNRY0RTZmV3VFZSVHZtd1VkTnVCckNnLUlEeUZCUHVGMGM4dm02d29SZm9aNFZtcXJ5R0E?oc=5"
-            },
-            {
-                "title": "Move Over, Coca-Cola: Warren Buffett's Successor, Greg Abel, Has a New No. 3 Holding at Berkshire Hathaway - Yahoo Finance",
-                "date": "Wed, 24 Jun 2026 09:26:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFh0dEkyRHFnc0dYM244LW5QYTZxMnk3VHUxMl9wV2xjUVh0LUQzSnZWSTUxYTR6blgxdVhULW1UZGpndFVfTkctX2dmd0xSNVRya0o4VFhVRGVTd1dmSnIyVzNscUdrSVByaDBmUWdLNVRiZlFKVWs2bmdnMGtxcHNvV1RyWXc0SHJuQkhHU3g3TG5MN1E?oc=5"
+                "title": "How Berkshire Hathaway's Portfolio Differs in the Post-Warren Buffett Era - Yahoo Finance",
+                "date": "Wed, 24 Jun 2026 15:20:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXJqZExwc1VkN3NLeWF1c01SQV9GMmNwUVczV0dDaDVEV0dOY3Zuck9ZcF9ReHVVSlBvM3hCLU1QbGRKZXJwZElqU09UYW56S1Y5NzFRdDJLOGg3VHRQR0pPdHV1S2lEZldaVklkbEtRMjkxb0dYS3lsbUZuWURmdURKd0JVX3dMR1kzUTdmU2FWY3RvN1FmYVFwOFBNcGhqc0pJcDRFSFZ2djQ?oc=5"
             }
         ]
     }

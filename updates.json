@@ -1,88 +1,53 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-07-03 22:18:47 UTC+08:00",
+        "last_updated": "2026-07-04 21:43:13 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-07-03 22:18:54 UTC+08:00",
+        "last_updated": "2026-07-04 21:43:18 UTC+08:00",
         "changes": []
     },
     "Markel Group": {
-        "last_updated": "2026-07-03 22:19:01 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-07-03 22:19:09 UTC+08:00",
+        "last_updated": "2026-07-04 21:43:25 UTC+08:00",
         "changes": [
             {
-                "title": "Bill Ackman\u2019s Pershing Square Bids to Buy UMG For Over $60 Billion - Billboard",
-                "date": "Thu, 02 Jul 2026 12:31:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2lpZzBLNFNWTkx0Mk5zS2h2UlgwSG96UnVfR09zY3JBd0xkQ2NVbDZLQVNvODAwdDNLdzR1VXFCRjRDdVE2dXF0SEFHZ2VURnBfNWtlQTBjLTBVMExVb1htWmJpRGxBOFI1UVgwYjVVVFhFMkdfRTVTc0dJR00wdWp4eEVwelc4aHc?oc=5"
+                "title": "IFM Investors Pty Ltd Takes Position in Markel Group Inc. $MKL - MarketBeat",
+                "date": "Sat, 04 Jul 2026 07:52:29 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2w1WEdPMzRaSzhIY0R4Rl9yd2hGbWxBUlRkam9kSEZyWnNEYUZiREJhNlRZUWM0cktIRVdIRHMzSEltT3pxcHF4SnRxZUpualFjdm54NFlRSFdQQWswbnVyUzU3OF8zVTZXVzlYVkdESTc3OWtIVWRwcGpmNVNtR1RUQ3hic1hhdVhhU3MyMkl4TGpCTFNtS2ZRSC1rdE9RRFo5NlJjanpQYTNvSGJnOXFhTUpLTWctRk9kQXhn?oc=5"
             }
         ]
     },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-07-04 21:43:31 UTC+08:00",
+        "changes": []
+    },
     "Strategy": {
-        "last_updated": "2026-07-03 22:19:16 UTC+08:00",
+        "last_updated": "2026-07-04 21:43:36 UTC+08:00",
         "changes": [
             {
-                "title": "JPMorgan Says Saylor\u2019s Strategy Adds New Risk to Bitcoin Market - Bloomberg.com",
-                "date": "Thu, 02 Jul 2026 16:45:49 GMT",
-                "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWE1vdmRyRUZGT29sMjhPY3dvaWZ6MDYtZi1KZE5hWWh5emRJOVJrbVczX2diTW5EcmsyM05SOHI5NldndGpWZnlBSlRHTnM1VnowTXFoZUJVc0dVbG8wdk9USTl4OVM4Qm5jdkJidE5zZEFrWHVVQW8tTUpSLTZwTUdYV2pfeXFhRE9Cb1doX014WFBHMDQ0YW52NmZsYVpibllNTjlzU0ZnSm9HRGFVNk9lS0c?oc=5"
+                "title": "Strategy bought time but Bitcoin\u2019s next cycle may need buyers beyond Saylor - CryptoSlate",
+                "date": "Fri, 03 Jul 2026 18:55:35 GMT",
+                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDBPc1FyemxPQjdoNzZKa0xHQVRHd0Z1YnVhbTVPTXUwZV9ja21VYTlkNlczbTd3cGZhaVZkaURVMnpSSE51M1lWRzJIbXVwTzZ5MVpHYVpZNVU3R1lTMzAtelZXYnZULTlRVDNHVm5YMDUtRjNOYWxhUlBRVFFmVWluQlFBeS12MEV5TjF1ODNvbElzR2NIZ25vamZnTktt?oc=5"
             },
             {
-                "title": "Strategy CEO Buys STRC Preferred Stock After Record Slide - Barron's",
-                "date": "Thu, 02 Jul 2026 16:38:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVk9SSWt1THZaa1E1SnppWVJGT1ZxUWd4RndmX2lhNHlWaUFac1pFeVpnakhTUHhILVpuaUJWd2lCSFlKSnZBYXBaLUN4M25yanFiWWxnaXEza1JmOUpJRUlRM3I2bnBRNzhVYlh1ejV0ZXRrTDBwcDJXd2l5VXU0UXFRa0t5d19fUjF6bmhFUQ?oc=5"
+                "title": "Strategy Bitcoin Preferred Stock: JPMorgan Warns Retail Holders Face Deepening Loss - Tech Times",
+                "date": "Fri, 03 Jul 2026 23:57:07 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcG84V2JLM21RSWdRVDVoRnU5QS1FNjBHWXp3enE1VDJiU3liODlpcHBsR2F4NmNQSEtIc29CRkdwVnpfVE9IUE5hdjJMYXc4dUVXbThjQkZ2aUdKeW1XSkVIS0Q2eHNTU3NWT19VSjQ2aFFtU2RtN2VUX3ZUY1g4ZkY2eVNMaG1YN3F5dkxtV2dlb0hOeXJLQ2haWWFLOENGSWw4ckdSSjRPTC1lMWw3S1cxb3JxakZmN0pSVWctNDRVUkVic01ESGJNYVpERFJwYlE4?oc=5"
             },
             {
-                "title": "Brown Advisory Large-Cap Growth Strategy Sold Its Stake in Fair Isaac Corporation (FICO) - Yahoo Finance Singapore",
-                "date": "Fri, 03 Jul 2026 12:30:37 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakZoRU01MXNQMm83T01BS3M1bEkxSHpjWGwwa2FHODliY1Fkb1c2NzNwZUN5RExRX0xOLV9OYUd2a3JHZ0w1UmZVTW1zVkQwbE5YcVkyeS0yYXlGdlVOcTg2VHU2UEFPalE5Xy1BT25UaTc4V0RqOExvdkU2SGl4ZFl1a0pJa00?oc=5"
-            },
-            {
-                "title": "FBI director discloses Strategy holdings months after deadline: Report - TradingView",
-                "date": "Thu, 02 Jul 2026 17:04:32 GMT",
-                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQW5RcVFuMWpxdFBlVnFqbnpqMGM4LVdNUV9vc0dGNmtqUm5ZZ3E4T016RXF3WGN4X3NqLVpRTlE3TXlkTWtJYS14ZkFFckFESGY4VHNldFgyU0JjTW91RzFCbFFuSG95dTVrNVZYS0ZRN0x1cDAwTzNCYTVxMVl2aWdOdWpkVTJFOW5Id1pra2E5ejJLakNZVzZ1dlhUYlFubjk0WmFNbFBfQ3ByQW9hd0pzZUNwM3dTUk5nRlMyeUtidkxXVU1OUTZDZ0NPdw?oc=5"
-            },
-            {
-                "title": "Strategy CEO Phong Le Buys 11,000 STRC Shares Through Revocable Trust - The Defiant",
-                "date": "Thu, 02 Jul 2026 19:24:25 GMT",
-                "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTDFwUG5ueTNyMER4WGpQWDRUS3d0V3FrSTRHeV93cm1tMk8wOTM4ZGVqdXlVUEFkX1VJX1E0ajF6SHFEaF84U3B5QVd0ZjBfVkstSDVTVEZYNXY3R1RMQmw0ckhXdFp3YkEzS2hYZ09VaGRNNlVDaUI5UW9odG5UOVFpVjlLX2Fqc2VDdjRUbi1ydjhVTFdfdHFR?oc=5"
-            },
-            {
-                "title": "If Strategy actually sells 491 Bitcoin, how significant would the market impact be? - odaily.news",
-                "date": "Fri, 03 Jul 2026 06:20:57 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1icExBcDJLaW4tUGtnUnllby1KanpxbVU4azREVU1FdDJvaklUanlWdk5kNHdlc0VYVkdaTDBrOWFTaUxnWjlDTnluQ3ZEU0U?oc=5"
-            },
-            {
-                "title": "JPMorgan Says Saylor\u2019s Strategy Adds New Risk to Bitcoin Market - Yahoo Finance",
-                "date": "Thu, 02 Jul 2026 16:45:49 GMT",
-                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRGJlZnNmWWJrM3FGZ2FuNU5lR2RhRVQ5VGxLdnhEY0U5Rm41MEtWck5nZGFDTm9WMlJhMUZhZHZOUVF2LS16NzZoVjNvdWVLQmFxUEdiU29yQkJNT21paWlSM0pfc2R0OHoxZ1NFblhLaVlSVkNNNnhNQXVGREhCN2pNcVRXQU9lcWoyQ0hjOEdqM0xzNlRlVzM1NzJ1aHpt?oc=5"
-            },
-            {
-                "title": "FBI Director Kash Patel's Undisclosed Stock Buy in Bitcoin Giant Strategy Is Down 44% - Yahoo Finance",
-                "date": "Thu, 02 Jul 2026 14:50:18 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXVrcGtMZHNueVYyeU9aZlczU1pYNmh6VnBhbFFsNXUzLURjRXlYaVJsQUdqYWl0ZjVmUGRzZmxpUFltVXFWV0JNdEpQWmxDSEt5b0d2eEw2YTVBZ1p3RUstUFhZUnh4YS14RTdacEFiampIYnZxQWJVQ3pxSGdscjZ0V1pjLWt1SGhRWDhFa1pWb3F5TmhDb2xXcWVoQWpnQlNj?oc=5"
-            },
-            {
-                "title": "JPMorgan Says Strategy's Bitcoin Sales Add Risks to Crypto Market - Yahoo Finance",
-                "date": "Thu, 02 Jul 2026 18:17:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlFFT1MzZDhXTVR3eEV2dU80VzRmRXlOUnRwMmZsZWlwT2FOdVBrcy1XbDlTdHhhSE0tVk5oNlV6YUJVZTJIZFNnclJ6N3gxN3hRdXNkYXNlZDd5SjljbW0tRVhsZTlYRVFrY3FxbzdPa3dCYmVjdmQ0cFJMODVkM2dfaUJQMTVMbXUtOTVfX3JUYlFpQ2MxeldKYldMbHZWdmprWg?oc=5"
-            },
-            {
-                "title": "Should Old Dominion\u2019s Softer Metrics and Cash Position Strategy Require Action From Old Dominion Freight Line (ODFL) Investors? - Yahoo Finance",
-                "date": "Thu, 02 Jul 2026 02:10:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXJvSEJJTTFUajg1RkpxNVpPdnhvdVd2RF9MSWFqRDNPVlhyeHpDdVIwNjNKVjJmUWVwWG5oYXZkN0tVb2RnSV9yTnltOWlnckRYYlBJa1VwNEhnVGNhV1M1bGJuZGdwNFNoNk9paERfM0hGX0trcTVxcEFvM2IxQU1oUVdObWVuY2hTVmpoXzVCa0ZuNUtUeE94dDYxZw?oc=5"
+                "title": "Brown Advisory Large-Cap Growth Strategy Sold Its Stake in Fair Isaac Corporation (FICO) - Insider Monkey",
+                "date": "Fri, 03 Jul 2026 12:37:05 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZVRnZGRYWl9IcHlVMklqaHEyc3ZhLWRMYXdTaVgyRTVBLXdaVW4zdXV0dGZ4LXRDeTFnU0pBUUhLcDltUW1EdHU0UDlnQkxmSTlTYUFoNV9QbHBwVWJuUXItaU0wTVF2TV9fTmpQTzlpRlhsa2NTemJnZjhheWowd0wxNEJPd3pUYTFPR2pWN00zN2pVbDRURGZ1ZEREMEtDaHpNMkI4QjVFVktXd1Jidm1qZE5mS0tjelpibUpsVTFjYmt0TzdMaG1R0gHSAUFVX3lxTE9SWUs1RTZLdnV6SDJ4NmN1QlhyY2h1NGlhVGsyWnZ3bDFOdXMxZHRQTmlNcWx1Z3ZLUXU3Y0VfRnlXRXBOWDBidVlHbl9jQml5WmN4SHZnb0ZYNUVqWFdqRm9FU1A0T0FrZXNQcjMtcTFFcTh0c3Z1aG11MTl4Y0s0bnhnbW4yaUNDS242WFEyVTBXbGlFQzZvV25EMXZ3eTNwSGxSOUg1MGx5MGpyRGJzR3JlaWZrdnpfd3lfMXZ1R0FmdnFLd1ZZNWVydkNDUzNYZw?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-07-03 22:19:23 UTC+08:00",
+        "last_updated": "2026-07-04 21:43:44 UTC+08:00",
         "changes": [
             {
-                "title": "The Bull Case For Berkshire Hathaway (BRK.A) Could Change Following A Bold AI-Focused Portfolio Shift - Learn Why - simplywall.st",
-                "date": "Thu, 02 Jul 2026 15:41:20 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb3VTM2VqQ3laTUNIMi1pTlZHVnRpdTJvNkg4bUFGemxUR0wtbnBXMk5ra0pRaE5kMWpza2ZIWVBiTWtKSEx3NDJVZFlLR3pYY2x5SVhHU2J5eU5QNFVxVDYzZWNxeTREeWdIbjA4ZGN2U2xWQkctdFNUSE96SjZzNkxuOGI5Um9WLXVaNW8yWlpNWVh2azZJX2VIWDZjcS1lbmpucFo1b2VJQWdBenR2c2dySkpIYlVHRUU2M2pFOFQtallLZXhJNjBTR0h6elk1djR4YmtDSDZxTzNMbzNtQ0ZXTXRWWXRZUVpxdNIB7AFBVV95cUxOb3VTM2VqQ3laTUNIMi1pTlZHVnRpdTJvNkg4bUFGemxUR0wtbnBXMk5ra0pRaE5kMWpza2ZIWVBiTWtKSEx3NDJVZFlLR3pYY2x5SVhHU2J5eU5QNFVxVDYzZWNxeTREeWdIbjA4ZGN2U2xWQkctdFNUSE96SjZzNkxuOGI5Um9WLXVaNW8yWlpNWVh2azZJX2VIWDZjcS1lbmpucFo1b2VJQWdBenR2c2dySkpIYlVHRUU2M2pFOFQtallLZXhJNjBTR0h6elk1djR4YmtDSDZxTzNMbzNtQ0ZXTXRWWXRZUVpxdA?oc=5"
+                "title": "38.6% of Berkshire Hathaway's $328 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks - The Motley Fool",
+                "date": "Wed, 01 Jul 2026 17:45:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHFtdUtQQkxjVi1NbE81eDE0R3RMcGs4dTZpZkRaS1hYQkFaT3k4ZTI4QndDOWVUZkh0NHctV2Y1NlV6VnFJQjR5N2hEcTJUQXJ0VjNBQ1JJa09xblVHc3oya1lSc3lDOUFGRkpfaVA4RVg2MkdlX0FKVHNCdTVBZDltUWdtVVdIeDlFNGhDRVBIQVp5?oc=5"
             }
         ]
     }

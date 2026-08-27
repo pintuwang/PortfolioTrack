@@ -1,119 +1,150 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-08-26 20:59:34 UTC+08:00",
+        "last_updated": "2026-08-28 06:02:23 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-08-26 20:59:41 UTC+08:00",
-        "changes": []
-    },
-    "Markel Group": {
-        "last_updated": "2026-08-26 20:59:49 UTC+08:00",
+        "last_updated": "2026-08-28 06:02:30 UTC+08:00",
         "changes": [
             {
-                "title": "34,844 Shares in Markel Group Inc. $MKL Acquired by Bank of New York Mellon Corp - MarketBeat",
-                "date": "Wed, 26 Aug 2026 07:14:23 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFJib0gxNU5WMDFmRWRfdVRiTFViUlZweHZtVjdUTnJYcUpxRWQxQUp5VEpGT3dfenZrZUZCTkh0T2pWSVFkelBJMDJKNERSd0pIQTJTWEgyYWczMzVyZy1UZFM2N3RkYXZfWXRsbE9kU2N1Z1dib3JOSlBTRlhadUxKNnY1UV95OWh3bEdoUHlxU1JzUGlZNzgtNklYQ04xX2E5WXoyUlZsM1dDejVZZVVwb3ZEb1JoYlE3SXVKNGl0MEM3X0dwelVWNnlYY0ttQmQ5aw?oc=5"
+                "title": "Fairfax Financial Holdings Limited (TSX:FFH) Shares Under Pressure After Market Pullback as Investors Reassess Financial Sector Risks and Growth Visibility - kalkine.ca",
+                "date": "Wed, 26 Aug 2026 22:56:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWWcyQ1BoZEg5Xy1va0hJRC1zQ2huSkE0OWZuMkx0RmUyX3NTRnh5Tkpoc3hxS3lNNHZoVGdNRElydE9QbWkzOTlXQmpNdkFWWmJoc2kwVjJwakE5Y3ZzMjVtTlZ6V1dUMWF3MHNWOW5kOXMtZmRZQXdmTnMzM2VMamlhTjQyZE5JUWZEQ1RRX1FWSTYxNlZDYkVmRE5LNktYcjItakpIQ212U0hlM2tJV1NuR1p2MVp0cTlsYTgtMldxWUQ0akJBdE5tYWNEOWxlUjYxbzNlSFJYaVhqODVGMDNUbmIxUWg5UklTZ1hyTkpHU0tvZW9ZUTdOekxVcGpNOWhWUXV6bFVPREI4NVhob2VhTFo?oc=5"
+            }
+        ]
+    },
+    "Markel Group": {
+        "last_updated": "2026-08-28 06:02:36 UTC+08:00",
+        "changes": [
+            {
+                "title": "Hsbc Holdings PLC Makes New Investment in Markel Group Inc. $MKL - MarketBeat",
+                "date": "Thu, 27 Aug 2026 09:58:24 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEp4WFA3MTlvekJOa0dNc3BLRDVWUkZDRGZLV0gtQjdmSHJHOW1WRTducTh1Uk8zbjJ0cmdpZ1Rwb3p2V1UwRmpmdlhEdHpGM3VMelZ0bHVUdHh5bjJzYmJtVllrd3dDcE5BZm9NUkJWUEZzS1JGaERWcGloV1QxbHBRVHpEQ0dTX1NZRnhYMVJEN2FuUWJjeVFWOHlqOFVYUzJ0c19WTXN2N2h0V3kzYkNYbEpVb1FJWVBzTXhVeHo?oc=5"
+            },
+            {
+                "title": "686 Shares in Markel Group Inc. $MKL Acquired by OMERS ADMINISTRATION Corp - MarketBeat",
+                "date": "Thu, 27 Aug 2026 09:44:18 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSndYeDE2Ry11bmItTzJGeGVtNFpvQjJtcG5zMTJaRmFiWGgtVnc1Q1I0NHJlT21sbHFYQjJLVkVTRkZldHlNZHNTd1U5a1NtNV9SVTJPVkxnYjVMdnNuRkgyQjZjNGI0OEdldmVkUFYybXR1ZWVFazZWYjVXR1VXcVo0NG1TcWpQeHd0b0tuNUpvcXFzLXNfcFVOalBjVnZFcTU4U29veE4yTzZ1Q21IZ1NBaHhJMWpnb0kydVp2OU5EX29uc1U3X043WHhsUQ?oc=5"
+            },
+            {
+                "title": "1,505 Shares in Markel Group Inc. $MKL Purchased by Ancora Advisors LLC - MarketBeat",
+                "date": "Thu, 27 Aug 2026 07:59:56 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3FjcFpZMXZNSXV1SDNZMUJhY2xvVEJ4M1VxbFZjN0ZhNFp5S3hoNFNvWVRnUXVaOGZicjlVVTVXdk9zMzVibGlMUkNzUnBIM1hORUd0NlRmT21tTVVYb1RrN1FnSHJYaHFqUGNoY2JNYU9sbHktR1FGLVJhY1M4LVVGMGdmWTJ2bDd6N0daZ1JObjhRMEdqTmRvLUxCV1hkZHVpTTVPbjdjdEhfVGZ4N1I1Qzd3QkktYzF6emczVzRPZGY4eGFoMQ?oc=5"
             }
         ]
     },
     "Pershing Square Holdings": {
-        "last_updated": "2026-08-26 20:59:57 UTC+08:00",
+        "last_updated": "2026-08-28 06:02:42 UTC+08:00",
         "changes": [
             {
-                "title": "Billionaire Bill Ackman Just Sold Alphabet and Bought These 2 Beaten-Down Artificial Intelligence (AI) Stocks - The Motley Fool",
-                "date": "Wed, 26 Aug 2026 12:21:26 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ0o0T0dpMnJRT2lqcXV5T1pDeV9tckFSd193ajUwako5NENmVjZrWkRRVmk4MTRxSXkxeklNa0RpQnVhWjlBYlJ4N0tkakgyencyZmZrSjdUX1h3eVA2bkxsM2tINTd1d21GMDRfT0NNaFgyenlHR3N5YWN2NXRieUhibklVQWNRRkpRNnNwQ0J0akhJRWhJWTgxd1lnWlFSZE9Td3hfLUhhdGZ5U0V4QmJwdXNLWThKUVlzWTdBS2NGckRBWDk1dkFfWTVBcWNXUHdHV3hVQzN3S1ZYUV9CeEtDVGI?oc=5"
+                "title": "44% of Billionaire Bill Ackman's Portfolio at Pershing Square Is Concentrated in Just 4 AI Stocks - Yahoo Finance",
+                "date": "Thu, 27 Aug 2026 09:26:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTI3cXAzLXZ5bUhuaVByUExtYkpyTk9WVFJSWTA2TUl0OVNCc0Vlcmc2UXJMdEdab0FQVzBMejFLWHN4MV9qY0NjX2lGRlBMdEFkRjB1bW9fR0dHT0VfWFR6bXZmcktHbjZERTk5OHN5M29BY1h4b05sWnBvellRRE5faHdFeURNMmxxb3c4MFJZOS1JNUhjM2tkbklFNVZWaDNaeg?oc=5"
             },
             {
-                "title": "Bill Ackman's Pershing Square Made Microsoft Its Largest AI Holding by Selling Alphabet. Here's the Thesis Behind the Switch. - The Globe and Mail",
-                "date": "Wed, 26 Aug 2026 09:35:51 GMT",
-                "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPZU9XZG83OFNOYVRoUWFscDFZZmpkYmVBVTlwN0Vwd3Q0U3VHckF6LXB4T3V0WWMxaTNscE15UWNiV3BFYzZySnI2cGFid0hTU2NyQTBURmhEN2pNZExLemxvdTNFc3kzd0U1RW5aODliMzBvM0tCdzZ6Sm9WcXVkMGxSam1sT05TcmFMYVUxMTZEU0lLMElxeFg4VjFkczN2T2FYYWlZZUhyaVpzSXd3c19HNnNwamItNFMtNHNVUGlCYkJTdm5aUU1OVFFHSXVJT3VqcWhsR2tvbzhpbnlyM21YTUZEVGRDc01UdnNqY1NxdjF1TXRod0ZaU3dCR0xzT0xNWmdvMzR3NVB6Wk5NU0xIVnROZURUMGRKdjVDd1NMOE1IOWhlMUtLRUNITHBIMWtmSA?oc=5"
+                "title": "Billionaire Bill Ackman Is Buying Microsoft Stock. Is It Still the Best Artificial Intelligence (AI) Buy Today? - The Globe and Mail",
+                "date": "Thu, 27 Aug 2026 12:05:58 GMT",
+                "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOOWd5SHI4RXVnem9Wd1RwbEgtWXI4a1M4SnFXOGVxRTY1YmZHRkdPX0tOdW1peDhlRS1FRGcwMzNibkhUU3BQam9OaFZKeWV5LUxkZ0JxREtpLThQaEFKSFlqTGtfYU12ZklEd1MxaGduVU5kZUE3NDB4bllMWVIxNGpfc3lsMUZzbUwyMWF3YUtkdG9nQk5IUzN4ZlBSUGhnOVhabjBhQ2dYOHBocUd5Y3M5ZEFxNGtKbWpzN0tJUkJBRW8tbVZIckRaZ0V5Y2prRnlKYU1EWEZBNVFlbkF3RUltRmNhMFAzLWo0MllKbDFNZkVfZFh5VFhaY1RLQUdTdFYtZVpubVJCYVYzdzNScy10dkR3LVU2S3hReQ?oc=5"
             },
             {
-                "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn\u2019t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year - Yahoo Finance",
-                "date": "Sun, 23 Aug 2026 21:35:01 GMT",
-                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnVCMUhtdXBsb29ZTTJOc3RyaU9yYjdGUGx3c0hGQlcxWWZXSGpiY1JFSEpFQ2NsYlgzLW9jeVN5dGUwNGN0Z2lfSDRXZ25zMEdVQ2NKdnFROUtEMlNHZEdNcTJSRGVpWnNucTcybjFDd2ZLeDhPenRhaUtmdExyWTZvT3loN0FiY1JVTkZYcUZBdWotT21Ga3VTY0tWc0k?oc=5"
+                "title": "Bill Ackman Thinks This Factor Is Even More Important Than Valuation For Long-Term Investments - Yahoo Finance",
+                "date": "Wed, 26 Aug 2026 18:46:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZkpKN2U0UXpoem0tdkpuS0pNZEFRWXJBVVBUa3pZcVM1NkNDTkJnamVJQXp6OGhtS2RkMmkybW1JRDBHdWx2M1VWREtGZHJIakFFUzhEVjZwZmFySzl6eVdhM2VqTDFpdnc3T2xxVW5MT3hObmNtckt0bXp0VERWTFh2N01RU3VvR09ZRDVzQndZVExDM3hiaHUtUQ?oc=5"
             },
             {
-                "title": "Bill Ackman's Pershing Square Made Microsoft Its Largest AI Holding by Selling Alphabet. Here's the Thesis Behind the Switch. - The Motley Fool",
-                "date": "Wed, 26 Aug 2026 10:15:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTA0QzVUelE4c004N09hZ0h0ZFR0aTgwU2RRcVYxWHZhdkt2U2VOZzFha2VOX05sWG5aWUxXQWltdWxjVWkwX0FmN3ZtZUhsM3RfaG9hWkdESjhCdmdyVE9LSU42YVQzbjV0dGxyWUc5ZFJqZ1VCVW1PT2ctMUNzd0t6UjFKWmVBZ3FxY2JxTk5fN1pP?oc=5"
+                "title": "Billionaire Bill Ackman Is Buying Microsoft Stock. Is It Still the Best Artificial Intelligence (AI) Buy Today? - The Motley Fool",
+                "date": "Thu, 27 Aug 2026 12:30:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTd4eV80Mkx2bmNfb2NzZnpwalhkTFhZTlVWZmt6bEdIbWtEX2VJOWFJdlJoRVRmektLdmN3LXAyT0RWZERiWnY1THd6cTJoSmd6OHMwS0dMdFc2SGxCdzZERW1iVFFMNUJ4OXVDYnMxYzBZWU41cmRkOXhJSGp3S3FfYllTRnZtcncyRWpFLXMzRWdDYlVr?oc=5"
             },
             {
-                "title": "Bill Ackman's Biggest Public Equity Holdings - RealClearMarkets",
-                "date": "Tue, 25 Aug 2026 18:37:49 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb21jNDl3bXVBQVFXSm1LT2dZUTNVLVJSaDNybTJ0SnowU3BveHNFc0VZWGFrLWttNXFiTUNzY0x4WmNFNTJoYWZUODFiSl91YXVYTW9welV1MHN3VkRvTnZ3MlhLZHJvaVVaRzBoV1ktSnJYS05PMGRjZm41cGxEY2JqYUVVQm0xd0Utd0NFZS04QTc3SC1EazRwMnNBblRUNVE?oc=5"
-            },
-            {
-                "title": "Billionaire Bill Ackman Has 10.5% of His $19.5 Billion Portfolio in Amazon. What's the Thesis Behind Pershing Square's Bet? - The Motley Fool",
-                "date": "Tue, 25 Aug 2026 15:45:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2xTcTdHSVEwdDZaS1VXRGluUENwVjBGZzhhdTFza28zN0RZcksxcWlfWklYeVduQ3dNSVNXVWhJSGROMjRvQ2QwUy1EYXJnMlM3bnZ6UDhyQ3VKZExkbUhteTNJOUNpNUtPNTdraUtuOGlPRGFGOVhNVmdZeGV0RHluWENYeWN4VXhOSFE3NVRmay1YdmtZMg?oc=5"
-            },
-            {
-                "title": "Billionaire Bill Ackman Has 10.5% of His $19.5 Billion Portfolio in Amazon. What's the Thesis Behind Pershing Square's Bet? - The Globe and Mail",
-                "date": "Tue, 25 Aug 2026 15:36:04 GMT",
-                "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPTzlYZWpRajc4eFhPTlJrOFdYQzNWLV81cDBETGRSUmhlaGhmR1lzdlVWQmp6VWgtNWNHXzIwdUxOMXVmbTFOR0syNkNPMzAxZ2RqQ1hUNmQwRFJvdTFfY01KN3RQcS05LVM2TnhUeVVwMjl1UDlCcjdSZlV5eWl2WnFDNkU3ZjZSUi1WaTNaMXdtakRiNWhGbF9qR0wtejB2YllwZ0pvdERScjQ0N2lrM0htQ056V0pnRm5NbGlDUEEwSjlXQTZiSjlsRk40M054VUhPT0s4OU1IN0trMWZtUEhzZTgzMmVsc2R3MTMxaWM3WVFVTFNYanRqUUZFbHBiNF9DRWhwOG9BNUlsRXhQaDRXMmc4d0cyZVdHdkpiZWJoX3lwU1h0QTFBLUNSQQ?oc=5"
+                "title": "44% of Billionaire Bill Ackman's Portfolio at Pershing Square Is Concentrated in Just 4 AI Stocks - The Motley Fool",
+                "date": "Thu, 27 Aug 2026 10:06:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelM4VUlsTjJRUmdnV0lIaGYwcTFRUjBzWFI4c3MzcE1zT1YwOHFPUE9vQjBsZXlqVkJ2M0Ywb3dMSGV0akU2Xy1qOUJCd0VDVHFEeFJfMDVxSUpMckM3YVo0czVMWWdxMGcwSG1kekdMenotQnBWZzVpSFdFRTJHMDUyNTV5X3dMcy15V1poMTZSRWJ5d0E?oc=5"
             }
         ]
     },
     "Strategy": {
-        "last_updated": "2026-08-26 21:00:02 UTC+08:00",
+        "last_updated": "2026-08-28 06:02:48 UTC+08:00",
         "changes": [
             {
-                "title": "U. of C. Law bans laptops, adds oral defenses in new AI strategy - Hyde Park Herald",
-                "date": "Mon, 24 Aug 2026 16:00:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanBZRmZhRDdRemJkb3ZGM2MyOHMtVUNKeE16X3RLd3FEaW1haFljakstYXlyZ3JoUUxsVzZBbGJWcjJ0dWZnZ2MyZTBSdkR6OHVLWXV2TjgtODlSNmhpT3p1X3VjQkxHUGtFWm4xcFRGTUJ5U3RqQzFXQmxXWWNITlBqYnBJV2NsT2VobDRkeEZWT28ta0VDNG1UMWdyMzRZZWphRW81ODBVem1QbC1NLTV0QVgxSTFWeVo3V1I2NWx1UHV3NWgzM2E3U015Q2Yyd1NfbWotbGE2Z1RRdGVaN3B1b1VTZw?oc=5"
+                "title": "Court filing gives window into new defense strategy for Shanna Gardner in Jared Bridegan murder trial - News4JAX",
+                "date": "Thu, 27 Aug 2026 20:13:39 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHBGUXJLelpDSUpmUUlaRXJ3UXpGZDh6UTR1NGhPRjYwamRETDIwSTVVRG9yLXp5VTJnODVKTzdmbWdwc1hUQkU3cGFRbjIyTFhuTnY5SUxfUFVqdVg0SEgzOGJYRzBWRHFQcmpnNjVsMzc2R1JLTV81djZMN2p4bW9SakdIREtPUmFQNFhvRHZLRmVNa2lJUXNuaExhanB6Z3J2UHJfVDdBV2RhWTVPdUlVT2UtZGQ1dWJ5N0FBQlZhdmh6TkFCTTlSTDFIY3ZKaDdNNzY4SmRFa3ZlQldZWkNlZw?oc=5"
             },
             {
-                "title": "Strategy (NASDAQ: MSTR) director lines up new sale after $2.3M stock cash-out - Stock Titan",
-                "date": "Tue, 25 Aug 2026 20:04:32 GMT",
-                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlRpSF9DczNrVE9ocGNUTUljMElVRlJZMkN3RnNpQ1FjV0l0V1hFWmg5dkVzZHdBMnBNVXlDTkxhNGdNeHpJVXo1dXpmQW5PQ1ZVdHJqNGZVTkFGYVRQY3I0RjEyWW9Xc1F2eGtmT3FKclY3Y1BGTjFZSU80Qjc5aVNSTzJ2cHNVaWNoU3ZSbzNzOFE?oc=5"
+                "title": "Strategy (NASDAQ: MSTR) director plans sale after May and August trades - Stock Titan",
+                "date": "Thu, 27 Aug 2026 20:13:54 GMT",
+                "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1VFWTdBQmxjWTZ3NjVBS0hzeFBuWmFRY0JLVHBqSGM0QXlwZHFNMHB1c2puWko0WG8yYkVScVFRY1ZDTHlxSzBsYkY2WE9ES2hhV3pTc1huOHY1RFAybVhJUjRwdGp2akRtbEtEeDhFaC1YUzZPQ19EbkJiV3ZPZU13Y2xHLUptd3Y4eHBoQlRDeFU?oc=5"
             },
             {
-                "title": "YieldMax\u00ae Introduces Portfolio Option Income Strategy ETF on Memory and Storage (YRAM) - GlobeNewswire",
-                "date": "Tue, 25 Aug 2026 12:00:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTNpR21EU0N4dFV5ZXBvelJENVk0Sjg0VE43bG9FakV5dVhaY3gxbV9pTlkyYjQtTXR4UlF6YlVsc0xKU1hyVnNhNzJIdUNwbG9aemx1cTlramlXRGE2SjM5azNNTUZBZVFNZWRodC16ZUxWRjRaUHBpaGNhQ21KZENVSGQyUjJ5M1R2aFhUZFZIMVh4Qy1EZnc0R01OVGVSYkVzVlVGaVJzRXZZTnRZdS1KVy0tVFZqRkZVZGZWaW5QdC1XSmhJS3ZJc0U5QXBvemEzMnVyZ3Z6NG16UWEwdzZXWEpLb01LZFZv?oc=5"
+                "title": "Ashlee Babcock joins EnterpriseHealth, StrategyCorp brings in Natalie Dash, Crestview Strategy adds Heidi Christensen - iPolitics",
+                "date": "Thu, 27 Aug 2026 16:27:41 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdElOZk9fNmJMamtqS1pTb1BXUjRqYzliWVdiaHZDR25HT0RDaHVnTGUycjRTdzdJSmRiVEhzUjdhbmxLNzZuRzV5VkNPTzVMRlRza0YtSEJEdnBhREJXVlM2VWZUU2VMV2xsV3VkUHZiUHBHTlRjODE0R29LZE91ZzkyY2pmRnc3eThuaDJLVHA4MzQ1NzNfbnJWU2JENXVMZkJ2X3EtelJFR0RZbnNaazliMlN1MVRkYk5iNl94UjV3b1kxWVdFYlY2NzVMdV9obkZXVGZXRk8zM0tYZWJiRUtnYnlEQjA?oc=5"
             },
             {
-                "title": "Zoom\u2019s Anthropic Stake Fuels Its \u2018Federated AI\u2019 Strategy, Says CEO - Benzinga",
-                "date": "Wed, 26 Aug 2026 09:59:57 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUtpVHRpZEg3X2ktSlR2TjFta0puM1ZCV0lrdS12RHBjRktJUzhjNl83cnRQYml0b0xtLVZCNW85MmdfM1hYdlJOQkQ4alZQRHU5ak9jbHNWUFNxdzZ2V1JiMFppUHRhR0s1ZmlTZ09Xd2hKcERXZTJoaXIxWHI3RWd4aHJMMzZzeHNZWDN1c2VaTWRyVHJOY2NwWktvclVPMG5fZGk2Sk1ja1lhV0VFQ1dNQ05nckxXX2Y0?oc=5"
+                "title": "\u201cMore Bang for the Buck\u201d: Significant Investments in Strategy Development and Leadership Training Need More Visible Impact - markets.businessinsider.com",
+                "date": "Thu, 27 Aug 2026 09:18:52 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPR2RzY0Nici1UbGRDaVVoM3JMMnp2d3VyMXN1NDFfXzR5RzkzeHFnQ0stbDJSR1FESFZhdzYyYmZ6ZEtOY3dmb3NDWG1qZXBQT3RvNEJMWWNZRk55MW42ZV82VnN6akV3UWl3U2FGSWhpTjZNTlZtRnlqaUxwRGR5bGRnWjZtaWdyNXlHLXFJMW82VHNtSHBzd1NTU3RIcFB1WlA4bG5uOXU2djg2bWdXZTVoQXQzQWItSlhIWGdVbURiOWlEcE9mNEQxUUFOQzlOdm9xeFprcFR1VEZ4V0drWmtWaEZNeUZGZWtOQzN4T2lxU2d5QWhDemY0UF81MnRyMGw5ZDFkUGNVQQ?oc=5"
             },
             {
-                "title": "Strategy Raises $2B Selling MSTR Stock, Establishes 'USD Cash' Pot - Yahoo Finance",
-                "date": "Mon, 24 Aug 2026 12:49:33 GMT",
-                "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbk9oUnBQTUZSVVJsWVNxSnRxWVN3VHlWdmZFc29PWldGRXVUd2kxYmhCN0dESGU4RlJESzdXV29fYlllc1c4ZWozbjJPak5FVnl1ajNFcHpnZmhwY19Ud0M3dU5RLTJMcV9PbFBTUkJzX2tVbDViV01SLTFHQ1ZJTG5qdnJkOGYtWjJVcV9lMzI0d1pBWGR4ODhCN3g?oc=5"
+                "title": "Vibe Coding Adds Another Strategy to the Big Law AI Playbook - Bloomberg Law News",
+                "date": "Thu, 27 Aug 2026 00:19:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1paeWZ1VWphU1pDd2IwRG5oaVRmb1lyZlRZX3NZQ29Yd0lmUTg5VDBWclBMdTljTGpjMnVOREhuZWpOLXhueVBXTmVLd3F4cWhZZDJYaXJzaldtZDVDMGJDeGkzaWNiSVdJa1gtQXN2YXAwSUpMQ0ljYnhfTktiMmkyTDlWQ0tHR1FQRDFXeVFqMk51UldWZ3F1UURfRDBaejlwdjRYcGVOcFIyTVE?oc=5"
+            },
+            {
+                "title": "Vince Holding Acquires OVO, Launching Multi-Brand Growth Strategy - citybiz",
+                "date": "Thu, 27 Aug 2026 12:38:05 GMT",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEFWbWZSQnZnb3BJZUdVT3pHMlEtNWxXUFZJaDRibVVGWjZpeWpGZmpHX0hIVTlyVWZVQXJVTkhITmhMVHg1cmpvRVMyd1dkU2ZYVUROTmZaa3hfcGJtOWNjNVFHZGMxdUFpUFo2X1JSNGJwODF1THFSWjRxUWk4ODg2RWpPOUlpRElYcFB3QlVFMUtWYjlkOEFleGxCRjltV3NIX0Z3?oc=5"
+            },
+            {
+                "title": "GRC: Record financial performance and disciplined growth strategy position the company for continued success - TradingView",
+                "date": "Wed, 26 Aug 2026 21:15:55 GMT",
+                "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQMkJHTG1Ydk93Y01PVjN0N1k0QXBkeTlBZ2xsTmVNU3RXWmxwSmZyM203OUR6NE5ETVdBVVR3Z19SRDNhdXBUYlM3YlhJdm1hczlmejFiblVmdG9RWTdoUWxBSlYyal9JSEFxZmdEcXdsc095ejViYl8wSmk2ZVg0V1Etb2FmZENJN09YMkZUVzhHSHJQZWJHTkNaZGFabjJDWEJ6S1pmWFp0OVQ3ODBKVnJRQ0w0YnRBaGRKVzJOdXNyVWlJLUFtaXJya2UyYURESGJ0SkEwdDhGQXh5ZFA1ellPc2pPeUlVeXpUN3IxZzZRVmctNlAtVzVyaG5CdEVkU3lZZTRrLVNiVWNOY3RsTGVmeHp1U25jMUx6UEx5RQ?oc=5"
+            },
+            {
+                "title": "Strategy Inc (MSTR) director sells 3,700 shares at $122\u2013$127 - Stock Titan",
+                "date": "Wed, 26 Aug 2026 21:04:35 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzlLbFA1ajRMbUpEUlNaMHdoOXFhT2txbTBCVnNORTU3bFlwWEROR01mWlNmQnloajNHSTFaZHBkb0xEZnRUWXpvUTNhYURaMzFhcUE4MzBBS1NJMmtyVVd4cFNWNEF5ZlRXbEp6OXFNcUVHUVJhSS1yekMtM2VKZnlXWFpsS1BKc0RoT0UxdVVlLVRlNnFsWWRheDFGdDYtR1d1dXpNdW9WQQ?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-08-26 21:00:08 UTC+08:00",
+        "last_updated": "2026-08-28 06:02:52 UTC+08:00",
         "changes": [
             {
-                "title": "Berkshire Hathaway Expands Investment in Homebuilders Following Taylor Morrison Acquisition - themortgagepoint.com",
-                "date": "Wed, 26 Aug 2026 00:42:46 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN05aUUlKTnJUUmtqVEx2bnEtSDhPR2UtYnc2clFyYlF2V2V6Yk9ZZ19XY2tNdmVXdUtzajZkNmw3aVA2R0p3ZFc4eElHeEhDNVBDUms3WXNuam5EWDlZeEdCZFctRnRYbGZHOWVFaGNxR05PQk5NNEVRSzNaR0c0blRYWm1VQWNWWVRhWFc5UXZpb1BLYzVXWll6Zk5sRzB0LVVBbS1rSmFES1JCZGd3VDN1NzYwbU0wTnlQcFZCc2RDTnRMZkR0ajB1bw?oc=5"
+                "title": "Berkshire Hathaway\u2019s housing bet deepens as it boosts Lennar stake to $1.2B - The Real Deal",
+                "date": "Wed, 26 Aug 2026 22:30:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZkhnQzVuRlNaVzNaakcwRkFrOGZEbkpldXZ5WmtxMkNRMWl6Y2t6N05nTmNnVmN0bFFtMzZvWTJ4X1llcGdYOC1rbXdWYzJTb1dnNXhfMmlERHB3eEx2RWc2RWZYTEtUV0VOMi1SZDZTOE1JcE1xeWlIR3VrOVUxNTVSQlJtM2toSnFVb2FGS0ljNWV5ZEgxa1piOA?oc=5"
             },
             {
-                "title": "The Complete Berkshire Hathaway Portfolio - US News Money",
-                "date": "Tue, 25 Aug 2026 19:39:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2ZibW1qWmRPQUlTbmd5WmJVZ1VSODZrYzQtN1VFSXdDeU4yeHlXUFdLbXpmNUVTZ3RlUTlKWkZzcXk5S3FCQkdIcFdWbVBUZ3B6Z2JuS2tZaFNRLWpzQXhvSlhySUVtSUdncEV1Q2t3b1E1Q2NpeFNfT0F1LXEzNGFGY2ZvVU45ZkFBd1N3?oc=5"
+                "title": "How Berkshire\u2019s Pivot Toward AI and Housing At Berkshire Hathaway (BRK.A) Has Changed Its Investment Story - simplywall.st",
+                "date": "Thu, 27 Aug 2026 03:22:43 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN1RaYXRPU3M3cExzZEV2Zk9aaG1kb3NubkMtb0tEaS1GVDhmNnNSX2ttX1B4Sk84cUY2VF9PdHd4dnpkWWxEbW5XNHp3UGZ5Ql9FOEZ4VnpRM1N2Q2tCcmNJMU5qZHFUMHVyUktPZy1ycm9NeldRSTV0T2dWS3NrYlZLanQ5bHhPcEYxMzBxb0h6Qi1PaFZNZllYd010OUZmNEhiSHBES1cyUUZ6NVFlUUM0WDlrMmYxUnlTdElZT1lsc05YWnhPbmtSZnJHcnBXeHRpOWJiWnVNZjE4ZVpTX2hRV3ZCbzBJLWfSAeoBQVVfeXFMTzdUWmF0T1NzN3BMc2RFdmZPWmhtZG9zbm5DLW9LRGktRlQ4ZjZzUl9rbV9QeEpPOHFGNlRfT3R3eHZ6ZFlsRG1uVzR6d1BmeUJfRThGeFZ6UTNTdkNrQnJjSTFOamRxVDB1clJLT2ctcnJvTXpXUUk1dE9nVktza2JWS2p0OWx4T3BGMTMwcW9IekItT2hWTWZZWHdNdDlGZjRIYkhwREtXMlFGejVRZVFDNFg5azJmMVJ5U3RJWU9ZbHNOWFp4T25rUmZyR3JwV3h0aTliYlp1TWYxOGVaU19oUVd2Qm8wSS1n?oc=5"
             },
             {
-                "title": "Berkshire Hathaway's $37B stake boosts confiden... - Pluang",
-                "date": "Tue, 25 Aug 2026 16:06:02 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVVxaERjQ05BQkVzeDczenZDdGtsQl9kLWxGcXlCVTZlbDl6T0wtS3R2dFJsR1doRFNqNnZzQ2RMZ2htTHA3by1oYUlVRVBpZmd0TVlIWUtXcTd6MGI5VEc1T1NSY3B3ODJJS0pIZ28wV1l4bE05eHpmSWxFdlY0ODVJSzVTdGRWX3RKVlZFNTk5Tm52cEprbUZCYTZFOG1BVURORllDaw?oc=5"
+                "title": "Berkshire Hathaway Inc Makes New Investment in NVR, Inc. $NVR - MarketBeat",
+                "date": "Thu, 27 Aug 2026 08:47:49 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjRNdXFoYmdWS3JGSGllSGYzUExwQWJkMW80VXQxWE5jRHlWRjNHcW50UEVldk1WSUhmWE1RRS1id25xcW5mbXlaSEVYSHF6RlNMM1dpMk5Zd3pBSVdoQTRxTXhaMEZsQk1qOEtxWEt2Vng5RjJYVjNEU3ZoWVR1amRLM1J4c0hrQjUxTnc2bVNpanFDSjR2OFhuT1d2OVBNTDZSTzJlZWhjVDZkS1N3ckVRVjlyZW9xY3d3?oc=5"
             },
             {
-                "title": "Lennar stock gains as Berkshire Hathaway lifts stake and housing headwinds show signs of easing - Ad-hoc-news.de",
-                "date": "Tue, 25 Aug 2026 19:02:16 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObjRxT0NIWUxNVnBnY0dib1BkNVpzUkZIem50d2dSMkpUamM1MXBoZlBUOWZZR1JsSEZHcC1VQWNYeDBkR1ZvMFFIZURhM1Bjem9xU3dmOGVxVk5qYlNLaks4M2xQaFg1M0hMLXVybXF0aUo0eHZPeElJWDctbkNEaDRGa2lKWDViLUdZVHV1SmJCeFNaa2g3VEI2YUZhY2VuOUNkbjJ5a2tQWDNDTjZOd19DZTliRjFZUXRzY3ZMZHE0WWV0SkpIVGxqSHB1cnpjSi1R?oc=5"
+                "title": "34,249,183 Shares in Chubb Limited $CB Bought by Berkshire Hathaway Inc - MarketBeat",
+                "date": "Thu, 27 Aug 2026 08:58:05 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMnJkRzRsT20yQlpJeVd5QVYta1NhYVI3OFRhMEVpZkFoNnVCNUpMS3NjQ0t0Y184dDhhVU9yQ2s4UzhyOHRudkpvcGV2a091WWk0U0tBd2tMdTktWTlOTGdiUFBhMXpSd0E0SFNldmx1WUVJTXhKa1B6UkNlVERCY3VycXdPR0kybUMtQ3Q2UGdkajFqT0V2V3VlNWNHWDdVSnpfRXpPUWczRm5aVUx1R1NVU3hSQUM0TVNUaFluUzJHMlo2OXhUTg?oc=5"
             },
             {
-                "title": "Berkshire Hathaway stock holds firm as Greg Abel ramps up equity buying - Ad-hoc-news.de",
-                "date": "Mon, 24 Aug 2026 16:50:44 GMT",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSE9mTm5WTkpvOWZISTRpamhUM3FmNXhPQWpvLVVKUDk5ZjBqUmtualdJVUpTM1YyV3FJTXdNMkx1MFh0SVRnUnNIQk05SUg2LU1hVEwtZDg2eThPYnoybml5Rkk3bWdBbXllMVMyOFhMYXpHb2l5ZzlNSEF0aVBGQ0FldG5pZkJKMExLRzVIMjlNczlNMWY4RXYwMU05cEJBZFVEa2F6NkM2RXBiQlJNbmtSR3Q4RlRmMzBnSkphUHlNNjI4RndSZEsxSzdjLTA?oc=5"
+                "title": "Berkshire Hathaway Inc Sells 11,000,000 Shares of The Kroger Co. $KR - MarketBeat",
+                "date": "Thu, 27 Aug 2026 08:51:53 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmt3UWtHZExpUGRJWTBrVkZqMEd6SUlWUnBmM1Qyck51SmxoVUEydFg4ZTgwNHRHdF9aa0ZOeDBWZHdoZjN5cmIwOXNMLTdfVHNSaWkycTR5S0s3M2N2Z09oTTFxSWxLVzFzMlAwdG1Ld2RkcVZpNXVsU0lYVjZzOUp0TU1GM1VRblhWMFAxZ2xJS2NQbDdrSW54NGZJOUZzM21FT0VnSVhId2pJd0pCQ1hfVnlKTHI0M3lzc2s5QkRoVUE?oc=5"
+            },
+            {
+                "title": "433,558 Shares in Jefferies Financial Group Inc. $JEF Purchased by Berkshire Hathaway Inc - MarketBeat",
+                "date": "Thu, 27 Aug 2026 08:45:29 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVHVDVmRNNGVxUlFhVWVyX1ctbUxkMUc2T3lxOUZJMHFJSW1aalVlRllzaER6cmlRUHh3QUNiX0dWdlpkRFpHeTNoRDg5MThRNWhNWnRsZHhTMlRtSG5jcTlpMFEzT3R0SmwwTjB4YUhBQjZmd0NiSWZFQWhNTkx1a0w2eTlqbVU1V20tc2NCellkWEMzZERXNDN0cG9Cc2RMSzVUdkVLa2l2TEg0VTBqYWc3N3RHSWhUSlBtUWczWGpoTEhnZUtzUFpYRS1OSVBSVk1wazJMQ0hLbWtCZlpSSQ?oc=5"
+            },
+            {
+                "title": "264,941,431 Shares in Occidental Petroleum Corporation $OXY Acquired by Berkshire Hathaway Inc - MarketBeat",
+                "date": "Thu, 27 Aug 2026 08:26:10 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOY09DZVA5OGdwS3lJelpRUmdCTUVycnJHallhTGVSYV9WekZ4YXRINC1JQlN2c3UwdVVwc3NYZzdxMVlkT3ptcTUwenpQek53WVJvV21ZV2djWW9IMjZ5MVdFS2xhQkJaNUtoX1pGbjMzLVhCanIydExZU2VmTi11eXVoaDg0YU9xOFJONjBfdEZpQTFZRDE3SW5VZHlRZFp3ZWxkV2Uwd2kzQUdMRktnaDBKMmVER2hwZHVTYTZtRzZFMkhfTkZIUm9fdmZEZkVLaURTejZGd2dBTnZRUVJfZEJSLS1fWTg?oc=5"
             }
         ]
     }

@@ -3,124 +3,141 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Tracker</title>
+    <title>Nancy Pelosi Stock Tracker</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body {
-            font-family: 'Inter', sans-serif;
-        }
+        body { font-family: 'Inter', Arial, sans-serif; }
     </style>
 </head>
 <body class="bg-gray-100 min-h-screen">
-    <div class="container mx-auto p-4">
-        <h1 class="text-3xl font-bold text-center mb-6">Portfolio Tracker</h1>
-        <div id="updates" class="space-y-6">
-            <p class="text-center text-gray-500">Loading updates...</p>
+    <div class="container mx-auto p-4 max-w-5xl">
+        <header class="text-center mb-6">
+            <h1 class="text-3xl font-bold">Nancy Pelosi Stock &amp; Option Trade Tracker</h1>
+            <p class="text-gray-500 mt-2">
+                Sourced from Periodic Transaction Reports (PTRs) filed with the
+                <a class="text-blue-600 hover:underline" href="https://disclosures-clerk.house.gov/FinancialDisclosure" target="_blank" rel="noopener">
+                    Clerk of the U.S. House of Representatives
+                </a>
+                under the STOCK Act &mdash; not SEC filings.
+            </p>
+            <p id="last-updated" class="text-sm text-gray-400 mt-1"></p>
+        </header>
+
+        <div class="bg-amber-50 border border-amber-200 text-amber-800 text-sm rounded-lg p-3 mb-6">
+            <strong>About the numbers:</strong> Congress only discloses transaction value as a
+            <em>range</em> (e.g. "$15,001&ndash;$50,000"), never an exact price or share count.
+            "Est. Value" is the midpoint of that range. "Est. Price" and "Est. Quantity" are
+            derived by looking up a historical closing price near the trade date &mdash;
+            they are estimates, not reported figures. Fields left blank could not be
+            determined automatically; use the source filing link to verify.
+        </div>
+
+        <div id="new-banner" class="hidden bg-blue-50 border border-blue-200 text-blue-800 text-sm rounded-lg p-3 mb-6"></div>
+
+        <div class="overflow-x-auto bg-white rounded-lg shadow-md">
+            <table class="min-w-full text-sm">
+                <thead class="bg-gray-50 text-gray-600 uppercase text-xs">
+                    <tr>
+                        <th class="px-4 py-3 text-left">Date</th>
+                        <th class="px-4 py-3 text-left">Stock</th>
+                        <th class="px-4 py-3 text-left">Type</th>
+                        <th class="px-4 py-3 text-left">Owner</th>
+                        <th class="px-4 py-3 text-right">Amount Range</th>
+                        <th class="px-4 py-3 text-right">Est. Value</th>
+                        <th class="px-4 py-3 text-right">Est. Price</th>
+                        <th class="px-4 py-3 text-right">Est. Qty</th>
+                        <th class="px-4 py-3 text-left">Filing</th>
+                    </tr>
+                </thead>
+                <tbody id="trades-body" class="divide-y divide-gray-100">
+                    <tr><td colspan="9" class="px-4 py-6 text-center text-gray-500">Loading trades...</td></tr>
+                </tbody>
+            </table>
         </div>
     </div>
 
     <script>
-        async function loadUpdates() {
+        const money = (n) => n == null ? '&mdash;' :
+            n.toLocaleString('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
+
+        const typeBadge = (type) => {
+            const t = (type || '').toLowerCase();
+            let cls = 'bg-gray-100 text-gray-700';
+            if (t.startsWith('purchase')) cls = 'bg-green-100 text-green-700';
+            else if (t.startsWith('sale')) cls = 'bg-red-100 text-red-700';
+            else if (t.startsWith('exchange')) cls = 'bg-purple-100 text-purple-700';
+            return `<span class="px-2 py-1 rounded-full text-xs font-medium ${cls}">${type || 'Unknown'}</span>`;
+        };
+
+        const escapeHtml = (s) => (s || '').replace(/[&<>"']/g, (c) => (
+            { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+        ));
+
+        function renderTrades(trades) {
+            const tbody = document.getElementById('trades-body');
+            tbody.innerHTML = '';
+
+            if (!trades.length) {
+                tbody.innerHTML = '<tr><td colspan="9" class="px-4 py-6 text-center text-gray-500">No trades tracked yet.</td></tr>';
+                return;
+            }
+
+            for (const t of trades) {
+                const tr = document.createElement('tr');
+                tr.className = 'hover:bg-gray-50';
+                const stockLabel = t.ticker ? `${escapeHtml(t.ticker)}` : escapeHtml(t.asset_description || 'Unknown');
+                tr.innerHTML = `
+                    <td class="px-4 py-3 whitespace-nowrap">${t.transaction_date || '&mdash;'}</td>
+                    <td class="px-4 py-3">
+                        <div class="font-semibold">${stockLabel}</div>
+                        <div class="text-xs text-gray-500">${escapeHtml(t.asset_description || '')}</div>
+                        <div class="text-xs text-gray-400">${t.asset_type || ''}</div>
+                    </td>
+                    <td class="px-4 py-3">${typeBadge(t.trade_type)}</td>
+                    <td class="px-4 py-3">${escapeHtml(t.owner || 'Self')}</td>
+                    <td class="px-4 py-3 text-right whitespace-nowrap">${escapeHtml(t.amount_range || '&mdash;')}</td>
+                    <td class="px-4 py-3 text-right whitespace-nowrap">${money(t.est_value_usd)}</td>
+                    <td class="px-4 py-3 text-right whitespace-nowrap">${t.est_price_usd != null ? money(t.est_price_usd) : '&mdash;'}</td>
+                    <td class="px-4 py-3 text-right whitespace-nowrap">${t.est_quantity != null ? t.est_quantity.toLocaleString('en-US') : '&mdash;'}</td>
+                    <td class="px-4 py-3">
+                        <a href="${t.filing_url || '#'}" class="text-blue-600 hover:underline" target="_blank" rel="noopener">PDF</a>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            }
+        }
+
+        async function loadData() {
             try {
-                // Add timestamp and random number for stronger cache busting
                 const cacheBuster = `${Date.now()}_${Math.random()}`;
-                const response = await fetch(`updates.json?v=${cacheBuster}`, {
-                    cache: 'no-cache',
-                    headers: {
-                        'Cache-Control': 'no-cache',
-                        'Pragma': 'no-cache'
+
+                const [tradesRes, updatesRes] = await Promise.all([
+                    fetch(`pelosi_trades.json?v=${cacheBuster}`, { cache: 'no-cache' }),
+                    fetch(`pelosi_updates.json?v=${cacheBuster}`, { cache: 'no-cache' })
+                ]);
+
+                const trades = tradesRes.ok ? await tradesRes.json() : [];
+                renderTrades(trades);
+
+                if (updatesRes.ok) {
+                    const updates = await updatesRes.json();
+                    document.getElementById('last-updated').textContent =
+                        updates.last_updated ? `Last checked: ${updates.last_updated}` : '';
+
+                    if (updates.new_trade_count > 0) {
+                        const banner = document.getElementById('new-banner');
+                        banner.classList.remove('hidden');
+                        banner.textContent = `${updates.new_trade_count} new trade(s) found in the latest check.`;
                     }
-                });
-                if (!response.ok) {
-                    throw new Error('Failed to load updates.json');
-                }
-                const data = await response.json();
-                const updatesDiv = document.getElementById('updates');
-                updatesDiv.innerHTML = '';
-
-                if (Object.keys(data).length === 0) {
-                    updatesDiv.innerHTML = '<p class="text-center text-gray-500">No updates available.</p>';
-                    return;
-                }
-
-                for (const [firm, info] of Object.entries(data)) {
-                    const firmDiv = document.createElement('div');
-                    firmDiv.className = 'bg-white p-4 rounded-lg shadow-md';
-                    firmDiv.innerHTML = `
-                        <h2 class="text-xl font-semibold mb-2">${firm}</h2>
-                        <p class="text-sm text-gray-500 mb-2">Last updated: ${info.last_updated}</p>
-                    `;
-
-                    if (info.changes.length === 0) {
-                        firmDiv.innerHTML += '<p class="text-gray-500">No new updates today.</p>';
-                        const latestArticle = await findLatestArticle(firm);
-                        if (latestArticle) {
-                            firmDiv.innerHTML += `
-                                <p class="text-gray-600">Latest article:</p>
-                                <a href="${latestArticle.link}" class="text-blue-600 hover:underline" target="_blank">${latestArticle.title}</a>
-                                <p class="text-sm text-gray-500">(${latestArticle.date})</p>
-                            `;
-                        } else {
-                            firmDiv.innerHTML += '<p class="text-gray-500">No previous articles found.</p>';
-                        }
-                    } else {
-                        firmDiv.innerHTML += `<p class="text-gray-600">New updates (${info.changes.length}):</p>`;
-                        const ul = document.createElement('ul');
-                        ul.className = 'list-disc pl-5';
-                        info.changes.forEach(change => {
-                            const li = document.createElement('li');
-                            li.innerHTML = `
-                                <a href="${change.link}" class="text-blue-600 hover:underline" target="_blank">${change.title}</a>
-                                <span class="text-sm text-gray-500">(${change.date})</span>
-                            `;
-                            ul.appendChild(li);
-                        });
-                        firmDiv.appendChild(ul);
-                    }
-                    updatesDiv.appendChild(firmDiv);
                 }
             } catch (error) {
-                console.error('Error loading updates:', error);
-                document.getElementById('updates').innerHTML = '<p class="text-center text-red-500">Error loading updates. Please try again later.</p>';
+                console.error('Error loading data:', error);
+                document.getElementById('trades-body').innerHTML =
+                    '<tr><td colspan="9" class="px-4 py-6 text-center text-red-500">Error loading trade data. Please try again later.</td></tr>';
             }
         }
 
-        async function findLatestArticle(firm) {
-            try {
-                // Add cache-busting for all_articles.json too
-                const cacheBuster = new Date().getTime();
-                const response = await fetch(`all_articles.json?v=${cacheBuster}`);
-                if (!response.ok) return null;
-                const allArticles = await response.json();
-                const firmArticles = allArticles[firm] || [];
-                if (!firmArticles.length) return null;
-
-                let latest = null;
-                let latestDate = null;
-                for (const article of firmArticles) {
-                    try {
-                        let dateStr = article.date;
-                        if (dateStr.includes(',')) {
-                            dateStr = dateStr.split(',')[1].trim();
-                        }
-                        const date = new Date(dateStr);
-                        if (!isNaN(date) && (!latestDate || date > latestDate)) {
-                            latestDate = date;
-                            latest = article;
-                        }
-                    } catch (e) {
-                        continue;
-                    }
-                }
-                return latest;
-            } catch (error) {
-                console.error('Error loading all_articles:', error);
-                return null;
-            }
-        }
-
-        // Load updates on page load
-        window.onload = loadUpdates;
+        window.onload = loadData;
     </script>
 </body>
 </html>

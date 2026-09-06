@@ -1,6 +1,2 @@
 requests
-beautifulsoup4
-pandas
-lxml
-python-dateutil
-fake-useragent
+pdfplumber

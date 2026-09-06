@@ -34,12 +34,34 @@ each one.
 * Always check `filing_url` (the underlying PDF) before treating any number
   here as authoritative.
 
+## Position summary (open P/L and closed annualized P/L)
+
+Every run also builds `pelosi_positions.json` by FIFO-matching each ticker's
+Purchases against its later Sales/Exchanges (stock only — options are
+excluded, since there's no simple daily price series to value them against):
+
+* **Open positions** (shares bought but not yet sold): a running,
+  unrealized `P/L (Running)` vs. today's looked-up closing price.
+* **Closed lots** (a matched buy → sell pair): a `% P/L (Annualized)`,
+  computed CAGR-style as `(1 + realized_return) ** (365 / days_held) - 1`.
+
+**Read this before trusting the numbers**: this stacks a *third* layer of
+estimation on top of the two already described above (range midpoint →
+looked-up price → FIFO-matched P/L). A short holding period will also
+produce mathematically-correct but extreme-looking annualized figures (e.g.
+a small loss over 4 days can annualize to close to −100%) — always check
+the `days_held` / underlying dollar amount alongside the percentage.
+Positions missing a price/quantity estimate anywhere in their history are
+flagged `data_incomplete: true` (shown with a `*` in the UI) and may
+understate or omit lots entirely.
+
 ## Files
 
 * `track_pelosi.py` — fetches the House Clerk index + PTR PDFs, parses new
-  transactions, and writes `pelosi_trades.json` (cumulative) and
-  `pelosi_updates.json` (this run's new transactions).
-* `index.html` — static page that renders `pelosi_trades.json`.
+  transactions, and writes `pelosi_trades.json` (cumulative transactions),
+  `pelosi_updates.json` (this run's new transactions), and
+  `pelosi_positions.json` (the open/closed position summary above).
+* `index.html` — static page rendering all three files.
 * `.github/workflows/daily-update.yml` — runs the tracker daily and commits
   any new data.
 

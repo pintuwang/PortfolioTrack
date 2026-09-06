@@ -33,6 +33,7 @@ except ImportError:
 DEBUG_FILE = "debug_output.txt"
 TRADES_FILE = "pelosi_trades.json"
 UPDATES_FILE = "pelosi_updates.json"
+POSITIONS_FILE = "pelosi_positions.json"
 
 # Members to track. Extensible: add more {"display_name", "last_name"}
 # entries to track additional members of Congress.
@@ -419,6 +420,137 @@ def enrich_with_price_estimates(transactions, max_lookups=40):
         log_debug("Stopping price enrichment early after repeated failures (endpoint likely unreachable)")
 
 
+def fetch_latest_close(ticker):
+    """Most recent available closing price for `ticker`, best-effort."""
+    today_iso = datetime.now(timezone.utc).date().isoformat()
+    return fetch_close_price(ticker, today_iso)
+
+
+# ---------------------------------------------------------------------------
+# Position summary: FIFO-match Purchases against Sales/Exchanges per ticker
+# to separate still-open lots (-> running P/L) from closed lots (-> realized,
+# annualized P/L). Two extra layers of estimation stack on top of the
+# est_price_usd / est_quantity fields here (themselves already estimates),
+# so treat every number in this table as directional, not precise.
+# ---------------------------------------------------------------------------
+
+def compute_positions(all_trades):
+    from collections import defaultdict, deque
+
+    by_ticker = defaultdict(list)
+    for t in all_trades:
+        if t.get("asset_type") != "Stock":
+            continue  # options are excluded: no reliable price series here
+        if not t.get("ticker") or not t.get("transaction_date"):
+            continue
+        by_ticker[t["ticker"]].append(t)
+
+    open_positions = []
+    closed_positions = []
+
+    for ticker, txns in by_ticker.items():
+        txns_sorted = sorted(txns, key=lambda t: (t["transaction_date"], t.get("doc_id") or ""))
+        lots = deque()  # each: {"qty", "price", "date"}
+        data_incomplete = False
+
+        for t in txns_sorted:
+            qty = t.get("est_quantity")
+            price = t.get("est_price_usd")
+            ttype = (t.get("trade_type") or "").lower()
+
+            if ttype.startswith("purchase"):
+                if qty and price:
+                    lots.append({"qty": qty, "price": price, "date": t["transaction_date"]})
+                else:
+                    data_incomplete = True
+                continue
+
+            if ttype.startswith("sale") or ttype.startswith("exchange"):
+                if not qty or not price:
+                    data_incomplete = True
+                    continue
+                remaining = qty
+                sell_date = datetime.strptime(t["transaction_date"], "%Y-%m-%d")
+                while remaining > 0 and lots:
+                    lot = lots[0]
+                    matched_qty = min(lot["qty"], remaining)
+                    buy_date = datetime.strptime(lot["date"], "%Y-%m-%d")
+                    days_held = max((sell_date - buy_date).days, 0)
+                    pct = (price - lot["price"]) / lot["price"] if lot["price"] else None
+                    annualized_pct = None
+                    if pct is not None and days_held > 0:
+                        try:
+                            annualized_pct = (1 + pct) ** (365.0 / days_held) - 1
+                        except (OverflowError, ValueError):
+                            annualized_pct = None
+                    closed_positions.append({
+                        "ticker": ticker,
+                        "quantity": round(matched_qty, 4),
+                        "buy_date": lot["date"],
+                        "buy_price_usd": round(lot["price"], 2),
+                        "sell_date": t["transaction_date"],
+                        "sell_price_usd": round(price, 2),
+                        "days_held": days_held,
+                        "realized_pl_usd": round((price - lot["price"]) * matched_qty, 2),
+                        "realized_pl_pct": round(pct * 100, 2) if pct is not None else None,
+                        "annualized_pl_pct": round(annualized_pct * 100, 2) if annualized_pct is not None else None,
+                    })
+                    lot["qty"] -= matched_qty
+                    remaining -= matched_qty
+                    if lot["qty"] <= 1e-6:
+                        lots.popleft()
+                if remaining > 1e-6:
+                    # Sold more than we have a matching purchase lot for
+                    # (e.g. position opened before tracking began).
+                    data_incomplete = True
+
+        if lots:
+            total_qty = sum(l["qty"] for l in lots)
+            total_cost = sum(l["qty"] * l["price"] for l in lots)
+            avg_cost = total_cost / total_qty if total_qty else None
+            oldest_date = min(l["date"] for l in lots)
+            open_positions.append({
+                "ticker": ticker,
+                "quantity": round(total_qty, 4),
+                "avg_cost_usd": round(avg_cost, 2) if avg_cost is not None else None,
+                "held_since": oldest_date,
+                "current_price_usd": None,
+                "running_pl_usd": None,
+                "running_pl_pct": None,
+                "data_incomplete": data_incomplete,
+            })
+
+    return open_positions, closed_positions
+
+
+def enrich_open_positions(open_positions, max_lookups=25):
+    """Best-effort: fetch a current price for each open ticker so we can
+    show a running (unrealized) P/L. Failure just leaves fields null."""
+    lookups_done = 0
+    consecutive_failures = 0
+
+    for pos in open_positions:
+        if lookups_done >= max_lookups or consecutive_failures >= 5:
+            break
+        if pos["avg_cost_usd"] is None:
+            continue
+
+        price = fetch_latest_close(pos["ticker"])
+        lookups_done += 1
+        time.sleep(0.5)
+
+        if price:
+            consecutive_failures = 0
+            pos["current_price_usd"] = round(price, 2)
+            pos["running_pl_usd"] = round((price - pos["avg_cost_usd"]) * pos["quantity"], 2)
+            pos["running_pl_pct"] = round((price - pos["avg_cost_usd"]) / pos["avg_cost_usd"] * 100, 2)
+        else:
+            consecutive_failures += 1
+
+    if consecutive_failures >= 5:
+        log_debug("Stopping current-price lookups early after repeated failures")
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
@@ -491,10 +623,22 @@ def main():
         "new_trades": new_trades,
     }
 
+    open_positions, closed_positions = compute_positions(all_trades)
+    enrich_open_positions(open_positions)
+    open_positions.sort(key=lambda p: p["ticker"])
+    closed_positions.sort(key=lambda p: p["sell_date"], reverse=True)
+
+    positions_payload = {
+        "last_updated": last_updated,
+        "open_positions": open_positions,
+        "closed_positions": closed_positions,
+    }
+
     success_trades = save_json_file(TRADES_FILE, all_trades)
     success_updates = save_json_file(UPDATES_FILE, updates_payload)
+    success_positions = save_json_file(POSITIONS_FILE, positions_payload)
 
-    if success_trades and success_updates:
+    if success_trades and success_updates and success_positions:
         log_debug("\n=== SUCCESS: All files saved successfully ===")
     else:
         log_debug("\n=== ERROR: Some files failed to save ===")
@@ -502,6 +646,7 @@ def main():
     log_debug(f"\n=== FINAL SUMMARY ===")
     log_debug(f"New transactions found this run: {len(new_trades)}")
     log_debug(f"Total transactions tracked: {len(all_trades)}")
+    log_debug(f"Open positions: {len(open_positions)}, closed lots: {len(closed_positions)}")
 
 
 if __name__ == "__main__":

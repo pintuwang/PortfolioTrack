@@ -1,123 +1,84 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-09-19 00:07:54 UTC+08:00",
+        "last_updated": "2026-09-19 23:40:11 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-09-19 00:07:59 UTC+08:00",
+        "last_updated": "2026-09-19 23:40:19 UTC+08:00",
         "changes": []
     },
     "Markel Group": {
-        "last_updated": "2026-09-19 00:08:04 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-09-19 00:08:11 UTC+08:00",
+        "last_updated": "2026-09-19 23:40:27 UTC+08:00",
         "changes": [
             {
-                "title": "Bill Ackman's Pershing Square Took a New Stake in Netflix in 2026, Years After a Money-Losing Bet on the Stock. Why He Says This Time Is Different. - The Globe and Mail",
-                "date": "Thu, 17 Sep 2026 13:40:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPWWE2Q3VTbnpTeVpNSjRSaFdHazNtXzNJOWVOTlctbnV5Zzl3YzY2QllKc19KcDZERHEyWmdvX3Q3c2RzMklJdk5pVEJkVG5fQm1ZS1k5SnNDZkZLYTE0dlF4X0RxcjN5S3NCdEE2RHVRSEhLdzJpWE50TDVLMlFMOVJidHZzeG44b3lrbklLOE5kdHBmU1g0WS0xNV9Kb096Q2p2UExDMXhtVHFySjZzTmNYaS1ZZmhLSy1HMWJkNTh4RjhrSzdjTzl5RkxKMl9Nbk9KaXJXeVhodFZBQWtOSU0tN1p4endDOGgwUDBydUNkcF9oV1V5MHBRclFOaUNwcHZyazBNSG4zZVc3YXNvMnpNaG5zalY4RE9OOVVsOXJGMWp6NHVqRFhmRmdzT0NUX3dNaC1DVWxEckNzNS01VDBKUDVoekt4NlE?oc=5"
+                "title": "Bank of America Corp DE Acquires Shares of 118,590 Markel Group Inc. $MKL - marketbeat.com",
+                "date": "Thu, 17 Sep 2026 08:06:23 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeVpuY3QzRnRiZ0RiRzE0VGNFVTA2eTJ0bGdUZlhqOGI4NzJaRGNFbXMtSF9MdlU3dnF0eDQ0SGZOcGJlSWRaX2djVmhrVnRDamthODVHNEZrN3BUYXVkbERtRkR4SWl2dHlJVXZqSHVHVlFSdXFjTGU0YlBYTzZBZlIwYXBhWlNoN19RbGk2NGVVRVVrM0l1dXJsR2Mzc3VUVWVBNi0yM3MzZlBsN2wteHktTHI4VmFud1dpSHhfWXZSanZpMjRSUThZTQ?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-09-19 23:40:33 UTC+08:00",
+        "changes": [
+            {
+                "title": "1 of Billionaire Investor Bill Ackman's Newest Positions Is Down Roughly 21% This Year. A Wall Street Analyst Thinks Another 21% Decline Is Coming. Should Investors Sell the Stock? - The Motley Fool",
+                "date": "Fri, 18 Sep 2026 17:41:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdnhfSWNfT0NlR3R1bWJnVXM0NjBkcHNzYzJDMEZ5ckNwalZHcFZzVThpUVcwVUhDYTRxZlZfVkN6d29WWXVoRzhVVDhlZG0xTTVzcWR5YkRhVE5NN2pmMDUxdW1OM3BieVdiOWxLSktCazhzcUJpQWY1SkYzZjRUZk00R0d6VnZLcTdUa3FFSGRnZGVfaHhLV2FxM0FLcFVZU3hzZDM2Z2FqeXQ2R25HM2NzTy10OEk5eE9aUXFQcXNvd2N4U05XV21XRnlCNnJfeHNsdVN1NERJOEQ2WlZIVlQtVGtveWVQdzk4T1RuVVhScWhMdVppUVJmWHFfUVZmMnMwaElzdmpiWmE5YTNmNnpBZDBlaHpCWmZpNEo5RnJGZ1J2d1pnX2lnZDNjT2k1OWswdlZTUXR1anQ2SFhn?oc=5"
+            },
+            {
+                "title": "1 of Billionaire Investor Bill Ackman's Newest Positions Is Down Roughly 21% This Year. A Wall Street Analyst Thinks Another 21% Decline Is Coming. Should Investors Sell the Stock? - The Globe and Mail",
+                "date": "Fri, 18 Sep 2026 17:31:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNZGQ4eWM5RG9LSzF4UG5RemJ5bEI5Z09lRFpURnBGdjQxZ3NlSXQ0VXRjOVFpWHhHUDBUQ0duQnJjTmNrdUJDQm90dzdwczJvNWx6bUE2eG5MWEJDbnh5cE1yYWlWQ19heGh5REdxRzNlUDR6RU13SmdWTF8xVTRKQ2FYaXRLLUZnYk9hRG9zUjZVY3VYY05zbkx3RzVaVzBRc2xQazBWZGNlN1M3T05ydW9hVjZaQk9IblF0aUFKUmVGaHZpNWMwbXpDbm9GT1ZUc3JhZ1ktNUFlc3YxRXpKMTdSWnAta2dXZm8tRDBjNlNhUUpkcXNNbVlVb0ZBNUpGZGV5Q01SQWVxN3VWdUJSRVZ6N1pEbFc3RktIV3pvd2NFUTJFaW1UbENIMW9fT0czOGU2eF9DNVFmY1BYanc1Y1pIdUp5aEJVbUd0NkRjdWxoQnF1U2tYUlZhQ05sMDRkQW8ycU1OdFdzUUlkbWRxTWFCR1M?oc=5"
             }
         ]
     },
     "Strategy": {
-        "last_updated": "2026-09-19 00:08:19 UTC+08:00",
+        "last_updated": "2026-09-19 23:40:40 UTC+08:00",
         "changes": [
             {
-                "title": "VRS terminates AQR strategy, adds to private markets - Alternatives Watch",
-                "date": "Fri, 18 Sep 2026 11:02:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTEtUnBFYV9WXzRDblJGSGhrSG9OSlpRNmlJaXA2dXdMdHBkdW9rTGxXUElrMy16TWFLZU84S2lJQjhVZmpwZ2I2WmxWUi1LOXhXQUJXd29KODVKNC10NElDZVNnenptcWFiX01VUjRCOTAzOEtZRUs3LVBwQVpFeXFubktrVlBMNGdaZ2lLVHJ5bjZqZFN2RkxCMndvQQ?oc=5"
+                "title": "History Says This Investment Strategy Can Build a $1 Million Portfolio. Here's How. - Yahoo Finance",
+                "date": "Sat, 19 Sep 2026 13:14:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaU9RbEtHdnhYTkx5UE9RUTZmTi1fZkxiRkxObWZ2MHo0c2JYbENSSlhRRXlOekZvUGZOSlk4Y1EzRDNYZTZrMGxLczJ2dV9NbFZVQklTb3hncU50MFYwUmJsdm03SEx1ay1TUXFYRWNsby0yTkNrdWcxbjVtQnlvUnlTVjU2T1VwLVRkZ2VVOUcwVDljNWRRZ2stSkRLVWlBc29kVTdB?oc=5"
             },
             {
-                "title": "CoPoint AI Acquires Strategy for AI, Adding Founder Brad Bush as VP - Dallas Innovates",
-                "date": "Thu, 17 Sep 2026 18:06:18 GMT",
-                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaENVLVc4ZVRQdG9qdXRQNlVaM1UzUFk5aTcxWTNuRF9wMjBOaTVTaU1KS0FXNkNOamh6MXlibWZ2dlVZZmtWVEp2WTU1XzFPcDJRMHlnNjBjamwzN2RxODFjUjJxSW9jTjVBXy1CUFNDRnVWa1B1bS1aQ1lHNDd5emRCXy1RbXBXR3BTaWhGRnQ1V2N1MUtJZm5mcw?oc=5"
+                "title": "Strategy Stock\u2019s 16% Jump Yesterday Traces Back to a House Committee Vote. - tikr.com",
+                "date": "Sat, 19 Sep 2026 09:02:04 GMT",
+                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmZuZE45blFoTHZiV3lTOEZNVmVreG1EaThEdk83MEFyOTZwZy1rS0xtaVdIRTluU3o3S2hXVjR6b0VVS1ZheVBrLUc1NEktMFloT3lhcEJ2d3RHc1dibE53ZjNrWmtwcjJuYWRxVURWaE1zbHQ2d2Q0YkwzVlhBZ0haU1lMeWZKQ09IMG9RQ3QwdVZKTGU1R2dnM2swZw?oc=5"
             },
             {
-                "title": "MCY: Record profits, dividend growth, and major renewable investments drive future strategy - TradingView",
-                "date": "Fri, 18 Sep 2026 04:18:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQTF4eXBSQW5TQ3ZFLVFpdFB2V2M0azZJQU5jdGFYd0RaVFdudkVsLWFhNkMxQk5Pc3hWTXV6cnpoTFRuU0YtMTdTQjRpaTkxUkxDS3d5UVFNeHFzQVpyVGFxeW1XaWFSdkVIdUNoS3FsbGFrdFNvYTVZR0psWVh4aTJSUW9Kak5sX0pKVzAyVU9CcHdESGNRUDNIaGR5bUxrNVZRMW0wX1N6N0NvVGlPNFJSZDc5R2F0RVV5X3ZNNHZnQkVXNEJNV3hqWGJKRmR3Uzloc19VVGhIRnRvRWRfLTZSZlpJNVZHdlk3cVpibjgxUFQtaUVFaW5ieXV6am1CRWtKUlpR?oc=5"
+                "title": "Boosted Bacille Calmette-Gu\u00e9rin vaccine strategy significantly reduces tuberculosis relapse, scientists find - medicalxpress.com",
+                "date": "Thu, 17 Sep 2026 15:40:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGVWNFZ5M1l4ak1ENDczcEFURnNESk1zODRaRDdTQXBaVlBZdTVFMzk4MUdGNEdRRDFKVlVqUGs0emNDMWJldzBXemJQNlF0QkdSa3F5a1NYMS1IVFdDNklsY3lfanJremxyR0ozd2dNZFhseWdWMW9BeTNPNmlnVFBUSGNKek50SGc?oc=5"
             },
             {
-                "title": "Provident Industrial Names Martin O\u2019Hara EVP of Investments and Strategy - citybiz",
-                "date": "Thu, 17 Sep 2026 18:39:15 GMT",
-                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamFYc05FZUs2MXpiUTdiZHEwSUJKZzdScURkUHpvYlNON0RoTml3MjR0VXQ0TmxhbjgwQ2hiV0tnY2xMQ0hOUWIyS1puUllTQ3EtcXZqUWZkWl9wbkZmYVQ1MTIwT2xsT0l1VXg5QTNFanlqbmZlWEc3dGRRVElEMlZTa0tXLWNSQmExa0pRUEc1S3RhQlZWTzJhQ3hWaDFtWGFJRTZJaktOMEtyV3Rr?oc=5"
-            },
-            {
-                "title": "DIVH\u2019s First Portfolio Disclosure Could Reshape Your Dividend Strategy - 24/7 Wall St.",
-                "date": "Thu, 17 Sep 2026 14:00:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91ZzBNZWxCMEhuSEFEVnJzem1TUlVRcFZFbTNNWTJGZTJqY1lLRXhpYUxaOU5FYWhmbzBLNy11WnBIQkI4YkdWLU50SWtTQ01YM3lTNUhiYmNod1JQbXUwdGdVS0dUU25PVzJncXhVQXp3Vm94?oc=5"
-            },
-            {
-                "title": "Terragen Holdings (ASX:TGH): Microbial Technology Shapes Agricultural Biotechnology Strategy - Kalkine",
-                "date": "Fri, 18 Sep 2026 14:21:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOME5MM2l3d01zSEpkaFpJNm5GdUdsOHRTOXRmUWVDNnluMllmbVNKV0p2eTRXSlROX0pmX2JPVTZtVWo1NXRQbGNBWGFQN0dCRHNFWklXaGF5WnQyeUJQQ3JPVnR1bWF0LXQ2QUZQQ2pRMmI0ZjY5ek9pVnUyTEZMT296OU45Unlwb3ZsMkJLUHpaVThSaTFJQWNDRnFjd2RwTTBkT3otdzBCUHpUX0psWDhfQWttTG5hZl9KcjNmZHdXd3AxTXc?oc=5"
-            },
-            {
-                "title": "EQT industrial RE strategy adds $1.2bn Southern California portfolio - Alternatives Watch",
-                "date": "Thu, 17 Sep 2026 22:31:16 GMT",
-                "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcEdrM19MMWhMZ3BPS1BCUmV4aVkxd3lBY0JNTFl4by15dWc0TmJvLWVjSFpyWDRLdlZCQnRtdXJyTlhDRzZOQnF4TzZtMG91X2gtd1JLalFYb21hNjlJVGstTTlHN2Yycy1admk0U2xMMUxOd0lEOFliRmhEUHBFSDNuQ0NIci02bHZmakZzVEM0dEQ2eE91QnJVd0l1NjY1OXpjM0QxcnFMVGN4cmc?oc=5"
-            },
-            {
-                "title": "100% US tariff threat tests India\u2019s global trade strategy, adds urgency to FTA push - ET Government",
-                "date": "Fri, 18 Sep 2026 02:12:08 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONUV0blVmNFB3bDFPd3FGREhFTEhDQlpQWUN3dm5ucmJ3Q0k3aVhHTFVwYmdjNkp4T0RtcUxwZEV6NkRvWHZXZXVBaFlPdGdIZkE1bTVTNzRycUlhTFFGVlMwWUowYzc1Z2dNWGEySHk2aUJRclpEVDN1R0J5UW5SdERLWHF1VVhmMF9RV0xjSnlFTGY5WVNCYm8xSlZCV01CSDc4bnhxQW5xaXNVaF84UXZtVlg0VE9oUGNyYy1UNWFyXzBkcm5xN2ZwUzd0RWVPdkRQYmUxXzZNMVFyS3dEa1IyZk1xUdIB6wFBVV95cUxQQlJTcHFfX0xBT2M1OTZxV3ZEcDVvRW51QklhR3V1OVM5XzEzdlpFVmN6VjFfN3RfMGYxdGhpNFJERGtJNEZ5NWNEczhqaUZHU3RhWEljTlBkTmhyb3doc1I0azhfQ0g4M1NxM0RFblRxQnpEUXZIXy1PbkVNMjBHM1cwYlA4QTNObkx3TVNFenY2bXExalZPV3RDa0EzUEV1UXNZbHNtbWs0MjFsQlhWVFF4bW5lRDRSY21MTmxSX2hDRXpqMW1GY1gxYU5HbHp5OXlUWmVuZnVFbG4xWTVYcWtpc2lSazEyZEc0?oc=5"
-            },
-            {
-                "title": "Parul Sood Joins Gland Pharma as AVP \u2013 Strategy & Innovation Portfolio - hrtoday.in",
-                "date": "Fri, 18 Sep 2026 11:17:22 GMT",
-                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXk3YWQtSGdJR1Q1T1VXS05Nc3oydVlhVUVrWF96cDZSS01kU1c0a25vX1NOVFA3ck1sLVdROFJVMV9rMWpGNTZ1ZVFQSUJmcmFiaWlDdFhDYXFiYjF3bTNGS3NBaUtKR1otSkZQUkZBMEdaWmw0SEpJbnllSlpSRk93RWdmV0RRLUdsdzZfcw?oc=5"
-            },
-            {
-                "title": "Acrux (ASX:ACR): Women\u2019s Health Strategy Adds a New Dimension to Pharmaceutical Development - Kalkine",
-                "date": "Fri, 18 Sep 2026 08:38:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV3lfZ1pWS0lzU1pKc3FKTTNleUhPYlQzQ0tTbl8xSno5NkExX004UWYwc3RUbXp4akhtZlFSblk1Rm0zT2hmcDQ0bWduOTVzMk1DM0g4ZFJGQmFMTENDMmNMY3FuLWRXWTlDODlFZnRfRmNRZEtoWTU5akJoQ0FDbzJVVEx6NEl4aV9qaGFyRkVKOERCVjRnUl9VdGg5RnNScXpraUc2WTJ1ZXB4SUdxbVNwSjhZaFlRSnZqbEdUOWlfR1E?oc=5"
+                "title": "KRC: Robust leasing and capital strategy position the portfolio for durable growth and higher 2027 NOI - tradingview.com",
+                "date": "Wed, 16 Sep 2026 22:41:13 GMT",
+                "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOdkdReXpCaW83VVEtNW80c3h6N3RpbjNOdWxDTmdSaHVSeGk2dFlOd29wRWFaX2wwYW1ITk44cWlNZ3VRYlkwcjlRS25yeTlleF8zY0ZfWHpSd2tCaVd0MzRETXlQcUlES0hrcTFtNTVaQVE0cGQwY0pnSGVzTGJUVm9YVnYyWmFSWmZRWm5pdERNcFZSSVJzM3JEbWgwVjgwRF85a0JTa1ZCM09WTVc0X1haNTZqMGlqS0d0Nkc4OHh6T2IzNXk3UTBQRkpqb3pmZnNpNmZQdHMzZnRkaUFXS3BldEVzMERlYzhiblFRTG5sTTVaUkVWV2FBWkpCR2MtNWUydlBLelFKaER0TTdhRGwtSzZoS3c?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-09-19 00:08:23 UTC+08:00",
+        "last_updated": "2026-09-19 23:40:44 UTC+08:00",
         "changes": [
             {
-                "title": "NEW THIS MORNING: Warren Buffett, the chairman of Berkshire Hathaway, has stepped down from his position at the investment firm effective immediately. - facebook.com",
-                "date": "Fri, 18 Sep 2026 13:58:23 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd0hoMEVDazloaFEyYnl3dFlpNWtZUFJCb2pLUFZtYjVXaGhGajlwY3kxR3JhWmNfa0QtaGZhbGNRd0xLMnd2LUYtY2JyWUdXZ2JNN1lERlJnZG5UdlFrS2VDT3JoandVVXJIdjlEc1Zsd3ZRejM2WFJSY0lFRTJaTmpLWkdOZXdHQmJMMWljSFlLY25WSjllZS1FMzZ5aGl4eGZZdW1kdklvU0J0QVVFeUJYRWtiQ0NuYklhaWM5SW5OcUhQdC04SUstc3VZQ1RyOW5BUWNjTENZUQ?oc=5"
+                "title": "The New York Times. . Warren Buffett, who built one of the most successful investment firms in history, is stepping down as chairman of Berkshire Hathaway, the company said on Friday. His older son, Howard Buffett, will replace him, under the company\u2019s succ - facebook.com",
+                "date": "Fri, 18 Sep 2026 19:50:02 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdGJYa2NVdVRjazlSX3Vabm5NYWUzVGl5cjQ0LWlLZ05MYlB2alRldmhLT3V0SkZILTZzVVV1Qkxyek0yd2IzcEVPeTNsV0FFV1hTdWdLYTh5TWZ6RHhmMUkyWGNKNEMxd3dXRlFQa2JIVVYwald4aDk0d1FKclpzd3VYOHZsZ29JYUM1OTVpR2JXdS05LVRrNmdWbzhqcm9WMlEtaGE5VjBnZE9ZWTBaNUtiMFpfTHdGdzdOajYzRG02bU5Gb2taS1ZQVXRKVWxGV3E3Xw?oc=5"
             },
             {
-                "title": "Berkshire Hathaway reveals heavy commitment to financials despite portfolio changes - Pensions & Investments",
-                "date": "Fri, 18 Sep 2026 13:00:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmhLN0tqNlFEei1iUWY5UG9vSGJPakc2cUpyTmhyOEQxWGdyS2lsVXp2b0dCS0x0X0dCZjExdnVWbG4wYlV0dVhmSHdVS3RUcTVzQXdOY3drenFHZ2lSVWJveGZxUWhjRkJ4VWxjOWdxVnF3NzRXYmJ4NzdSQnhmRUVUbjFJcnpEV2sydno3U1VjLXMzT1pvMmR6WkItZ2dsd0t3Vk5B?oc=5"
+                "title": "If You Invested $1,000 In Berkshire Hathaway Stock When Warren Buffett First Did, Here's How Much You'd Have Today - tradingview.com",
+                "date": "Fri, 18 Sep 2026 13:36:36 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CSW5iMUFEdHhDRTVHUHBTa1lUWk5VTmtJUk9DUjBTTFpoWDctX3pBNmJBMGZlanVjUGhyakpMVEZHRFJNZ3NSYjdxaThMWFhiRUVpbHlvVlNyVnd6bG9Ld2JyeGZnc3BW?oc=5"
             },
             {
-                "title": "Warren Buffett steps down as Berkshire Hathaway chairman - Investment Executive",
-                "date": "Fri, 18 Sep 2026 13:32:03 GMT",
-                "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekhMZDZDV3F6SVlwdm42Z3JDbGk3NXd1c3pUMlNjUWtpSE43eUxwaHFVNzAzZWRxZGRGV0pmMjMtRnhOOUZpQXItWXIwRVh0em1MVEJUVWNSaFMzcDZ0Q1dMQ0NTSkV0bUNSdWtVSUNBWVRzeHlLUTducEVtaHFPMGxoZ1phclcwZGpHLU1lVFFzWU5Ld2dSRkdNMkh1Zjg?oc=5"
+                "title": "3 Financial Stocks Berkshire Hathaway Owns That I'd Buy Before Buying Berkshire Itself - The Motley Fool",
+                "date": "Fri, 18 Sep 2026 10:45:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkE3SGlwNkNyQkNlc0JldGRtaTRlaUxrUDNJbTh3emZ2bm9uMHBlNm5NYWpSaEp5YVNhS1FSUEcyMkFEZEtQcE03MG5ZcHd3RkxlZWhWQUFWcGtLQlBOdFNxZWk0MVNVdHR6QnNhWDUzeFg5QnNrb0YtbDZiSEtjYTduenZfUnVBUXRMLUhkWVpwUTl4RnhOSw?oc=5"
             },
             {
-                "title": "Investment heavyweight Warren Buffett steps down as Berkshire Hathaway chairman - The Independent",
-                "date": "Fri, 18 Sep 2026 11:39:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVlIbFpmbmllSnJydXZhY0ppQm9qdVJtY3owSndTaVB3LXotNEM0SzY4YkhyOHZrTkpGQThSdFJiYkdkMURHVlMzY0tNYUFPa2JRRzR6RVFXNFVUNEhRelBWbHM0VU13VXl3UFVfcndrQTBuYi1QamppdEt0T0xvSTZBaFg3SEtRZU1nczhtbm42OUF5Q0ktU2pfdnF6eFdNYVlQWHVKakhXUmw4aDRxQ3d1WWRHV0JGMG1YaUFR?oc=5"
-            },
-            {
-                "title": "Investment heavyweight Warren Buffett steps down as Berkshire Hathaway chairman - East Renfrewshire News",
-                "date": "Fri, 18 Sep 2026 11:45:57 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFJFS1lmZ3dxNm1CNHFuR2RLUnlzbHVtN0pGeFVzR3FuY0V6MmJRRktsMUNranlra1BPRXZPeWRKV25PN1ZNOWMwYWZaNTFZa0Z1SENVMktBeHRyNHNTQzZpLThDSnVaQkFfZW4tcHJGVDBMMnNZbGtQNy0tWHR2UmpkSGlFYzJTSEdkU2o3anZSeERsRWtmSmJxdXp6SnhYYk54dHc1eVFCLWxsWmlGZUptSGx5RlJ1TGxyUEg1ai1LZw?oc=5"
-            },
-            {
-                "title": "Investment heavyweight Warren Buffett steps down as Berkshire Hathaway chairman - London Now",
-                "date": "Fri, 18 Sep 2026 11:42:15 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjFVZU5VUzM2bmYtWGd0YkhEU015dm9KdWFoYm4zT0FOc3NfMmgyaWd5MmxEUGo4TXZUUm51bnRIaEFUdm05MEZ6bzNoZ25RUEtmYkpZOTFqeTBGalA4X3VxVUZLaG1mZHdWaHBkM01GMEFHVVR3QURxb3dWUzB5and3ZU1zQUJYTVFuSmw3dzA5Rkw0MU9pSlZZQmZiUzZCOVltR0JtR2FXbE5HQWNHbnhfX3J5TnN5NHdyVXpPNnUydW8wUjF0VjdZdw?oc=5"
-            },
-            {
-                "title": "Investment heavyweight Warren Buffett steps down as Berkshire Hathaway chairman - Southend Echo",
-                "date": "Fri, 18 Sep 2026 11:42:15 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSVd1WG5maWlKX3Izd3Uxb1R1WWgyYjgxQ1h1QXBtM25wdm5QQjM4SkV5SjRFQTREcFNYcGtmWU9rWGVKN2hLUk82VlRQanNxei1Sa0FaeU91cmdBLW13MEQ5S19ZbUQ4MHg2ckx6VklUTW96bndlam5QNkc3VVNmWEs1Ql8xTk0xZHNfY2haMUNpVnV1MjRIVTZ2ODBFTXpYb3plQ0FhZmF1dkJ5eDNWTmpJNnFEcDRWQ0ZNcU1CdDlDaDF6NlgxVg?oc=5"
-            },
-            {
-                "title": "Greg Abel Grew Berkshire Hathaway's Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? - Yahoo Finance",
-                "date": "Wed, 16 Sep 2026 21:04:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObURmaExHSzRpSDBzUVUzcWNENWZqRUR3REVIT1BQVjlWRC0zR0ZkYWd4QWl6dk5Wcm5Yc3BpMkpsZXdFcmVlMVNmdWlCbzlEbngyampod2x2SEZfVE5BenRZUXpfRzFyUXRNYThtbF9vcTlkcXJqVU04TmotOWRjbjR3NTh1eVJpWDR5MGJNZ1ZiMnUyU0xyMTBYQlExWHFE?oc=5"
+                "title": "Greg Abel Grew Berkshire Hathaway's Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? - The Motley Fool",
+                "date": "Wed, 16 Sep 2026 21:44:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXN3ZVFPX2d4Y1gxeVBSdHc3a0xnNnFqYkg4UHdrTGVLRWVKUkF6Z3ZuaEYtWlBfN1FlcGxrSDlfVHI1LXY0Mm5HNzh1U2ttUnJ4bVVoSjNsZGFyZnFBNXNSQkhZOTNqQlFYNS1YN2dlZTFoU0Jham1IYXhiVFlZTjUwa1ZTUjNvRUd4cHhqQ3RzZWNWbUR0NQ?oc=5"
             }
         ]
     }

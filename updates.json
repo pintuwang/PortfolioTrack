@@ -1,168 +1,110 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-09-22 02:03:35 UTC+08:00",
+        "last_updated": "2026-09-23 00:37:48 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-09-22 02:03:41 UTC+08:00",
-        "changes": []
-    },
-    "Markel Group": {
-        "last_updated": "2026-09-22 02:03:47 UTC+08:00",
-        "changes": []
-    },
-    "Pershing Square Holdings": {
-        "last_updated": "2026-09-22 02:03:54 UTC+08:00",
+        "last_updated": "2026-09-23 00:37:53 UTC+08:00",
         "changes": [
             {
-                "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech. - Yahoo Finance",
-                "date": "Sun, 20 Sep 2026 22:29:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWlKNVVWNlVHRmlSc3hPUGlROGt1VWltcnlLM2JIZHFXSUs3SUpEdUFQdFJ2LTFvVmxCUUFLYXdEMV83Y0VOWjR0eC11NzU3M1dFdHVUVDZHVEo0YTkwNjZsbllRWmNBMzlISjY4N2hqY081X1JVSFlxZVJKWThub19tYXJzOVM2NHlUa2RXdw?oc=5"
-            },
+                "title": "Fairfax Financial Holdings Limited Shares Slip 2.56%: Underwriting Cycle Discipline, Investment Portfolio Marks, and Macro Volatility Weigh on Sentiment - kalkine.ca",
+                "date": "Mon, 21 Sep 2026 15:41:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcUVoMmNURXJYdW82V0oyVGphQTFEeXk1LUswUUJBMFMwR1E2dTR5SWtLb25xbEwyUjMyNlN4QW41cXZFcjJ2SWV2cGVhc1NYTFRWbVVjWFlQM1Z4OW9NdDd4S1dVNFdXT1JyR2JmRmFvOG8yWjd6WGlMUnNWREVSdDVodzFFaEZEcUZuQ1ZoRnh3ckRfVml0XzJ6X0N0N0xBM182Y2Z3ck9yQXhsZ3VLWk02c091QzNPTTVONnNYa2E2M3N2Y1Q2NzdWR09SVXZ0N3hxbG0tYi1YMTRWMDlXUHpBaTl6V0YycDBBZFNBNEdKdVlQQm02SVFBUmc3dXV5WjZzWk5zU25KVzJ3aWc?oc=5"
+            }
+        ]
+    },
+    "Markel Group": {
+        "last_updated": "2026-09-23 00:37:59 UTC+08:00",
+        "changes": [
             {
-                "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech. - The Motley Fool",
-                "date": "Sun, 20 Sep 2026 23:09:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmNuVG9OWnJ0amF6LTcyWl9DaVRVaGVFRmVYU3FqT0VkelZNcS1qQk1OcVhTQkwtN2dKeUFCMllNUURKREZOMDBqc2o3Y05wLWJCbzVaUG0zUTZTSGI2UjM1MmpSOUtidjZwYUg2SjhMTGp2VVZPNDBQRk1vM1gxTlNRbkx6U01nZ3YyZDN2UHQ3a3lfaHhZ?oc=5"
-            },
+                "title": "4,307 Shares in Markel Group Inc. $MKL Acquired by Nykredit A S - MarketBeat",
+                "date": "Tue, 22 Sep 2026 07:25:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWN4RkQtTDRfbWRwU0w4eWJVZHlKVEh4UHNQc1luRjJRaVMySEwxS19oMW9PZ0JCTE5LM05LNXp2MjZjb1lCbUhUaGo4dUZfTnRnc0VtaGNrdVQ2SlpienEwMUhWLUkxNTJPVzlNQkY5aFNxcVRKR2oydVp2bzRDUmJwbmFkSFFnRUxVOTJObEoyY19sek9NZUd1TEdSSFVwRzluLW54eDI4cjdGdFRzSU9XTVVWZDlod3YyZURn?oc=5"
+            }
+        ]
+    },
+    "Pershing Square Holdings": {
+        "last_updated": "2026-09-23 00:38:05 UTC+08:00",
+        "changes": [
             {
-                "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech. - theglobeandmail.com",
-                "date": "Sun, 20 Sep 2026 22:34:38 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMkRvNTduM0IydUVud0IwVGtWLW9rLUgtMjNIVC1wWmE4MTRGUWt1TlVIUTNnR2VTQ0k2c3hZTEVrNzZGZVpNMnJkUWMxdFhtdTF3cFVWeFdPT0dxZTJRVjVLM3BZcE9Da09QclhJMUtwa2NXaXRIdjZrU0lYd0drV0FETUlneGlJQmJqNHhzUGNNajV2RktuUXFNanVZYkEwZktCSjFSSFAwMGppMHU0YkJnbkdsNEo3ZlZxUDQ4UVc0NFltdUt5SjItUWozdmlFYzJSRUFHUzFHLUZzSE5PUkRDbzM5TXl2TkVIcjdkM2ZGMm1mNTdrMlY3QjRxN0QxdVZJTGRERThsR29Wa3JoMHNPUGN0NnFFeVF0WUtNZU11N3RLUVVmMkpYY0x3N3E4b2ItOXZWWEYzeWh6WVNSNUZITFhCdzVyZjhuZTlVa3VhX0Z4MUREZlNR?oc=5"
-            },
-            {
-                "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak - Yahoo Finance",
-                "date": "Sun, 20 Sep 2026 17:23:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFBuY29aVUhlRzl5MGkxZHVOMHhLbDB6Z09HcFV0UnVtOFlZeDI1TW9xVkQyRVJwQVdwSXFMak9wTHJhTEE3UGNvZzhuSjdzZnVRT2tKcFBkdkFJYlJDUFB6cXNNTnF1aWU2azJOOWpSUHdTNlhnSWRZNW1NcGRsRnIwb2ZqcGhmLXpKWjhJa1UxMmxyNHlEd1FKbFhPZVJoUENjMDd3?oc=5"
-            },
-            {
-                "title": "Bill Ackman Has 45% of His New Hedge Fund's Portfolio Invested in Just 3 Incredible Growth Stocks - theglobeandmail.com",
-                "date": "Sun, 20 Sep 2026 08:32:15 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMTNfTjJjVTRXQUFFeU1aM0dtSEhqSmdZVkZOaXZJZDZYekU2T0x1Y0VaMk85N2JWZDdqR2NmcHJTSS13Rm81OTl3cEJBaFJsbHJSTGs4YTF0VUEyeWxfQzI5YjlXOHpWYlV0eDhjY1V0MmIxTi1xdnpWWVBoZjM5ZTVJRV9lZjZJOHEzVkhnTGIydDVlVXZGRHMxQXhZM2FQSGU3bkFoTmkzQWdwM0pNLTJkYkEtQVRmdVNJa2V5RXI2amNGZ1ZRdnZsX2RTZkpqZkJITzhqWDJiRFhKbG51MEI0U21ISXdfTXd2WXJDdl9TQVZzX1g5c0p3cGI2bUJoZkNTLUxR?oc=5"
-            },
-            {
-                "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak - The Motley Fool",
-                "date": "Sun, 20 Sep 2026 18:03:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2N1Q3NsSm0yTzlHT1d1bDljbXFWR3g1cDYxZWFneXlCOExqa09KRHVVa0ExX2s5aDdrQ1hJVDR4a1NSMnlrcWN3MzZaWG1QOG1UNGhkQlVvYTMwel9zOGlFSGFPdndOQUl0TFAtd3ZsS0pRNlpXWjF0ZE0tTWhpS1JLSW95R2Z5bGRQR1lCeEJMZWZqUTg0?oc=5"
-            },
-            {
-                "title": "What Terry Smith, Nick Train and Bill Ackman are buying after falling behind - AJ Bell",
-                "date": "Mon, 21 Sep 2026 11:19:35 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXdSUGg1RGY2bmp6RlJVdzVfZmROc2JtTnlSTGY0cXlqRXNZYW12RmNRRW4wTWg3LTlUNjhBV0lWUGRzMnJ1YkM1Q2RtWVhYQXFOVElqekNVUjVNNnhtSVZSWW1rUndjYnNEaTk4UDFZQWhISWFMU1RQMUdNX3JQSi1LMFgxZWo0TjVkU0ZXaFVCSWNFZ2lHcGlCZktKM1MtS3gtdjRZZ1U?oc=5"
+                "title": "Bill Ackman Has 45% of His New Hedge Fund's Portfolio Invested in Just 3 Incredible Growth Stocks - The Globe and Mail",
+                "date": "Sun, 20 Sep 2026 08:27:08 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNV0dJSkF4blFpYUZYVDZnSDQ4UmdITFNrNjNOWUNhTWRRbDEweTFzWnY5WVo0a0lPUVNac1NFWXlzR0JYdk5KdmhPUzVieWZfbm5nbnlQTVVQSEZ6a0hQQm9URHVnUWg2TmVLSnBIZUotYVlwbUMzUUplWmpmb0dTN0lQdU9SVTZFRy1RTVVRVERfaTlfUUpTNTIyb0dLdGNUUzQ1SngzcHFtTXhib1gxUXZZSkRVYkNxcmVPZk9NNjJJeXF2NDFlTXRLVEJmRXB5d3RfQzZscDNFUjBXX2xmMmVJUTRXeXJsUnRzalR3QWtOaVZldENHblZSajVWZDVBRm9neE55bEdSSkZ4?oc=5"
             }
         ]
     },
     "Strategy": {
-        "last_updated": "2026-09-22 02:04:00 UTC+08:00",
+        "last_updated": "2026-09-23 00:38:13 UTC+08:00",
         "changes": [
             {
-                "title": "Michael Saylor\u2019s Strategy buys Bitcoin again as surprise rally pushes price above $85,000 - Fortune",
-                "date": "Mon, 21 Sep 2026 17:05:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0RWYm1hVnhMWF8xaEt0X3dLNl9QNDdtMVliOTdYVFU1M3RUc0xCamlSeEZRMzEzRTc0dWc5R2U4V21wanBFSkZPaWpFVGIxNjZZSHdyajBjMHhuTFI3RmRYMy1sUF9MVVQzMS11RnB4ZWlKNFlWRmVPRW84ZDF5Rk5zaXVHdXJlbHBoR2tlYmgyZ2U4S0E?oc=5"
+                "title": "Strategy\u2019s bitcoin holdings reach value of $73B+ - Virginia Business",
+                "date": "Tue, 22 Sep 2026 00:12:48 GMT",
+                "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xMnlqVUJDQjgwZXRBeFZoZEU2SlRpcks4SDhNdXRfUEJWWFVDRTlEeFFHbkJaTUNUZGUwNDJYQUhoVWptUnQ5R1g3c1lqaGRwNkpRQlVZY0xhQ0N5Q0wtUmgzR241RTVaMUNCXw?oc=5"
             },
             {
-                "title": "Strategy Buys 950 Bitcoin for $75.7 Million - Quiver Quantitative",
-                "date": "Mon, 21 Sep 2026 12:23:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGF0eGkxWlp4ci1MVmoxUFBEbTVaaVdDY1l3ZGF2bUk0c3Zjd0UwNjM5M1NFdEYwX1l4XzdobTRVR2NyR1V1UmdMVlAyTXlUMlRxTzVRZ0EwaG1PdUNqVG40bFMzRDJwNmFORUxoNHNCQUQ3YWVTMjFTeUE0ckJmaXprc2I?oc=5"
+                "title": "Bitcoin climbs above $86k as Strategy buys more coins - Investing.com",
+                "date": "Tue, 22 Sep 2026 16:01:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU45WXNPVGVyZHowakg5ZnNBMnpncUEtaXRvYTVEN0l0bzdOX0E3dG9DLTV1VmR3Zjh3cHdsTGE0MjFNYlU0NmE0SHljcnhkZTlfbGN4VDZIb2NqeURaWVBNRFN3T0N5LXhranprV2wwa2hDRFdvdi1PZlVxTjc0TjZyaVRQWFRKa0tCM04zNDB1dlV5YnpXYkhnNzdXODg5RmVlMFYwOG9PdU1RXzVv?oc=5"
             },
             {
-                "title": "Bitcoin Is at Its Highest Price Since January. Strategy Buys the Cryptocurrency. - Barron's",
-                "date": "Mon, 21 Sep 2026 14:04:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWFlWnNyWnEwU2UtY1dBOTFUdTRYcUZZYm8tY3lJY0p1RG5LUTczdGNOY2N6YnZzTDFQVW9pSG1jUkdTM3duSmJKRjRuQ1ZoQ204VDJUUHdFUVF2c1NJemM4bF9XUVBWanlFQ3dJWlh5bXBYb2YxaTl0X0E0ZXpJQ3VXZkVJSDVoNDlDR1Z3SXNQNW1FdFE?oc=5"
+                "title": "Your Investments Should Have a Strategy\u2014the AI Behind ChatGPT Can Take on Your Stock Portfolio - entrepreneur.com",
+                "date": "Tue, 22 Sep 2026 10:12:26 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnNIUFY1dkhLMjAtYlMwMzQ1aEtINUVxNlpMOEN4b2szQVZXSUZpTFdoOVdZN0NaSmFyVU9JTU1BX3VaWXI3aTE0dXU2bGF2UUxGWXVHZkxjelZwdTktMFM0dzQzSWg4Z18tVm95TGZZVk1aQ19naTNQS1ZwVWNxSl91THpjMWhnc28yYmVqLXFXcVZTcHVGcUJRdklnQU1HN3QycFpDLWVwcmZWbm1oNy1GLS1mUlhlandmaGpkSFpuN01fS0syUmlRZHI4Z0JhbThNbGZxUFltVzZ1WUdMbGNYbnVGQ3l3?oc=5"
             },
             {
-                "title": "Strategy Buys 950 Bitcoin for $75.7 Million, Reaches 846,000 BTC Holdings: 10 outlets compared - NewsCord",
-                "date": "Mon, 21 Sep 2026 17:44:56 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ0d1ejBfN2RXUnEybG41UnYybnNNRXdNOUJ0ZTJCeGpiSU1DM1JJVzNrT25USEZsSFBiaGk4X01ndlFtZ2xWdzVNNkp0SV85c2ZCbFpvZUhXdlZLQ1Y0YXN4Z1dZUFZVSjU5NmtBaGgxVnFfLWtHUExOY2phTU1FTFFGcno3UmtfM3JYVm1iZ1hOVUUxMTJkZGYyOF8yaTk2dTdzT1lWZFBGZ2ctWVQzYkxCcmloU216THozcWxWMjZuT1BFY1dpU3hkWUlLMzBlVm40UUNjZm81dmM?oc=5"
+                "title": "Power Digital Acquires pirawna and uptickk, Accelerating End-to-End Commerce Strategy - Business Wire",
+                "date": "Tue, 22 Sep 2026 13:00:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV1ozcmgxLXg0SzdnTjFjR2RPN3pWZFhDUkVlWmdGLWNKMDRLT3dzbVlHdldPRWFiZFlYeWp4RWlQeFhuT2c0d1ltVTB5NmtSb0dLUUVpSk9nZzR4WjduMGQwNnR6VFFnWEJ0R09aSzNGVkNXMzZhd0JSSnNnUl9qMzNERDJMT3J0YngyM1RBRVJQNG5nZUFkSk9JMUxnYWRTdTRja0pZOGlmV1FRTmRrLW1FZVFjOWNkNlRXOXFxNHdMWFZvdElpbjFraGFXV095VlNLSXlJRmM?oc=5"
             },
             {
-                "title": "Strategy buys 950 Bitcoin for $75.7M after pause - Crypto News",
-                "date": "Mon, 21 Sep 2026 16:12:13 GMT",
-                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51WGJHMWtoWjY0ZlpBXzNfVGxhR0I2UXdDZ3Y2NGZES0M2dUhQTGVUMkJRWkpUS1JWZTJPWWktYnQzUnpwRE9oZThUSFFiRWoya25HaTR4OUJPVkJHT1kyaU9ETGpOQjFCWkZxY3BQT3dZaGNSek9n?oc=5"
+                "title": "Strategy boosts bitcoin holdings and share repurchases - The Globe and Mail",
+                "date": "Tue, 22 Sep 2026 12:59:53 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFpPaFBJZnJ6NkN2Yl9hLWQ4alJObExONFFzQ1R2MlphVHBZMEJSaE04bk5LUm9UTU9UdDR6dkg1UW9sNV93NEtsSElXdWQzY0dHOVJUUlZadHRhcGdmZjlXUTIyN0ZEQUU5RFF6aUNqWHJDUXliTjY0ZDdkTDFCRzRNRkdWM25PbTZ3ZzBUaE01QmVvVmtYVXByd0h6U3JJVk5hcUQ0TVNKVnNFaWxBRWc4UVlYU1R3YUxzM0lBYTRkNFFjY1JBWGR4cWJ5V1NZQWNId2tMZ1k?oc=5"
             },
             {
-                "title": "Strategy Buys 950 Bitcoin and Reaches 846,000 BTC Again - Altcoin Buzz",
-                "date": "Mon, 21 Sep 2026 13:41:19 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQWlNUnZPTFNfNE0wRWJoQ0xlTkIzVnNDVEduWVM3Mjlsemx3bWRWWkNEY2R5V2V5SjVJcG04YXpkOHJvdmpUTmk5VEd3ZWR5Wkppb2xqSXgzYUVmbXBubDZlN1dOVng0MnJlTy1hZW9GVEZ5STl4c2tZNjF2U1NtczZR?oc=5"
+                "title": "CBRE Investment Management Acquires Tenet Equity And Launches Triple Net Lease Strategy With $1.6 Billion Portfolio - Pulse 2.0",
+                "date": "Tue, 22 Sep 2026 01:31:46 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUpoWTVQbnpWdl8yMjJGUUJfa3RNZHZGN3ZyYzVvanVYYkdhV0RHZlJYaHNKbkJsb2lheWk2aEs5Mm1GVGo4WlpYZlJiSHFNZzl0bEYtVlBkUFBxZWc3OTZoTF9KOHdHX3RfTG1GNG9tcW9RaDJqZW54ZnZRR3ppdnZ0RVVFRlRaTzhQOEd2d3pnM3lqVVB5SzFSY3JiZHJjUVIwdXk2clRyOW1NaVhmU1ZadEFRR3pBTFVFbU5SRlpqcFFUdHdjVGdxcU5qQ2fSAdQBQVVfeXFMUDFENHItOHdtZUhuWE5USnlUdUZsMm41VUxreTVkZEdRT0E4SmdVeHRITEJOczExVlRBaFh3eF9JNlFJb29xUjBNVEhiOWh0S2c0bl9HS0VDM2FfWXVlNzBNNG5xTkViaURmWDRhd1BmaUZLNFVYZElZSVI1aXdfbUktMTMwb0Q1emItRG1ndEU4MDROSTlhRnBYLXUwVW9jWXM3SWJsX0VQX2Rid0JxTmtfVndlckNtMnFMSWt6a0F3R0QxQWFuS0kxUGlXZE1qbm91NE4?oc=5"
             },
             {
-                "title": "Bitcoin Is at Its Highest Price Since January. Strategy Buys the Cryptocurrency - Moomoo",
-                "date": "Mon, 21 Sep 2026 13:17:39 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTExlVGdBUmRDMWhmQzFlbWExQ3F3Rno1M1VJQTZNV3F0YjRiMm5ZYmt2NzV3R1ZSd2d1T2MzbFBpNDFzYV9KSkRGOG81NGdFcG5jc2hleFV2ZXM4Qk14ZFk0UnpGbGNRXzktSWZXVmtVTHphQ0R6dGptU0FGejdBYlRCX3gyT3ZhQzgxOW1TNHJPMXYxREx4WWJZdzFwN3NySmhJ?oc=5"
+                "title": "Why Strategy Stock Surged Today - The Motley Fool",
+                "date": "Tue, 22 Sep 2026 00:03:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWWEIxcHhNb3hLMUFZSVFLUG9nb1d6aGlGN253am5wUUdZdzI3eHVBdUlWOFdKT19DekJmZnViN1c5MXNOQkxDdFNpVTJLSlI5eWJ4ckl5MldFdl9vQTlqTm44bXdPNEpJYzh1dUZoclRISDNKS1hGRXBaNHRCTDA?oc=5"
             },
             {
-                "title": "Strategy buys 950 BTC, shrinks STRC with $174M buyback - Seeking Alpha",
-                "date": "Mon, 21 Sep 2026 12:46:36 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlNyYll6Z0lkTDhrZ1I1YXY1bjI0MGF3Qzljbk5yZG90NzUxZkNhbTVmV1k4ajFzVWp1NUZ5cWQ3WnhOckRmeFVXdjBfNWhsYmVvZldCRjRNYjd4Y1hqd2Z1LW9VOWRwLW5LZ1dZNWlXVExSYUhTMllUZVFXRVBaT0U4VW1ZTllsT2x3UUpDb0VWZjZW?oc=5"
+                "title": "Strategy Buys Another 950 Bitcoin As Holdings Reach 846,000 BTC - TradingView",
+                "date": "Mon, 21 Sep 2026 22:30:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmQ4S21SMnk3XzdkRmJOZ2Z3NFZTUG9wMkhyckk4cEt4UzdhQXJhVnZ1RERoZHk4Wk9salc5b0tYWXdGUlBBWW91Nmp0c2k0S0hOMndaTlQ5NG9Wc2t4Z2E5MDN6TW1UZEFlNHZ0cUFSd2psNW5mcHV6SV9LUWVrUUJ0cjhlWVlfc3pveFdtNWhNSGhzYWlYb3RUU01ScWd0QWdfaXR2a18tdDJjTHJraTRWMnZ3RnVKSXJmQWxR?oc=5"
             },
             {
-                "title": "'A little more orange': Strategy buys 950 bitcoin for $76 million, bringing total holdings to 846,000 BTC - The Block",
-                "date": "Mon, 21 Sep 2026 12:09:48 GMT",
-                "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZm9uaHpLZXVxRmhkY19sek45M3dIRVA2MHZsbGc2SFJuN3hoSlRJbTdqWWY0blh0UUpXWnEzU0VzOUFSS3FXaWpFWUl5bmZXTmJ6dnFMQV96RlNRbHFSWnh5OXRpLWlIUS16aGhqY25ZZ0NjVUxhQWNtTjk3d0RUYUxIb3psSlF3UV9QMTVfU01QcVJ6QTFxTmdXWHdwdDZOamVmcGRUMUJIQy1z?oc=5"
-            },
-            {
-                "title": "Strategy Buys 950 Bitcoin For $76M as MSTR Surges 8%: What's Going On? - Benzinga",
-                "date": "Mon, 21 Sep 2026 15:20:47 GMT",
-                "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2s5bVlid1lYanlqQzFBQmpUcVJWNmp6STcydmZoZUNOcTFicXp3SnFKV2JXcHlneGZvS2R3UlVuOUdKRHFJRnBiUlZmNGxyc3pwZmxjUkk2RVhnQTFBOHc4Y2c5TElKVG9GRkFjWDJlSzRUOV9DYlh0ckljOGFldU1INHZwdldmNFlDY0gydXR3OVRadkFRcHE2RHlvSDg0ZkhpclZZVERqRzZYRUkwb25NWUFhd2JaZWF0ZVA0VHEyUUwwVUE?oc=5"
-            },
-            {
-                "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update - Investing.com",
-                "date": "Mon, 21 Sep 2026 12:19:22 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnEwMWF0NW9pWjQ5TDZiQWw4NlVKWVVSbnFBT3l1eDRILTNnS3BwVkN0RVZiLVVRNGlSUTFPdkQtNFc4bE44Qm9BZG5JVGw3c2NlazcxWWtLdE15YkJueUJqWVBzZFVhZmxXMkRuZ0czMVRGT05USHlFVWhlOExOUkVsMUxyZVBtUWxxNFJXM195MmtyR0xMZXhBQTFJZTV5cXRaRUdBV1hoeFlLUU9sNzVXZ1lOd1lyX2MyOWpjQ2kxdFB3LTI0UkZySQ?oc=5"
-            },
-            {
-                "title": "Michael Saylor's Strategy restart buying BTC - thestreet.com",
-                "date": "Mon, 21 Sep 2026 17:28:19 GMT",
-                "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1RrVHZXNEhrN010N1lZVVVpanhSWk5YdzYxMnMyc2ZHZlBRa1hBeGtHUFBGMXBYcmVuZ2xBeThUY09rc3VZODRsdXY3Vl9kSnVPMGo1aVE0VnBnTDZvSEdQeUVGUFFSN3RFQ1FDcUFaalZmbFhaM0o0NUxOM0lKR0ZJZHAxRjdnUWNBYjB5YXViYl9feDZRUEM3dzZSMHRL?oc=5"
-            },
-            {
-                "title": "ALK appoints Tina Abild Olesen as Executive Vice President for Corporate, Portfolio and Product Strategy - BioSpace",
-                "date": "Mon, 21 Sep 2026 10:09:18 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEw2eXVGTGZ2U2ZRVUtJalQ2S2ZRRmo0cmt1eFVKV1dQMGdXcTliNGprYUZqemVhTjBlVVEwVzVmdGpuRGtESWNyQXl2Q1RRZTg2ai1GT010UmpueFRHWkRRMTNCT2ZoWm9IbHgxZG5kNHVJWFg5WFprdmwyQmR3X3lxWlk4c2YyaDRJa1FJTW9uMUxLOWVKcW5CUnZ4WTdSSkdyaDdsR2NIM2o5VGRUYlV5LVRUQ2h4V1hBNkpETWVLVFZxanU3XzRQeC1sN21IVE5xMDhWblZYX2s?oc=5"
-            },
-            {
-                "title": "King & Wood Adds Singapore Office To Growth Strategy - Law360",
-                "date": "Mon, 21 Sep 2026 13:57:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFZJa0dDNTNmYVlPem4yaUxZNUl3UGEtTmtqUzNVOEhwYlBzME1RQjR3cFltM0ZUVWt3SVFmM3ZLRkxQZkxkNk5sd2JQVFlJX1BWZ0tLeU9ncU9OeTVaZURweHdnaWdxRml4S1ZSc2FRb1Exb183SUlxanBTT01FWHV2LVdmcTFTd2M5MktfOS1PYXNN0gFWQVVfeXFMTURfUE9rRl9qOEFZc1U2R2dKMzhnS1lfVG9FVVlRNDd3enV5aER3azZlMzZZeUozV2ZqWnlXdjhQamlveklwTlNJNDBOcmdLbHZhZnlkZkE?oc=5"
-            },
-            {
-                "title": "Strategy Buys $75 Million of Bitcoin As Price Rallies - Yahoo Finance",
-                "date": "Mon, 21 Sep 2026 13:43:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnp3RzZnamxrWmNrckZKUFhwbnFoSEQ0OFIyREJ2OVBLNS1OY0tiU0o4UEJ5ZFhVcjA2RU9PcEVzVjdYV212c3gwc1plNUxEbzhqZWQyU0lDM2g4SkQtVmItVXU3dUNLdE5fTXRvSWo2QmlKcVpRSGdiTlVWNUlPVmxGR01xaUhPM2FXUkFqREZHdlhsQlVZRmExYjZoUQ?oc=5"
-            },
-            {
-                "title": "Strategy buys 950 Bitcoin after two week pause in purchases - Crypto News",
-                "date": "Mon, 21 Sep 2026 13:17:38 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUZyTE02RWcwd1NNOE5YRXFESEhjNlFzZjFnN0FpWlZNNlhKU2VXeG9xRWRCUUNybTZLRW90emxOTjZDcHNJYkMyVFpuakZZWGxQb25xTkI2T0Q0RGlLSmpnbWhCSGdFTmY4THZ3TDFxenVsMTRDZldQMUhLVkVvSVZFVzZ4Zk0?oc=5"
-            },
-            {
-                "title": "Hamak Strategy Sells 8 Bitcoin for \u00a3482,516 to Fund Akoko Gold Project and Reduce Debt - Yahoo Finance UK",
-                "date": "Mon, 21 Sep 2026 06:48:45 GMT",
-                "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFF2UnpnQ2xWOXdfNmVJTDZYdTFUOW5qbldBSElRUVZhRG5RQ3VJdzl4SDUzU1VlYTBFa2lMWHJKdGdfdXpWRnRmRDdTMnNBMzF2TzRSMGJ3aFhpazdmcUNUdVAybkZnVng5eW0yb0p2WWVoNWluQ2h0QmN5OUg5WU9vbjdIZw?oc=5"
+                "title": "Strategy Buys 950 Bitcoin for $75.7 Million - The Globe and Mail",
+                "date": "Mon, 21 Sep 2026 22:26:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTJQNnplak5vSkFFT242LVpoS0xIUWVlaVNTbVBNUVdEbDZ3OFRxb1BuRzg1VURuOXM3ZlJoc0FIbWZPUXhpeHZpNnliRG5EeUlUZjZGN3lwMEZ4b20xaE9NTjZqZzN2MmFBY25GR0x5OGNBcnVyZ0RnanZYTkZnVjhlZG83MDVPdHI3QUNlNk9GWl9MVmdGclZtdVZxUFhseFpiMjVZVzd3Mk4wRlJTOUhFQ2tzX0NaMTQ2WHZhNzZrTFB0UmZBTg?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-09-22 02:04:05 UTC+08:00",
+        "last_updated": "2026-09-23 00:38:19 UTC+08:00",
         "changes": [
             {
-                "title": "Billionaire Warren Buffett once called Berkshire Hathaway the \u2018dumbest\u2019 stock he ever bought - Fortune",
-                "date": "Mon, 21 Sep 2026 15:02:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaGVBa2JYNFlIQ19OY2oySHp2YmJWLUVoV2g1MGdLand1NlZiVXRoVGtBVUc1SFQxWnlfZ2ZwTUtJc1RVdGJkcWMtMC1fY0Jndm14YXhhTjJTWm5DWlFMUXREZHFXOVZhbzVNWElERVVBd3VoTXZzcUc5T0xKcVcyUlBxcFpTaTNpRE9nS004QWFqZ0xBOGVNVGdRa0xxbU9rVU4tTkRHWUtabS1FWXI4YnlHZXhwSDBZSHpkRy1fTnFwNFFLNmUyaW5rSFdmY0F0Xzhyd2Y5UExTWkRvMG4tRWFCRFZRVlVFWWc?oc=5"
+                "title": "What Makes Berkshire Hathaway (BRK-B) a Strong Investment? - Yahoo Finance",
+                "date": "Tue, 22 Sep 2026 15:11:01 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRXh6NHdxbUlSYTNQSi1Gc1NscDRoeXlKV0paT1pYOEU3Vl9GeG5qNEF1Z2paSXZWWWh6cnV0SFl6aXpxQkZQU1pfWGlLeVh2cGNFVXFEVXB0dG9rYUg2NzFFX0hhOEY4YXVrTVVRMlJPUC15VDFISlV3Y0U1NEFvc2pOeUNEQnE1dmw2QjMtXzd0N2hEMUhlak9UYw?oc=5"
             },
             {
-                "title": "Warren Buffett Just Released a Farewell Letter. It Contains the Most Devastating 4-Word Piece of Investment Advice I've Ever Heard. - Yahoo Finance",
-                "date": "Mon, 21 Sep 2026 09:11:00 GMT",
-                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGNMSzBwb2Q0RnR5MC1nM0FZREk2Z1ZxYUxsOVBLYnJJZ2JOYmgxbi1vVlp6dkpTT1lOVEluR25RMXRGbjBrZ1Y2V2U2Rm9SMUpFRkYtUUJveWFkcmZ1Ykk5UXB1cjI5Y0E2ZTFGT3dKdmsyT2xmRmFzR1Ytd3VLRmgzLU1rZ3NmT3FvR25mZE9qa2N5NlhUSm5pbEpjZ2NqUGQxRg?oc=5"
+                "title": "Lennar stock jumps after Berkshire Hathaway raises stake - TradingView",
+                "date": "Tue, 22 Sep 2026 15:13:28 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWEozNWhUWXBDMUpiU2RuRHk4UTlpMzdmN2tTbjU2OExWZG1UX2ZtU3FVRl9NS29hR1pOOG1qQk0wWWFvaEg4T3VSZV94Z2FES0FKaDcySHdKZmFwRnZaYXp1dG03OU44T3FMcjMybHBrNUVIQnBCQnAxSGVzREYySGw0eHdBSWFyTEw1bTZYT3ZCUzFtVktmVFhhbm05VlFTMmxkSFRfeXZrNEMtSE5LZDIwSEVjVUxHQ3Zn?oc=5"
             },
             {
-                "title": "Warren Buffett Leaves Berkshire Hathaway: 3 Rules to Copy the Oracle of Omaha\u2019s Investment Style - Benzinga",
-                "date": "Sat, 19 Sep 2026 17:00:15 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcjFkVGdiQzlXMFFaZFN5endPS3czSGtOR3ctbTdXVHRTYkxHWEo3NGNuaTBDQVdESGo2Vzk0MkJXTnFkX3JLczU3YU1JcDhpZVdUclRzSnBjM1ZkNy1sX1A3R0Nhcnh3X0gzUmhTWDRUTnhfRndQcWs1SzRSOUFFVzVUeFlHVDVLQV9BNG1qdWFpU2JFRm5ZZXdTR21rcHFTdm91TzNsUDFCWTBWVUIwbmhXWUgzZ280QzBvS09OdmJfZHUwQXZqd19sM3hHS19HVGdpN3EwU05pN2RHQkd2VFpYWmdNUlNrODFXUzhzOS0?oc=5"
+                "title": "Berkshire Hathaway boosts Alphabet stake 83%, s... - Pluang",
+                "date": "Tue, 22 Sep 2026 14:55:11 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1E1NW01VmVoN0tEMUNTN2hhdnNubWNpUWdhX1JBbVMxYzdmQm00Y2pVMVIyeHNBNEdLckd6TGd1Szc5aHdPWExTQ29zdVR5TEo1QzM0cVQ0WE1ZbXRRa0ZucTd0QjNwUHVLcDE3NU55VlRIM3lmSm13TGczcFB3Wm5hTVUtaG84SlN3ZWcwa3lKM2RORnlNOE1nWENMUTlOWEFzWERnMFM?oc=5"
             },
             {
-                "title": "If You Invested $1,000 In Coca-Cola Stock When Warren Buffett Did, Here's How Much You'd Have Today - Benzinga",
-                "date": "Sun, 20 Sep 2026 20:00:06 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSTZEMS1HZTliLWgtYjREaFQ4S09FRkxDUEhUbkNnWnNQODlGUG5rdmt3RXFTekZ3amxOck9VWTBmV19WQjA5SkxieHVjamxnQTYwODdsYzdURnZnT0paMjVDb05TNXVoeG9va2dQM1MzNHduUjF1SzRUZXM2ZEpYQXRsRHppLTRqS3poMWJhVUdfV2ctRXhjYk50QlRSTGYzNHdxVG9zS01tVWNIWXlMNHE4ZTNzOXQ1NkRpQVFtUGZHVzZ5alJtYlJ4bFg2TC04X2JYTUZqb3hOWHlCeVJ6RFlQeVRkZFRMRUZDd3dLZ1pXUnM?oc=5"
+                "title": "Berkshire Hathaway stock adds Lennar stake as shares slip - AD HOC NEWS",
+                "date": "Tue, 22 Sep 2026 10:09:06 GMT",
+                "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3c5d3VSQ09tS25NWmVSQ3VLYTlLRmF3akQ3Y3JPMi1sSzlPcUZPZ3dELXBuNk9IS09ZWk5kYnlHRHpmRE5nVkJBYWxwTHNYckhwTjdCbGxFWGNsbGlpU2Y4UUhxa2xzbUU2YTRlSnZhZV9FSDk1X1Y2TzlDNXVzZDBMRm4tbTdVQzZsTy1IbnZ3Q1RBTjA0T014VVBHOVVNbzhOWGFmbUhpX251NWtCaHFwLTd1QXlJeHd3cQ?oc=5"
             }
         ]
     }

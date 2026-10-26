@@ -1,53 +1,92 @@
 {
     "Polen Capital": {
-        "last_updated": "2026-10-25 23:49:51 UTC+08:00",
+        "last_updated": "2026-10-27 02:30:11 UTC+08:00",
         "changes": []
     },
     "Fairfax Financial Holdings": {
-        "last_updated": "2026-10-25 23:49:56 UTC+08:00",
+        "last_updated": "2026-10-27 02:30:17 UTC+08:00",
         "changes": []
     },
     "Markel Group": {
-        "last_updated": "2026-10-25 23:50:03 UTC+08:00",
-        "changes": [
-            {
-                "title": "Markel Group Inc. (NYSE:MKL) Stock Now Rated \"Hold\" by Sell-Side Brokerages - MarketBeat",
-                "date": "Sun, 25 Oct 2026 06:51:18 GMT",
-                "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczJlNTNoZEZFMDZUX01PZjlURW8xOUpfdHE5Y3AwRG1MOGI0UUFTTFJObzZ4SllQMUFxbXdkVy1nTzcxYWJldXhxcEV1MGJzUEtENFhZZGxkcC1FM2RoeE9BR3RTZ19VNUFUUWQwejZ4TVRnSFRrZE54QmROM08wempZb3lEX1h3a1BiMUc1Rnd5VkdfNkN6Vl9Cc1N1TTh5Tl9TZERLYi0yd1ZSdHJBczMtVkdCSU1TUTVIRHdpWHc4RWg5TmZnLVVzM2dBTG8?oc=5"
-            }
-        ]
+        "last_updated": "2026-10-27 02:30:22 UTC+08:00",
+        "changes": []
     },
     "Pershing Square Holdings": {
-        "last_updated": "2026-10-25 23:50:10 UTC+08:00",
+        "last_updated": "2026-10-27 02:30:27 UTC+08:00",
         "changes": []
     },
     "Strategy": {
-        "last_updated": "2026-10-25 23:50:17 UTC+08:00",
+        "last_updated": "2026-10-27 02:30:32 UTC+08:00",
         "changes": [
             {
-                "title": "Oklo chief strategy officer Goodwin sells $66,367 in shares - Investing.com",
-                "date": "Sun, 25 Oct 2026 12:14:30 GMT",
-                "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzhHQThfbHNGcVJCeTNtMHhPQXg1b2Z6dFV5WjA3S0o3dmZXSG01ODJkVmlSaVo5Z09JbldHSEF1YWR1N3RfcmJuNy1SM1hNTFA3QUZqZ2ZNREtqaDRVcVJvaVV5YXpaVDA4bGJFSWdIRlNjWk5hejdfVGp2QTl6OGRMNlNsQWFBZDl4eHU2RkxRLWtfcE9fS2dicl9JeHFzZGl0TkI0cW4xSXdCd055UlNjbkNCZDc0aV9uNENPUQ?oc=5"
+                "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked - TechCrunch",
+                "date": "Mon, 26 Oct 2026 16:49:42 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2pOYXpaOW03X0lrN3B2Yzgtby1PZkg2MEdhRlZrcHVLWFUyd0RDSXU4aTllRXZwek01S2pRdFZRVWtyQzZNRXhNOGdXbG82UDJxZ2JlWmZJdlBBYlczM00wLXBfQkt1MEFkdFM1R3VZU1lhaFYtMkFvZEhPSGdPWHZfUjZ5dy1ZTk5kcEdjNGs2MlVDSE1heTJnRTZSb3pvZllLbzlxRTJiaE05ZGF2TFEzaS1xVXdE?oc=5"
             },
             {
-                "title": "Strategy Adds 267 Bitcoin, Lifting Holdings to 848,517 - tokenpost.com",
-                "date": "Sat, 24 Oct 2026 12:21:28 GMT",
-                "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xTUxhNldmNmdSWWJINU9obmVfem02QWNrNU5jMFkyZ2lXYWVfVm9GNGV3OEdsMk1MWWtCVHVlUXpYVTR3ZnE5c3kzUTZKWHEzTlJtRk9oeTM?oc=5"
+                "title": "Strategy pauses Bitcoin buys as STRC repurchases reach $205 million - Crypto News",
+                "date": "Mon, 26 Oct 2026 15:21:49 GMT",
+                "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10Mnc4NHNmY2JtODBWZlAtZE9tTEk1MTc4XzctSnE4LVRmOVM2ZUYxSVRoTUxXYlZCV0dBQlRXeS10b0s5VVJxenlrMzlfMHNBdUtXTlFkbldZRTN6U29ENHdXdVByaEV3WEEwWWVNZzVHLWhNX2Uw?oc=5"
+            },
+            {
+                "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock - Bitcoin Magazine",
+                "date": "Mon, 26 Oct 2026 15:39:53 GMT",
+                "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zck9haW1vSDVmaTZNd0k1eFZkRG4zMnhFX1o4VEdaNUxRdVNieEs4UlVvTWJrdGVBV09KaGhEd0FGV2RlR3g2eWtGRFBUck9TU2FRdHBGcUZSNURfQXBwVGxjRWpDbGxoRXU2aUdiMDZjWVpGRDVtN3ZQM2g?oc=5"
+            },
+            {
+                "title": "Strategy pauses bitcoin buys, repurchases $205 million of STRC preferred shares - The Block",
+                "date": "Mon, 26 Oct 2026 13:23:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRjF5VmpuNkZmdVRUYWozQmlkMHg4a2o1Z2pPZVhZdWZkYnVkOWd5VnFyemw2Xy1sVVNaNXpBX3dhWnlTYkV5T3dTaHpDejg4T2lSUTFWZWhQNV9Pd3h5bmlsTWVUOGdUc2lHV0hya3c1Q2FsN0FZQTVLWmg5TTBzSUNxNTlNWndxek5uVjJ3WmN6TzNKWlQ4WVA4QzloNTF2aGZiQzRnb0Y4dGo3MjEyQnhrazNNUHoyejJlMVR5LVBPQzZ4cjhMM0t5cEhJdw?oc=5"
+            },
+            {
+                "title": "Bitcoin News: Strategy Has $5.1 Billion in Cash to Cover 3.4 Years of Dividends. Could It Have to Sell Bitcoin Again? - 24/7 Wall St.",
+                "date": "Mon, 26 Oct 2026 15:27:50 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWkM5TG1jM0pzZENtdFF0QWdIX0tjRVYzVFVDUFZRT3Y3N2FkUlJuVzk0TTlVd3lIUW5ibGpXQUxFd0lET0RsaENic3hYZ3hRU2dOVVpKRVdFeDVxb3JucDJEelVtWGpnV0FQWHVYb3JSanBqWkVOVUlIekNpeFVUc3ptdENES08teHZwU3REc3pnOGZaamRnUVJaZ0ZCOXJUR0pLa3MzazFVNmF6OENKMkhLcTV4UzZZdGQ3ZUs3LUxpRldRc0Q0N0hLWXR3X0hTSXhXalNqMkxBY3JZemdnaHZMRVJvSW5USG9WeE0tV0pvdmdGNHZ6X0Z1b1htZ1lQZlE?oc=5"
+            },
+            {
+                "title": "Strategy Buys Back $205 Million of STRC Preferred Stock, Makes No Additional Bitcoin Purchases - bloomingbit",
+                "date": "Mon, 26 Oct 2026 13:01:40 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hR0JxdExaTEEwSGxIb0tLWUVuTkpaTlpJVnFBN29zUFJpY3pxRkRsQ05WamlUR1JZNW1jdnY1cmZtbTg2REFqbDVqV1pJanJCQS05bw?oc=5"
+            },
+            {
+                "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC - Decrypt",
+                "date": "Mon, 26 Oct 2026 13:24:38 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0Q2UlJjTGJuZXdJNkh6WDhWdWU0OGtBNDZxdVJGWV9qVmRkTDFWVXpZSV9KZXVwcUNzRmhQcGJiRkw4b2xmUlV6YUloYmhvTm1wRHFBTUFIWHpCcm5DSVhmbkIzck1VOFBxM0NES3pGSzE4bHNwX2VQZUZ2enhjenRyZmd0bHFCNmxJTlRR?oc=5"
+            },
+            {
+                "title": "Strategy bitcoin purchases shrink as buybacks take priority ahead of earnings - investingLive",
+                "date": "Sun, 25 Oct 2026 21:56:33 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0tjQ18yUXJ5RVRpSVgxdUhrZGR4QXZsYzNtdTJEYlBMSGVQMzZtS0NFcWF3S01GX21XM08xX2JxOGsxUGFLOHNQWW8wSXQ0NjB2UUhWYzZ6WU9VODVtdTdNLTZKeXhWYk1JOWJ0MXdEamdwal83LVh4djdBVDMzV0xZUGJzdXlnUGd0S0g5YktRN0dxY1ZZR29Dcl8xRW1DRjF5NkM5cmhtRGVLSUI5Z2dMc3JTSHpXUGRr?oc=5"
+            },
+            {
+                "title": "Cash flow strategy for successful property investment portfolio - Ticker News",
+                "date": "Mon, 26 Oct 2026 00:04:14 GMT",
+                "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkR4RXcxVW92R0tiQ29FelFiX0FMSjB6N21fTEdfZW45UzJDb0RISVA2TkV2SE9SVDhfTnd4WXR1MGpQTjV0NmJqRTNkZ2ZpVkVaeWNNNVhfUFhIUm5YdkxrNjQ5V0xxT2hSMkQ3R19jallGZzB3bmswMmREbkdDRkhYbkFUZFdxcXZ0UkxkVQ?oc=5"
+            },
+            {
+                "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC - Yahoo Finance",
+                "date": "Mon, 26 Oct 2026 13:24:38 GMT",
+                "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWh4dlQ0ZGFMcjR2VnUtNDF3cGRwejFYS3BZcTlWQ0dLNzhLdG1MaWZMemxQYlEzdXNzc3pEY1ZZSXctcjNoWUVqM3N3OTRZeFFKNUJoWGI0OTRHSElhcnhtSmtxNGRpRnFNRmZ3SUp4eG1HSEdpMGhxeWV6UHlYbFJldzRFeFpBMGEwNWx6NXNTVE9Pa0tRVmJDVkpWLUVHczY5eQ?oc=5"
             }
         ]
     },
     "Berkshire Hathaway": {
-        "last_updated": "2026-10-25 23:50:22 UTC+08:00",
+        "last_updated": "2026-10-27 02:30:39 UTC+08:00",
         "changes": [
             {
-                "title": "Warren Buffett Who? Berkshire Stock Hits Records as These Holdings Drive Gains Under Greg Abel - TradingView",
-                "date": "Thu, 22 Oct 2026 16:17:59 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMmJHeU52U2w0VERBbmNHOVdCQ0ljNEI2MU9hTWx3Y1REWTFzNm5HVnd6clI5ZlM4Ml9kR0hrWnFrV1VtQ1JWYzZTXzVEbGktU2tscWFDV3Y1ZnUtQzByX3gxNkFrREIxU0xtQnBMQlNRYnEzbnFUSXI1VXZ3NUdlX2UxMUxYTk1pdDRpbU9TNnd3T3pKR0NuZjBXb3RYU2YxVmM3YkdYalJ6Y2dic1FTM2RyX0YweW4zQ19GZzJiYUZhM0lGdzV2alJiSWRLRlRKU1VDaXpFLS1zZDdYaXR6cDJXV0NudjA?oc=5"
+                "title": "Warren Buffett Has Called This 1 Investing Decision the Costliest Mistake of His Career. Here's How to Avoid It. - The Motley Fool",
+                "date": "Mon, 26 Oct 2026 08:00:00 GMT",
+                "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX0NKM08wUFFNMFVLYTBvUG5tbllSbVdicVZEbDJKWGxOOXBhWkx6dFU3Wmc3bUJzTnZxR1c3cFlPbktOZzJfWjExWk9XSEZoYldJeGg1X1N1eVU5WGZQbWVXbkFtTldzNVJXTE55VXlTd0k4cGVnUWNCc01NU25GREhKMEthZFJWQjV2cnFlLVZNTjBUZDJqNg?oc=5"
             },
             {
-                "title": "Berkshire Hathaway Stock Hits Record High: $360 Billion Cash Generates Interest Income, UBS Lifts Target to $942,000 - TradingKey",
-                "date": "Thu, 22 Oct 2026 16:31:26 GMT",
-                "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS044V1VralZtM21JUW5uWXpzOVplRFlsUHgxZkZnNEd3QTd1SjFtVXRMb3p1UFpOTXhTYlZnUkdkN09xc1I0VnBBR1JnSzZSR2g0elZkeTBkdGdJSkM1eEZpUjBER0xWemw5UjFFVVZ1SFRERzJfX3ZMdklnSE5yeVFJbUhJdDJVVENKUmxXQ1U3eDEwVmhBbVc4Y3dhOERkR2g0bng1MU0wd1g4R2RELVRfUWc4SGNBUHhZUWlsSUtSVkNFMjdzTm4ybC1UWEpoeDVVTTYyWFBST2RsWEFPVi1QU2xkUW9S?oc=5"
+                "title": "Warren Buffett's biggest investment mistake: How a shoe deal cost him Rs 2 lakh crore in potential gains - Moneycontrol.com",
+                "date": "Mon, 26 Oct 2026 10:27:58 GMT",
+                "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc1FmM19vSkNpQXhqUzNoZ0wzSlI4eklYNFFFUlV4d2pGQkJxYktaLXdtMTJOTUh6RWI3TWo5T0ppelVteVctTlpRQmhMdlNHNTd0QkQyUHo1XzJkdm5BamFFY2sxWEZZVzV6ak9hVlZDQnlBTXFrUVdVakRIcjVQWF91VVJxaUVQaWIxRVNseUh1enFMTTdQQjhjOHZGMFY2SzVpQXpBdXJaNG9SRnRnM0tneUpfdklKM3BUNnpBaFM0cEEyWkZmei03SnpVeVlUM1YwMW9QcTZ3enM3cEF0NkRkYWk3eU9GdDVMVHZjY0JOWG5PZVNYcDV6TmXSAYICQVVfeXFMTmVJVU5Ec3A0M1NpQWRHU1Z4cy1aTEZGZVdtYnBoUy13WXUzU3ltN3luU09sWnBabWtGeHNFNVQ2YTRlamgwVUtEaUtlaE41b3ZZTWpxemRxUmxEelF2dGpzd1o1aHZrcklEdzkycWhndWYxQnprTEpISllyeUpzWGktbkRJMkplckgxYXFCUXJUQTgzWjlqdl84V25ZOV9QWE8xRzdndThNNGpwYnhoZ2h6M3dfejl0YU9IZWNnUnJxeHFUaExHU1hNX2F3UjVEWW5uX0E4NmloUlBncUFEWlJnMTRaNkxrRzh5U1NFSUxUSXFZaGR0TmJfSE5lWXo0MWJB?oc=5"
+            },
+            {
+                "title": "Berkshire Hathaway Erases Buffett Exit Losses as Investors Seek Shelter from AI Stock Selloff - Tekedia",
+                "date": "Sun, 25 Oct 2026 21:22:19 GMT",
+                "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHpwWE9XY3ZPTlB1RGQzRVVQdERud0JacDlvQWdIaGNZUzYwaDV1cTJxaTNYN2taZzVzLVZlWUN4ZFJ6NVdHRk5lNXJtTU0tek0zaXFzWmdvZlljM0dxekVvTzBLZlBJX1pEX1kydXpPQUlURUJQREpIc1Q2THhCRXFFSW52T1lRQjdSSk1IdDFpZEhVOUZ4WWlPbE12QmhmMTRUVjh4czd6RHQtaVEwVWdsN2ZXZlFpVVE?oc=5"
             }
         ]
     }
